@@ -33,8 +33,6 @@ https://bit.ly/34ooolI
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/92
 #EXTINF:-1 tvg-id="" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/91
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORTS XTRA
-https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
@@ -182,46 +180,6 @@ http://178.63.48.23:25461/airmaxtvosn/swApj6Bq3T/31
 http://178.63.48.23:25461/airmaxtvosn/swApj6Bq3T/15
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",VIP : OSN WWE Network
 http://178.63.48.23:25461/airmaxtvosn/swApj6Bq3T/72
-#EXTINF:0 tvg-id="natgeo_hd" group-title="او اس انOSN",NAT GEO HD
-http://fariszah.myq-see.com:8008/live/demo/demo/1933.ts
-#EXTINF:0 tvg-id="NatGeoPeople.de" group-title="او اس انOSN",NATGEO PEOPLE
-http://fariszah.myq-see.com:8008/live/demo/demo/1940.ts
-#EXTINF:0 tvg-id="natgeowild" group-title="او اس انOSN",NAT GEO WILD
-http://fariszah.myq-see.com:8008/live/demo/demo/2253.ts
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="او اس انOSN",Discovery HD
-http://fariszah.myq-see.com:8008/live/demo/demo/1939.ts
-#EXTINF:0 tvg-id="id-extra" group-title="او اس انOSN",Discovery ID HD
-http://fariszah.myq-see.com:8008/live/demo/demo/2307.ts
-#EXTINF:0 tvg-id="DiscoveryLife.pl" group-title="او اس انOSN",Discovery Life HD
-http://fariszah.myq-see.com:8008/live/demo/demo/2267.ts
-#EXTINF:0 tvg-id="discov_sci" group-title="او اس انOSN",Discovery Science HD
-http://fariszah.myq-see.com:8008/live/demo/demo/1947.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",MBC PLUS DRAMA
-http://fariszah.myq-see.com:8008/live/demo/demo/1409.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BBC EARTH AR
-http://fariszah.myq-see.com:8008/live/demo/demo/2300.ts
-#EXTINF:0 tvg-id="WWE.ca" group-title="او اس انOSN",WWE
-http://fariszah.myq-see.com:8008/live/demo/demo/1951.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN DRAMA
-http://fariszah.myq-see.com:8008/live/demo/demo/2266.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN MOVIES 1
-http://fariszah.myq-see.com:8008/live/demo/demo/2257.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN MOVIES 2
-http://fariszah.myq-see.com:8008/live/demo/demo/2258.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN MOVIES 3
-http://fariszah.myq-see.com:8008/live/demo/demo/2259.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN MOVIES 4
-http://fariszah.myq-see.com:8008/live/demo/demo/2260.ts
-#EXTINF:0 tvg-id="OSNYahala.net" group-title="او اس انOSN",OSN YAHALA
-http://fariszah.myq-see.com:8008/live/demo/demo/1297.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN YAHALA 1
-http://fariszah.myq-see.com:8008/live/demo/demo/1931.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN YAHALA CINEMA
-http://fariszah.myq-see.com:8008/live/demo/demo/1932.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN ALFA MUSALSLAT
-http://fariszah.myq-see.com:8008/live/demo/demo/2301.ts
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN ALFA MUSALSLAT 2
-http://fariszah.myq-see.com:8008/live/demo/demo/2312.ts
 #EXTINF:0 tvg-id="ext" group-title="Shahid net",▂ ▄ ▅ ▆☆ Shahid net ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="Shahid net",Shahid Action 1
@@ -707,8 +665,6 @@ https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8?airmaxtv.m3u8
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC5 4K" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="Wanasah" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah FHD
-https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ FHD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="MBC Max 4K" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max FHD
@@ -729,6 +685,8 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:-1 tvg-id="MBC MASR2 4K" tvg-name="AR:MY-MBC MASR ⓶ 4K" tvg-logo="https://www.tv.wataan.com/uploads/2542019-045632PM.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC MASR 2 FHD
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="Wanasah" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah FHD
+https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC FM FHD
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC panoramafm FHD
@@ -755,10 +713,6 @@ https://p-mysat-live.ercdn.net/rotanaclassic/rotanaclassic.m3u8?airmaxtv.m3u8
 https://p-mysat-live.ercdn.net/rotanadrama/rotanadrama.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music
 https://p-mysat-live.ercdn.net/rotanamusic/rotanamusic.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music+
-http://46.60.1.82:8081/live2/Rotana/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
-http://46.60.1.82:8081/live2/Rotana.Khalijiah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd
 https://p-mysat-live.ercdn.net/lbchd/lbchd.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids
@@ -974,22 +928,16 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Alfallujah_tv.png" group-title="قنوات العراق IRAQ",AR:IRQ-Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.satchannelfrequency.com/public_html/wp-content/uploads/2019/04/1-13.jpg" group-title="قنوات العراق IRAQ",AR:IRQ-aletejah tv
-http://videostream.aletejahtv.com:8080/hls/mainete.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/BfsJ7ttKI3s/hqdefault.jpg" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rafidain FHD
 http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-9PgQ5-QkAWM/W28CCThPTrI/AAAAAAAAAj0/Hct_RdDnuiUgZfW10obh2YBZpvBulbEEwCLcBGAs/s1600/Alsharqiyahd_UNI-versityTV.png" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV HD
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="Alsharqya" tvg-logo="https://www.alsharqiya.com/Content/admin-assets/uploads/lives/191968_image_824949_image_Sharqiya_News_logo.png" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya News HD
-http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklistsleng.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="Alsharqya" tvg-logo="https://www.alsharqiya.com/Content/admin-assets/uploads/lives/191968_image_824949_image_Sharqiya_News_logo.png" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya News HD+
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Al_Rasheed_TV_logo.png" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rasheed
 http://livedroos.com:8080/live/alrashid_1mbps/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1272173228010672134/dRdhKXXL.jpg" group-title="قنوات العراق IRAQ",AR:IRQ-AL amsar
-https://master.starmena-cloud.com/hls/amsar.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Zagros_TV_%28logo%29.jpg" group-title="قنوات العراق IRAQ",AR:IRQ-AL zagrostv
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA.jpg" group-title="قنوات العراق IRAQ",AR:IRQ-الفرات
@@ -1005,7 +953,7 @@ https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe0
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJwxYKywQhwa3bhIVLrpJJ_xG8AWZaVSCTi0VZp4oQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA الفضائية
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/49cd44a03dc4e783d1d2b859f5524e8e.sdp/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="قنوات العراق IRAQ",AR:IRQ-MBC IRAQ HD
-https://shls-iraq-prod.shahid.net/iraq-prod.m3u8?airmaxtv.m3u8
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJz40ZMPWHnZyl5zLMYLRe1ZfekEM4EOFJM8U_BZ=s900-c-k-c0xffffffff-no-rj-mo" group-title="قنوات العراق IRAQ",AR:IRQ-AL Ghadeer
 http://178.162.140.90:1935/live/alghadeer/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtolive.com/wp-content/uploads/Al-Maaref-TV.tvtolive.com_.jpg" group-title="قنوات العراق IRAQ",AR:IRQ-AL Maaref
@@ -1022,9 +970,9 @@ https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF:-1 tvg-id="" tvg-logo="https://gulf365.co/content/uploads/2019/09/02/ba541d952e.jpg" group-title="قنوات العراق IRAQ",Al Shaaer
 http://nl.live21.ir:8080/hls2/alshaaer_high.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" group-title="قنوات العراق IRAQ",Al Summaria
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" group-title="قنوات العراق IRAQ",Al_summaria TV
 http://iptv--iptv.repl.co/Arabic/Al_summaria
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" group-title="قنوات العراق IRAQ",Al Taghayer
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/CsLGa1AYe2A/maxresdefault.jpg" group-title="قنوات العراق IRAQ",Al Taghayer
 https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8?airmaxtv.m3u8
 #EXTINF: tvg-logo="https://arabi21.com/Content/Upload/large/220182714513627.jpg" group-title="قنوات المصرية Egypt",▂ ▄ ▅ ▆☆ قنوات المصرية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -1048,22 +996,6 @@ https://p-mysat-live.ercdn.net/alhayat/alhayat.m3u8?airmaxtv.m3u8
 http://mysat-live.ercdn.net/alhayatdrama/alhayatdrama.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1176_1.png" group-title="قنوات المصرية Egypt",Cima
 https://p-mysat-live.ercdn.net/cima/cima.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/SseogVL3A_U/hqdefault.jpg" group-title="قنوات المصرية Egypt",Nile Family
-http://46.60.1.82:8081/live5/Nile.Family/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/ASWDTvBB334/maxresdefault.jpg" group-title="قنوات المصرية Egypt",Mazzika
-http://46.60.1.82:8081/live5/Mazzika/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.video.wataan.com/uploads/24112016-100836PM.jpg" group-title="قنوات المصرية Egypt",Cairo Cinema
-http://46.60.1.82:8081/live5/Cairo.cinema/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/bPQ4DTv6-bQ/maxresdefault.jpg" group-title="قنوات المصرية Egypt",Cairo Drama
-http://46.60.1.82:8081/live5/Cairo.Drama/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1176_1.png" group-title="قنوات المصرية Egypt",Cima
-http://46.60.1.82:8081/live5/Cima/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://nl7za.com/wp-content/uploads/2020/05/Frequency-Channel-Panorama-Drama.jpg" group-title="قنوات المصرية Egypt",Panorama Drama
-http://46.60.1.82:8081/live/Panorama.Drama/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.cimaclub.watch/uploads/thumbs/1f0798be9-1.jpg" group-title="قنوات المصرية Egypt",Panorama Drama 2
-http://46.60.1.82:8081/live/Panorama.Drama2/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AATXAJya9YmwxvkoENOyNhiTwcP0OaZK4Haod91Tkw=s900-c-k-c0xffffffff-no-rj-mo" group-title="قنوات المصرية Egypt",Panorama Food
-http://46.60.1.82:8081/live/Panorama.Food/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="CBC sofra" tvg-logo="https://storage.googleapis.com/cbc-sofra-assets/images/sofra-logo.png" group-title="قنوات المصرية Egypt",CBC sofra
 https://p-mysat-live.ercdn.net/cbcsofra/cbcsofra.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dostor.org/upload/photo/news/306/1/600x338o/227.jpg" group-title="قنوات المصرية Egypt",Extra News
@@ -1078,24 +1010,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alfath.helool.net/images/d2-logo.png" group-title="قنوات المصرية Egypt",Fateh TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1265430996884901888/mjiu8pFa_400x400.jpg" group-title="قنوات المصرية Egypt",Al Nahar TV
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tunisvista.com/medias/al-nahar-drama-tv-live-online-streaming-egypt.png" group-title="قنوات المصرية Egypt",Al Nahar Drama
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",kahera+
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",AL dream2
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",PANORAMA FLIM
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",TokTok
-#EXTINF:-1 tvg-id="CBC sofra" tvg-logo="https://storage.googleapis.com/cbc-sofra-assets/images/sofra-logo.png" group-title="قنوات المصرية Egypt",CBC sofra
-#EXTINF: tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/eg-nile-cinema-1127.jpg" group-title="قنوات المصرية Egypt",NILE CINEMA
-#EXTINF: tvg-logo="https://i.ytimg.com/vi/SseogVL3A_U/hqdefault.jpg" group-title="قنوات المصرية Egypt",NILE Family
-#EXTINF: tvg-logo="https://postt.cc/wp-content/uploads/2019/10/2362-4.jpg" group-title="قنوات المصرية Egypt",NILE Drama
-#EXTINF: tvg-logo="https://www.video.wataan.com/uploads/24112016-103820PM.png" group-title="قنوات المصرية Egypt",NILE LIFE
-#EXTINF: tvg-logo="https://gulf365.co/content/uploads/2019/09/20/23bca3d6ab.jpg" group-title="قنوات المصرية Egypt",Nile Sport
-#EXTINF: tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEPAoMwIc1OTIrtV7u3LPM-tyaSyW-jBoQhA&usqp=CAU" group-title="قنوات المصرية Egypt",MELODY CLASSIC
-#EXTINF: tvg-logo="https://1.bp.blogspot.com/-eh6gJyQsQ_I/UbvJPrcrfYI/AAAAAAAAAms/-uMWBYMt1qg/s1600/images.jpg" group-title="قنوات المصرية Egypt",NILE COMEDY
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",dream2
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/77/4e/04/774e041ca3209a4f3449c868106e35e7.png" group-title="قنوات المصرية Egypt",CBC
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",CBC_Drama
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",kahera_nas.isml
 #EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://www.video.wataan.com/uploads/1052018-054720PM.png" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://tvfcdn.com/big/alaoula-maroc.jpg" group-title="MAROCCO قنوات المغرب العربي",AL_Aoula_InterTV
