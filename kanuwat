@@ -685,6 +685,8 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:-1 tvg-id="MBC MASR2 4K" tvg-name="AR:MY-MBC MASR ⓶ 4K" tvg-logo="https://www.tv.wataan.com/uploads/2542019-045632PM.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC MASR 2 FHD
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="قنوات أم بي سيMBC",MBC Persia
+https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
 #EXTINF:-1 tvg-id="Wanasah" tvg-name="AR:MY-MBC Wanasah FHD" tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah FHD
 https://shls-wanasah-prod.shahid.net/wanasah-prod.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC FM FHD
