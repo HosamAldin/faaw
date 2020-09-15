@@ -676,7 +676,7 @@ http://161.97.101.27:25461/live/stream/stream1/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://www.gobx.com/wp-content/uploads/2016/08/MBC-Variety.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC VARIETY HD+
 http://178.63.48.23:25461/airmaxtvosn/swApj6Bq3T/15
 #EXTINF:-1 tvg-id="MBC Bollywood 4k" tvg-name="AR:MY-MBC Bolleywod HD" tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod FHD
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8?airmaxtv.m3u8
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="MBC Drama 4k" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://alnahdanews.com/uploads/images/2020/06/E85Zu.jpeg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama FHD
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-id="MBC PLUS DRAMA 4K" tvg-name="AR:MY-MBC Drama  Plus HD" tvg-logo="https://tvfcdn.com/big/mbc-plus-drama-hd.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama  Plus FHD
