@@ -264,6 +264,8 @@ https://cdn.alarab.com/h264/153438_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/154291_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E01
 https://cdn.alarab.com/h264/158933_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E02
+https://cdn.alarab.com/h264/159103_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 1
 https://cdn.alarab.com/hdiphone/127884.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 2
@@ -408,6 +410,8 @@ https://cdn.alarab.com/h264/156972_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158897_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E01
 https://cdn.alarab.com/h264/158911_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E02
+https://cdn.alarab.com/h264/159078_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E01
 https://cdn.alarab.com/h264/157168_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E02
@@ -566,59 +570,62 @@ https://cdn.alarab.com/h264/153213_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153373_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E09
 https://cdn.alarab.com/h264/153544_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S03E01
+#EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E01
 https://cdn.alarab.com/h264/152001_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S03E02
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E02
 https://cdn.alarab.com/h264/152000_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S03E03
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E03
 https://cdn.alarab.com/h264/152002_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S03E04
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E04
 https://cdn.alarab.com/h264/152003_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S03E05
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E05
 https://cdn.alarab.com/h264/151575_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E6
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E6
 https://cdn.alarab.com/h264/151577_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E7
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E7
 https://cdn.alarab.com/h264/152006_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E8
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E8
 https://cdn.alarab.com/h264/152007_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E9
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E9
 https://cdn.alarab.com/h264/152008_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E10
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E10
 https://cdn.alarab.com/h264/152009_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E11
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E11
 https://cdn.alarab.com/h264/152012_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E12
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E12
 https://cdn.alarab.com/h264/151574_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E13
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E13
 https://cdn.alarab.com/h264/151573_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E14
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E14
 https://cdn.alarab.com/h264/151579_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E15
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E15
 https://cdn.alarab.com/h264/151523_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E16
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E16
 https://cdn.alarab.com/h264/151668_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E17
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E17
 https://cdn.alarab.com/h264/152010_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E18
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E18
 https://cdn.alarab.com/h264/152218_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E19
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E19
 https://cdn.alarab.com/h264/152369_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E20
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E20
 https://cdn.alarab.com/h264/152516_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E21
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E21
 https://cdn.alarab.com/h264/152667_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E22
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E22
 https://cdn.alarab.com/h264/152826_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E23
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E23
 https://cdn.alarab.com/h264/152955_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E24
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E24
 https://cdn.alarab.com/h264/153274_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E25
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E25
 https://cdn.alarab.com/h264/153268_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E26
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E26
 https://cdn.alarab.com/h264/153442_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام 3",التفاح الحرام 3S31E27
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS31E27
+https://cdn.alarab.com/h264/153587_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E01
 https://cdn.alarab.com/h264/153587_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 1
 https://cdn.alarab.com/h264/151632_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
@@ -994,6 +1001,10 @@ https://cdn.alarab.com/h264/157024_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/157151_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 18
 https://cdn.alarab.com/h264/158935_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 19
+https://cdn.alarab.com/h264/159102_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 20
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 1
 https://cdn.alarab.com/h264/151830_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 2
