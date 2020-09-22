@@ -17,6 +17,16 @@ https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2020-09-13/vidO8izRZ3EYm.smi
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2020-09-16/vidHyz5QNvXqr.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",المنصة الحلقة S01E09
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2020-09-17/vidcHq3N24dMT.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",المنصة الحلقة S01E10
+https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2020-09-20/vidmTOoA3NrhK.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",المنصة الحلقة S01E11
+https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2020-09-21/vidsTydNUJf3n.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",المنصة الحلقة S01E12
+https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2020-09-22/vidR5SUqDgQpX.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",المنصة الحلقة S01E13
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",المنصة الحلقة S01E14
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E01
 https://cdn.alarab.com/h264/158895_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E02
