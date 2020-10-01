@@ -357,9 +357,9 @@ https://cdn.alarab.com/h264/158971_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E04
 https://cdn.alarab.com/h264/159128_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E05
-
+https://cdn.alarab.com/h264/159277_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E06
-
+https://cdn.alarab.com/h264/159441_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E07
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E08
@@ -429,10 +429,24 @@ https://cdn.alarab.com/h264/156854_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/156972_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E30
 https://cdn.alarab.com/h264/158897_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E31
+https://cdn.alarab.com/h264/159074_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E32
+https://cdn.alarab.com/h264/159232_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E33
+https://cdn.alarab.com/h264/159376_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E34
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E35
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E01
 https://cdn.alarab.com/h264/158911_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E02
 https://cdn.alarab.com/h264/159078_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E03
+https://cdn.alarab.com/h264/159234_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E04
+https://cdn.alarab.com/h264/159377_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E05
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E01
 https://cdn.alarab.com/h264/157168_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E02
@@ -466,8 +480,21 @@ https://cdn.alarab.com/h264/159116_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E16
 #EXTINF:0 tvg-id="avi" group-title="مسلسل في السراء و الضراء",في السراء و الضراءS01E01
 https://cdn.alarab.com/h264/159068_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل في السراء و الضراء",في السراء و الضراءS01E02
+https://cdn.alarab.com/h264/159221_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل في السراء و الضراء",في السراء و الضراءS01E03
+https://cdn.alarab.com/h264/159359_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل في السراء و الضراء",في السراء و الضراءS01E04
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل في السراء و الضراء",في السراء و الضراءS01E05
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل في السراء و الضراء",في السراء و الضراءS01E06
 #EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E01
 https://cdn.alarab.com/h264/159079_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E02
+https://cdn.alarab.com/h264/159237_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E03
+https://cdn.alarab.com/h264/159379_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E01
 https://cdn.alarab.com/h264/154125_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E07
@@ -482,7 +509,7 @@ https://cdn.alarab.com/h264/158974_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E05
 https://cdn.alarab.com/h264/159127_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E06
-
+https://cdn.alarab.com/h264/159275_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E07
 
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E08
@@ -496,6 +523,15 @@ https://cdn.alarab.com/h264/158550_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158894_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E02
 https://cdn.alarab.com/h264/159043_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E03
+https://cdn.alarab.com/h264/159203_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E04
+https://cdn.alarab.com/h264/159342_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E05
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E06
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E07
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E01
 https://cdn.alarab.com/h264/153163_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E02
@@ -526,6 +562,16 @@ https://cdn.alarab.com/h264/158573_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158729_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E09
 https://cdn.alarab.com/h264/158898_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E10
+https://cdn.alarab.com/h264/159070_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E11
+https://cdn.alarab.com/h264/159220_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E12
+https://cdn.alarab.com/h264/159362_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E13
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E14
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E01
 https://cdn.alarab.com/h264/156883_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E02
@@ -564,10 +610,32 @@ https://cdn.alarab.com/h264/158556_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158710_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E08
 https://cdn.alarab.com/h264/158856_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E09
+https://cdn.alarab.com/h264/158994_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E10
+https://cdn.alarab.com/h264/159163_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E11
+https://cdn.alarab.com/h264/159303_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E12
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E13
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E14
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E01
 https://cdn.alarab.com/h264/158855_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E02
 https://cdn.alarab.com/h264/159020_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E03
+https://cdn.alarab.com/h264/159184_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E04
+https://cdn.alarab.com/h264/159325_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E05
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E06
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E07
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E08
 #EXTINF:0 tvg-id="avi" group-title="إما الإستقلال أو الموت",إما الإستقلال أو الموتS01E01
 https://cdn.alarab.com/h264/153446_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="إما الإستقلال أو الموت",إما الإستقلال أو الموتS01E02
@@ -611,7 +679,15 @@ https://cdn.alarab.com/h264/153213_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153373_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E09
 https://cdn.alarab.com/h264/153544_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E10
+https://cdn.alarab.com/h264/159069_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E11
+https://cdn.alarab.com/h264/159222_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E12
+https://cdn.alarab.com/h264/159360_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E13
+
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E14
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E01
 https://cdn.alarab.com/h264/152001_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E02
@@ -668,6 +744,10 @@ https://cdn.alarab.com/h264/153442_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153587_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E01
 https://cdn.alarab.com/h264/153587_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E02
+https://cdn.alarab.com/h264/159107_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E03
+https://cdn.alarab.com/h264/159418_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 1
 https://cdn.alarab.com/h264/151632_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 2
@@ -736,6 +816,12 @@ https://cdn.alarab.com/h264/153534_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153679_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="بابل",بابل 11
 https://cdn.alarab.com/h264/159045_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="بابل",بابل 12
+https://cdn.alarab.com/h264/159204_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="بابل",بابل 13
+https://cdn.alarab.com/h264/159348_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="بابل",بابل 14
+
 #EXTINF:0 tvg-id="avi" group-title="زمهرير",زمهرير 1
 https://cdn.alarab.com/h264/152073_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="زمهرير",زمهرير 2
@@ -778,6 +864,12 @@ https://cdn.alarab.com/h264/153283_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153452_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامو",رامو 11
 https://cdn.alarab.com/h264/153615_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="رامو",رامو 12
+https://cdn.alarab.com/h264/159368_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="رامو",رامو 13
+
+#EXTINF:0 tvg-id="avi" group-title="رامو",رامو 14
+
 #EXTINF:0 tvg-id="avi" group-title="الحمامة",الحمامة 1
 https://cdn.alarab.com/480/151032_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="الحمامة",الحمامة 2
@@ -916,6 +1008,21 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Zahrat.Elthaloot/33.mp4/p
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Zahrat.Elthaloot/34.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E35 زهرة الثالوث
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Zahrat.Elthaloot/35.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E36 زهرة الثالوث
+https://cdn.alarab.com/h264/153354_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E37 زهرة الثالوث
+https://cdn.alarab.com/h264/153533_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E38 زهرة الثالوث
+https://cdn.alarab.com/h264/153667_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E39 زهرة الثالوث
+https://cdn.alarab.com/h264/159201_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E40 زهرة الثالوث
+https://cdn.alarab.com/h264/159341_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E41 زهرة الثالوث
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E42 زهرة الثالوث
+
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E01 الطبيب المعجزة
 https://cdn.alarab.com/131568.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E02 الطبيب المعجزة
@@ -972,6 +1079,20 @@ https://cdn.alarab.com/h264/153335_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153504_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E28 الطبيب المعجزة
 https://cdn.alarab.com/h264/153663_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E29 الطبيب المعجزة
+https://cdn.alarab.com/h264/159185_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E30 الطبيب المعجزة
+https://cdn.alarab.com/h264/159324_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E31 الطبيب المعجزة
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E32 الطبيب المعجزة
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E33 الطبيب المعجزة
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E34 الطبيب المعجزة
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E35 الطبيب المعجزة
+
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 1
 https://cdn.alarab.com/151442.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 2
@@ -1007,7 +1128,7 @@ https://cdn.alarab.com/h264/158972_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 17
 https://cdn.alarab.com/h264/159138_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 18
-
+https://cdn.alarab.com/h264/159282_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 19
 
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 20
@@ -1053,7 +1174,9 @@ https://cdn.alarab.com/h264/158935_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 19
 https://cdn.alarab.com/h264/159102_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 20
-
+https://cdn.alarab.com/h264/159255_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 21
+https://cdn.alarab.com/h264/159401_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 1
 https://cdn.alarab.com/h264/151830_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 2
