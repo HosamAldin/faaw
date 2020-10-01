@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E01
+https://cdn.alarab.com/h264/159350_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E02
+https://cdn.alarab.com/h264/159383_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E03
+https://cdn.alarab.com/h264/159420_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E04
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E05
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E06
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E07
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",المنصة الحلقة S01E01
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2020-09-03/vidgkdOhFD9nR.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",المنصة الحلقة S01E02
@@ -24,6 +37,37 @@ https://cdn.alarab.com/h264/158919_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158930_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E04
 https://cdn.alarab.com/h264/158966_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E05
+https://cdn.alarab.com/h264/159066_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E06
+https://cdn.alarab.com/h264/159067_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E07
+https://cdn.alarab.com/h264/159075_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E08
+https://cdn.alarab.com/h264/159104_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E09
+https://cdn.alarab.com/h264/159130_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E10
+https://cdn.alarab.com/h264/159157_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E11
+https://cdn.alarab.com/h264/159214_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E12
+https://cdn.alarab.com/h264/159230_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E13
+https://cdn.alarab.com/h264/159261_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E14
+https://cdn.alarab.com/h264/159271_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E15
+https://cdn.alarab.com/h264/159299_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E16
+https://cdn.alarab.com/h264/159361_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E17
+https://cdn.alarab.com/h264/159395_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E18
+https://cdn.alarab.com/h264/159430_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E19
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E20
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E01
 https://cdn.alarab.com/h264/158902_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E02
@@ -34,6 +78,35 @@ https://cdn.alarab.com/h264/158930_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158967_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E05
 https://cdn.alarab.com/h264/158989_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E06
+https://cdn.alarab.com/h264/159073_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E07
+https://cdn.alarab.com/h264/159072_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E08
+https://cdn.alarab.com/h264/159106_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E09
+https://cdn.alarab.com/h264/159129_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E10
+https://cdn.alarab.com/h264/159156_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E11
+https://cdn.alarab.com/h264/159215_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E12
+https://cdn.alarab.com/h264/159231_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E13
+https://cdn.alarab.com/h264/159263_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E14
+https://cdn.alarab.com/h264/159269_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E15
+https://cdn.alarab.com/h264/159298_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E16
+https://cdn.alarab.com/h264/159373_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E17
+https://cdn.alarab.com/h264/159392_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E18
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E19
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E20
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عداني العيب الحلقة S01E01
 https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/eadani-aleayb/eadani-aleayb.ep01.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عداني العيب الحلقة S01E02
@@ -71,6 +144,30 @@ https://cdn.alarab.com/h264/158976_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E15
 https://cdn.alarab.com/h264/158999_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E16
+https://cdn.alarab.com/h264/159083_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E17
+https://cdn.alarab.com/h264/159085_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E18
+https://cdn.alarab.com/h264/159110_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E19
+https://cdn.alarab.com/h264/159137_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E20
+https://cdn.alarab.com/h264/159167_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E21
+https://cdn.alarab.com/h264/159236_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E22
+https://cdn.alarab.com/h264/159241_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E23
+https://cdn.alarab.com/h264/159265_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E24
+https://cdn.alarab.com/h264/159274_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E25
+https://cdn.alarab.com/h264/159300_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E26
+https://cdn.alarab.com/h264/159381_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E27
+https://cdn.alarab.com/h264/159371_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دانتيل الحلقة S01E28
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",شارع شيكاغو الحلقة S01E01
 https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/sharie-shikaghu/sharie-shikaghu.ep01.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",شارع شيكاغو الحلقة S01E02
