@@ -624,7 +624,7 @@ http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/71
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/06/Gulli-Bil-Arabi.png?resize=850%2C850" group-title="قنوات أطفال Children",Bein:GULLI BIL ARABIE
 http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/9
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network العربية
-https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network
 http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/20
 #EXTINF:-1 tvg-id="" tvg-logo="https://anubismistery.files.wordpress.com/2011/07/nickhd-anmtv.jpg" group-title="قنوات أطفال Children",OSN_Nickelodeon_HD
@@ -806,17 +806,17 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="LBCI" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",AR:LBN-ldc lebanon
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
-https://p-mysat-live.ercdn.net/aljadeed/aljadeed.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="LBCI" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",AR:LBN-LBC International
-https://p-mysat-live.ercdn.net/lbcinternational/lbcinternational.m3u8?airmaxtv.m3u8
+http://watchlb.ddns.net:9075/channel7/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="LBCI" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",AR:LBN-LBC 2
+http://watchlb.ddns.net:9075/channel6/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
-https://p-mysat-live.ercdn.net/mtvhd/mtvhd.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV LEBANON
-https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon_576p.m3u8
+http://watchlb.ddns.net:9075/channel1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
-https://p-mysat-live.ercdn.net/otv/otv.m3u8?airmaxtv.m3u8
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV LEBANON
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
-https://p-mysat-live.ercdn.net/nbnhd/nbnhd.m3u8?airmaxtv.m3u8
+http://watchlb.ddns.net:9075/channel5/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/LBC.png" group-title="LEBANON قنوات لبنان",AR:LBN-LBC HD
 https://p-mysat-live.ercdn.net/lbchd/lbchd.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
@@ -846,9 +846,6 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://www.pngkey.com/png/full/899-8990235_mtv-lebanon-.png" group-title="LEBANON قنوات لبنان",MTV LEBANON+
 
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD+
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nilesat7.net/wp-content/uploads/2019/08/%D9%82%D9%86%D8%A7%D8%A9-%D8%A3%D8%B1%D8%A7%D8%A8%D9%8A%D9%83%D8%A7-Arabica1.png" group-title="LEBANON قنوات لبنان",Arabica TV
