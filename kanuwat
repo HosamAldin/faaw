@@ -776,6 +776,8 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسطين",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ps-alfajer-tv-1195.jpg" group-title="PALESTINE قنوات فلسطين",AlFajer 
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="https://gulf365.co/content/uploads/2019/09/26/c524a38aa6.jpg" group-title="PALESTINE قنوات فلسطين",AlFajer 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://btv2020.com/wp-content/uploads/2020/04/Logo2020.png" group-title="PALESTINE قنوات فلسطين",AR:Bethlehem Tv
