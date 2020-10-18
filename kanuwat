@@ -745,13 +745,13 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="LBCI" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",AR:LBN-ldc lebanon
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
-http://144.76.226.29:8080/live/streeem/streeem/103.m3u8
+http://144.76.226.29:8080/live/streeem/streeem/143.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
 http://144.76.226.29:8080/live/streeem/streeem/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
-http://144.76.226.29:8080/live/streeem/streeem/97.m3u8
+http://144.76.226.29:8080/live/streeem/streeem/114.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
-http://144.76.226.29:8080/live/streeem/streeem/90.m3u8
+http://144.76.226.29:8080/live/streeem/streeem/126.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
