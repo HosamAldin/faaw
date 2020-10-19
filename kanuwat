@@ -895,16 +895,17 @@ https://bit.ly/39YjahM
 http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="DMC" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="قنوات المصرية Egypt",DMC
 https://p-mysat-live.ercdn.net/dmchd/dmchd.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="DMC" tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="قنوات المصرية Egypt",DMC+
-https://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=dmc_tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDiS8sJ2DIAlNdb88UnwEuBFUon5mXT1ygVUg=s900-mo-c-c0xffffffff-rj-k-no" group-title="قنوات المصرية Egypt",DmcDrama
 https://p-mysat-live.ercdn.net/dmcdrama/dmcdrama.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="ON Drama" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1134_1.png" group-title="قنوات المصرية Egypt",ON Drama
 https://p-mysat-live.ercdn.net/ondrama/ondrama.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="ON Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/ON_logo.png" group-title="قنوات المصرية Egypt",ON E
 https://www.elahmad.com/tv/m3u8/tv3_anywhere.m3u8?id=ontv
-#EXTINF:-1 tvg-id="Sada El Balad" tvg-logo="https://egytvs.com/wp-content/uploads/2012/11/Elbalad.jpg" group-title="قنوات المصرية Egypt",Sada El Balad
-https://p-mysat-live.ercdn.net/sadaelbalad/sadaelbalad.m3u8?airmaxtv.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/22.m3u8
+#EXTINF:-1 tvg-id="ON Drama" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/09/Sada-El-Balad-Drama-TV.png" group-title="قنوات المصرية Egypt",Sada El-Balad Drama
+http://channelsstream.xyz:8080/live/streeem/streeem/22.m3u8
+#EXTINF:-1 tvg-id="ON Drama" tvg-logo="https://i.goalzz.com/?i=big_shaq_daddy%2Fa769.jpg" group-title="قنوات المصرية Egypt",Sada El-Balad 2
+http://channelsstream.xyz:8080/live/streeem/streeem/21.m3u8
 #EXTINF:-1 tvg-id="Alhayat" tvg-logo="https://i.pinimg.com/474x/f5/ec/a5/f5eca579fec5820d4fe36d372c794597.jpg" group-title="قنوات المصرية Egypt",Alhayat
 https://p-mysat-live.ercdn.net/alhayat/alhayat.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="Alhayat" tvg-logo="https://www.tv.wataan.com/uploads/3042020-032014PM-1.jpg" group-title="قنوات المصرية Egypt",alhayat drama
@@ -925,6 +926,11 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alfath.helool.net/images/d2-logo.png" group-title="قنوات المصرية Egypt",Fateh TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/fb_image_cbc.jpg" group-title="قنوات المصرية Egypt",CBC Drama
+http://channelsstream.xyz:8080/live/streeem/streeem/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/nIHUql02S0E/maxresdefault.jpg" group-title="قنوات المصرية Egypt",Al-Qahera Welnas 2
+http://channelsstream.xyz:8080/live/streeem/streeem/24.m3u8
+
 #EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://www.video.wataan.com/uploads/1052018-054720PM.png" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://tvfcdn.com/big/alaoula-maroc.jpg" group-title="MAROCCO قنوات المغرب العربي",AL_Aoula_InterTV
