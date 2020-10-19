@@ -744,7 +744,7 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="LBCI" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",AR:LBN-ldc lebanon
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
-http://144.76.226.29:8080/live/streeem/streeem/143.m3u8
+http://144.76.226.29:8080/live/streeem/streeem/149.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
 http://144.76.226.29:8080/live/streeem/streeem/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
@@ -756,7 +756,7 @@ http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
 https://live.alittihad.tv/ittihad/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="almanar" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="LEBANON قنوات لبنان",Al Manar
-https://manar.live/iptv/chunklist.m3u8
+https://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-al-iman-tv-5506.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- AL-IMAN-TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-AL Mayadeen
