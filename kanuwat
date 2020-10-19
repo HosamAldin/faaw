@@ -577,19 +577,19 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="قنوات أطفال Children",Ar:SPACETOON
 https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baraem.tv/images/logo.png" group-title="قنوات أطفال Children",Bein: Baraem
-http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/8
+http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/306
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="قنوات أطفال Children",Bein : Jeem 
-http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/71
+http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/310
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/06/Gulli-Bil-Arabi.png?resize=850%2C850" group-title="قنوات أطفال Children",Bein:GULLI BIL ARABIE
-http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/9
+http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/307
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network العربية
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network
-http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/20
+http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/20
 #EXTINF:-1 tvg-id="" tvg-logo="https://anubismistery.files.wordpress.com/2011/07/nickhd-anmtv.jpg" group-title="قنوات أطفال Children",OSN_Nickelodeon_HD
-http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/25
+http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/308
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/CWRWzUGWsAAboTd.png" group-title="قنوات أطفال Children",VIP : OSN Disney Channel HD
-http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/27
+http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/309
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/768410454288982016/VfsFhl3R.jpg" group-title="قنوات أطفال Children",koky kids
 http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2416.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://p5.focus.de/img/fotos/crop477365/4510047306-cv4_3-h548-q72-p4/kultur-tom-und-jerry.jpg" group-title="قنوات أطفال Children",TOM & JERRY+
@@ -607,9 +607,11 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="قنوات أطفال Children",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="قنوات أطفال Children",Ar:TOYOR-طيور الجنة
-http://178.63.48.23:25461/airmaxtvkind/2IlRkOkCqX/88
+http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/88
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png" group-title="قنوات أطفال Children",Tiny Pop (UK)
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="قنوات أطفال Children",BEIN BOOMERANG
+http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/237
 #EXTINF:-1 tvg-id="MBC1 4K" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/gHm5YehuaE926_d7SufrgCv7u3wORgia4xfVsUOyQUnzc4jQ8EPIrtKe6NGirBjG7VPL" group-title="قنوات أم بي سيMBC",▂ ▄ ▅ ▆☆ MBC HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات أم بي سيMBC",النسخة المدفوعة AirMax TV
@@ -653,13 +655,9 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC panoramafm FHD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN+
-http://178.63.48.23:25461/ZEEAFLAM/yP7PHmz5hj/130
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN
-http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/1.m3u8
+http://178.63.48.23:25461/zeeairmaxtv/fb1NWuHLUm/130
 #EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM+
-http://178.63.48.23:25461/ZEEAFLAM/yP7PHmz5hj/129
-#EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM
-http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/2.m3u8
+http://178.63.48.23:25461/zeeairmaxtv/fb1NWuHLUm/129
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="قنوات روتانا ROTANA",▂ ▄ ▅ ▆☆ ROTANA HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",النسخة المدفوعة AirMax TV
@@ -671,15 +669,15 @@ http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="" tvg-name="MUS:AR-RADIO ROTANA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
 http://188.247.86.67:8002/3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema
-http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/108
+http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/108
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
-http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/109
+http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/109
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy
-http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/110
+http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/110
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama
-http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/111
+http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/111
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
-http://178.63.48.23:25461/ROTANAair/6VjiXTV6e4/112
+http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/112
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema
 https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8?airmaxtv.m3u8
