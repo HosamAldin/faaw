@@ -40,46 +40,57 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 FHD
 http://ydv2wp0o6ma.a.trbcdn.net/hls/CDN-HLS-Bein1-CC.m3u8
 http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT FHD 1
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/131
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT FHD 2
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/132
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT FHD 3
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/133
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT FHD 4
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/134
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT FHD 5
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/135
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT FHD 6
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/136
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT FHD 7
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/137
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT FHD 8
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/138
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT FHD 9
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/139
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT FHD 10
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/140
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT SD 1
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/141
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT SD 2
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/142
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT SD 3
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/143
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT SD 4
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/144
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT SD 5
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/145
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT SD 6
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/146
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT SD 7
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/147
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT SD 8
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/148
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT SD 9
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/149
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT SD 10
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/150
+#EXTM3U
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT HD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/91
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT NEWS HD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/92
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 1 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/131
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 2 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/132
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 3 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/133
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 4 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/134
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 5 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/135
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 6 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/136
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 7 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/137
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 8 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/138
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 9 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/139
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BeIN SPORTS 10 FHD
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/140
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT1 SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/141
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT2 SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/142
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT3 SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/143
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT4 SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/144
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT5 SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/145
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT6 SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/146
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT7 SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/147
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT8 SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/148
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT9 SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/149
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT10SD  1M
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/150
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",ON_SPORT 1
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/234
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Egypt:Al Ahly TV
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/235
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Egypt:ZAMALIK TV
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/236
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
@@ -242,7 +253,7 @@ https://bit.ly/34ooolI.
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/CpIhFH2ZyW0/maxresdefault.jpg" group-title="قنوات رياضية SPORT",ON_SPORT 1
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/234
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=01%2Fef4_yfjwoamdbmn.jpg" group-title="قنوات رياضية SPORT",KSA SPORTS 1+
-http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/128
+http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/128
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/DepO9OpX0AARC0W.png" group-title="قنوات رياضية SPORT",Egypt:ZAMALIK TV
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/236
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Al_Ahly_Tv_Logo.jpg" group-title="قنوات رياضية SPORT",Egypt:Al Ahly TV
