@@ -1475,6 +1475,16 @@ https://cdn.alarab.com/h264/157139_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/157320_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E031
 https://cdn.alarab.com/h264/157883_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E01
+https://cdn.alarab.com/h264/159651_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E02
+https://cdn.alarab.com/h264/159786_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E03
+
+#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E04
+
+#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E05
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ابناء الاخوة",ابناء الاخوة الحلقة 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/Abnaa.Alekhwa/1.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ابناء الاخوة",ابناء الاخوة الحلقة 2
