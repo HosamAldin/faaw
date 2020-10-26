@@ -17,6 +17,146 @@ https://bit.ly/39SJpGk
 https://bit.ly/2RrPh2X
 #EXTINF:0 tvg-id="ext" group-title="كيفية الحصول على الكود الجديد",تحميل airmaxعلى الشاشات الاندرويد
 https://bit.ly/34udaMv
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 1 FHD
+http://dx4.gcdn.co/UKS1747/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 2 FHD
+http://dx4.gcdn.co/UKS1748/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 3 FHD
+http://dx4.gcdn.co/UKS1749/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 4 FHD
+http://dx4.gcdn.co/UKS1750/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 5 FHD
+http://dx4.gcdn.co/UKS1751/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 6 FHD
+http://dx4.gcdn.co/UKS1752/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 7 FHD
+http://dx4.gcdn.co/UKS1753/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 8 FHD
+http://dx4.gcdn.co/UKS1754/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 9 FHD
+http://dx4.gcdn.co/UKS1755/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 10 FHD
+http://dx4.gcdn.co/UKS1756/index.m3u8
+#EXTINF:-1 tvg-id="bein11hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 11 EN FHD
+http://dx4.gcdn.co/UKS1757/index.m3u8
+#EXTINF:-1 tvg-id="bein12hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 12 EN FHD
+http://dx4.gcdn.co/UKS1758/index.m3u8
+#EXTINF:-1 tvg-id="bein13hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD13-1.png" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 13 EN FHD
+http://dx4.gcdn.co/UKS1759/index.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 1 HD
+http://138.201.145.136:8080/live/MAXAPK/MAXAPK/205.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 2 HD
+http://digitalxpress2.gcdn.co/live1/RTMP-bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 3 HD
+http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 4 HD
+http://digitalxpress2.gcdn.co/live1/RTMP-bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 5 HD
+http://digitalxpress2.gcdn.co/live1/RTMP-bein5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 6 HD
+http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀",  |S2| beIN Sports 7 HD
+http://138.201.145.136:8080/live/MAXAPK/MAXAPK/218.ts
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 8 HD
+http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 9 HD
+http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 1 HD
+http://88.198.207.99/hls/bein1.m3u8
+#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 2 HD
+http://116.203.182.40/hls/bein2.m3u8
+#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 3 HD
+http://159.69.36.73/hls/bein3.m3u8
+#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 4 HD
+http://159.69.18.22/hls/bein4.m3u8
+#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 5 HD
+http://116.203.228.176/hls/bein5.m3u8
+#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 6 HD
+http://116.203.228.176/hls/bein6.m3u8
+#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 7 HD
+http://159.69.18.22/hls/bein7.m3u8 
+#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 8 HD
+http://159.69.36.73/hls/bein8.m3u8
+#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 9 HD
+http://116.203.182.40/hls/bein9.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORTS NEWS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/315505
+#EXTINF:-1 tvg-id="beinsports.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORTS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/315504
+#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 01 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
+#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 02 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924
+#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 03 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30246
+#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 04 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30245
+#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 05 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30244
+#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 06 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30243
+#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 07 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
+#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 08 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30241
+#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 09 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240
+#EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 10 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30239
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1_4k
+http://2.56.215.148:25461/live/11/11/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__1080p
+http://2.56.215.148:25461/live/11/11/2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__720p
+http://2.56.215.148:25461/live/11/11/3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__480p
+http://2.56.215.148:25461/live/11/11/4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__360p
+http://2.56.215.148:25461/live/11/11/5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__240p
+http://2.56.215.148:25461/live/11/11/6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__1080p
+http://2.56.215.148:25461/live/11/11/7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__720p
+http://2.56.215.148:25461/live/11/11/8.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__480p
+http://2.56.215.148:25461/live/11/11/9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__360p
+http://2.56.215.148:25461/live/11/11/10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",2__240p
+http://2.56.215.148:25461/live/11/11/11.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",3_1080
+http://2.56.215.148:25461/live/11/11/12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",3_720
+http://2.56.215.148:25461/live/11/11/13.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",3_360
+http://2.56.215.148:25461/live/11/11/14.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",3_240
+http://2.56.215.148:25461/live/11/11/15.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 1 
+http://173.249.4.94:8081/b-1/b-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 2 
+http://173.249.4.94:8081/b-2/b-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 3 
+http://173.249.4.94:8081/b-3/b-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 4 
+http://173.249.4.94:8081/b-4/b-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 5 
+http://173.249.4.94:8081/b-5/b-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 6 
+http://173.249.4.94:8081/b-6/b-6/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 7 
+http://173.249.4.94:8081/b-7/b-7/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰", BeIN Sports 8 
+http://173.249.4.94:8081/b-8/b-8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/4/2018/06/Nilesat-12264-1.png" group-title="قنوات بين سبور BEIN SPORT",▂ ▄ ▅ ▆☆ BEIN SPORT ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",النسخة المدفوعة AirMax TV
@@ -79,6 +219,47 @@ http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/148
 http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/149
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",|AR| BEIN SPORT10SD  1M
 http://178.63.48.23:25461/beinnairmax/Dcw86TYmE2/150
+
+
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1120_1.png" group-title="ART Group 😶😶", |S1| ART Aflam 1
+http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1121_1.png" group-title="ART Group 😶😶", |S1| ART Aflam 2
+http://digitalxpress.gcdn.co/live1/osnartaflam2/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1195_1.png" group-title="ART Group 😶😶", |S1| ART Cinema
+http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN Group 🤪🤪", |S1| OSN Ya Hala Cinma HD
+http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/B4P.png" group-title="OSN Group 🤪🤪", |S1| B4u
+http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2000px-WWE_Logo.svg.png", |S1| OSN WWE HD
+http://dx3.gcdn.co/OSNWWE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="OSN Group 🤪🤪", |S1| OSN kids
+http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN Group 🤪🤪", |S1| OSN Movies HD
+http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Movies 1 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Movies 2 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1324_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Movies 3 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Movies 4 HD
+http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1327_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Series 1 HD
+http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1328_1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Series 2 HD
+http://digitalxpress.gcdn.co/live1/BEINSERIESHD2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="BEIN Group 🤑🤑", |S1| beIN Boomerang HD
+http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/Cartoon-Network-Arabic-1.png" group-title="BEIN Group 🤑🤑", |S1| beIN Cartoon Network HD
+http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
@@ -148,6 +329,60 @@ http://178.63.48.23:25461/osnairmax/EvJrZUI2dj/303
 http://178.63.48.23:25461/osnairmax/EvJrZUI2dj/304
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN Series
 http://178.63.48.23:25461/osnairmax/EvJrZUI2dj/305
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| shoof max Cinema 1
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/2919
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| shoof max Cinema 2
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/4471
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| shoof max Alkabir awy
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/5528
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| shoof max comedy 1
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/5540
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| shoof max comedy 2
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/5541
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| shoof max classic 1
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/6341
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| shoof max classic 2
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/6342
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| shoof max classic 3
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/6343
+
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| SHAHID_vip_Action 1
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15962
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| SHAHID_vip_Cinema
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15963
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| SHAHID_vip_Zaman
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15964
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| SHAHID_vip_Aflam 1
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15965
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| SHAHID_vip_Aflam 2
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15966
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| SHAHID_vip_Horror
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15967
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| SHAHID_vip_Romance
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15968
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| SHAHID_vip_Cartoon
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15969
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| SHAHID_vip_Clip
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15970
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| Majestic_Cinema1
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15971
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| Majestic_Cinema2
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15972
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| Majestic_Zaman
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15973
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| Majestic_Comedy
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15974
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| Majestic_Action1
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15975
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| Majestic_Action2
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15976
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| Majestic_Horror1
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15977
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/1221/PNG/512/1492608049-15-youtube-video-player-play-logo-media_83366.png" group-title="MOVIES TIME 🎥🎬", |badawy| Majestic_Kids
+http://maz.best:8080/badawy/hhfgkfhfhjfjhfjhfhfjfjhf/15978
+
 #EXTINF:0 tvg-id="ext" group-title="Shahid net",▂ ▄ ▅ ▆☆ Shahid net ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTM3U
@@ -652,6 +887,125 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 http://178.63.48.23:25461/zeeairmaxtv/fb1NWuHLUm/130
 #EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM+
 http://178.63.48.23:25461/zeeairmaxtv/fb1NWuHLUm/129
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png"  group-title="قنوات أم بي سيMBC",|MBC| 1 FHD
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="قنوات أم بي سيMBC" ,|MBC| 2 FHD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png"  group-title="قنوات أم بي سيMBC",|MBC| 3 FHD
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="قنوات أم بي سيMBC" ,|MBC| 4 FHD
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png"  group-title="قنوات أم بي سيMBC",|MBC| 5 FHD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="قنوات أم بي سيMBC" ,|MBC| Action FHD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png"  group-title="قنوات أم بي سيMBC",|MBC| Max FHD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png"  group-title="قنوات أم بي سيMBC",|MBC| Iraq FHD
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="قنوات أم بي سيMBC" ,|MBC| Masr FHD
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-masr-2-logo-channel/original/mbc-masr-2-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png"  group-title="قنوات أم بي سيMBC",|MBC| Masr 2 FHD
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png"  group-title="قنوات أم بي سيMBC",|MBC| Drama FHD
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png"  group-title="قنوات أم بي سيMBC",|MBC| Drama+ FHD
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png"  group-title="قنوات أم بي سيMBC",|MBC| Bollywood FHD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="قنوات أم بي سيMBC",|MBC| Panorama FHD
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="قنوات أم بي سيMBC" ,|MBC| 1 HD
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="قنوات أم بي سيMBC" ,|MBC| 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png"  group-title="قنوات أم بي سيMBC",|MBC| 3 HD
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png"  group-title="قنوات أم بي سيMBC",|MBC| 4 HD
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png"  group-title="قنوات أم بي سيMBC",|MBC| 5 HD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png"  group-title="قنوات أم بي سيMBC",|MBC| Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png"  group-title="قنوات أم بي سيMBC",|MBC| Max HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png"  group-title="قنوات أم بي سيMBC",|MBC| Iraq HD
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png"  group-title="قنوات أم بي سيMBC",|MBC| Masr HD
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-masr-2-logo-channel/original/mbc-masr-2-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png"  group-title="قنوات أم بي سيMBC",|MBC| Masr 2 HD
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png"  group-title="قنوات أم بي سيMBC",|MBC| Drama HD
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="قنوات أم بي سيMBC" ,|MBC| Drama+ HD
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="قنوات أم بي سيMBC" ,|MBC| Bollywood HD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="قنوات أم بي سيMBC",|MBC| Panorama HD
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png"  group-title="قنوات أم بي سيMBC",|MBC| 1 SD
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="قنوات أم بي سيMBC" ,|MBC| 2 SD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png"  group-title="قنوات أم بي سيMBC",|MBC| 3 SD
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png"  group-title="قنوات أم بي سيMBC",|MBC| 4 SD
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png"  group-title="قنوات أم بي سيMBC",|MBC| 5 SD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="قنوات أم بي سيMBC" ,|MBC| Action SD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png"  group-title="قنوات أم بي سيMBC",|MBC| Max SD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="قنوات أم بي سيMBC" ,|MBC| Iraq SD
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="قنوات أم بي سيMBC" ,|MBC| Masr SD
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://shahidstatic1.akamaized.net/mediaObject/Waseem/untitled0/mbc-masr-2-logo-channel/original/mbc-masr-2-logo-channel.png?height=189&width=NaN&croppingPoint=mc&q=100&type=png"  group-title="قنوات أم بي سيMBC",|MBC| Masr 2 SD
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png"  group-title="قنوات أم بي سيMBC",|MBC| Drama SD
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png"  group-title="قنوات أم بي سيMBC",|MBC| Drama+ SD
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_4.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png"  group-title="قنوات أم بي سيMBC",|MBC| Bollywood SD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:06fda3f5-243b-4daa-8c02-cc48193704d1/panorama-og_.jpg" group-title="قنوات أم بي سيMBC",|MBC| Panorama SD
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_4.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="قنوات أم بي سيMBC", MBC 1 
+http://digitalxpress.gcdn.co/live1/mbc1/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="قنوات أم بي سيMBC",MBC 2 
+http://digitalxpress.gcdn.co/live1/mbc2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="قنوات أم بي سيMBC",MBC 3
+http://digitalxpress.gcdn.co/live1/mbc3/index.m3u8
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="قنوات أم بي سيMBC", MBC 4 
+http://digitalxpress.gcdn.co/live1/mbc4/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="قنوات أم بي سيMBC",MBC Max
+http://digitalxpress.gcdn.co/live1/MBCMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="قنوات أم بي سيMBC",MBC Iraq
+http://digitalxpress.gcdn.co/live1/mbciraq/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" group-title="قنوات أم بي سيMBC",MBC Masr
+http://digitalxpress.gcdn.co/live1/mbcmasr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="قنوات أم بي سيMBC",MBC Drama
+http://digitalxpress.gcdn.co/live1/mbcdrama/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tv.wataan.com/uploads/2642019-025030PM.png" group-title="قنوات روتانا ROTANA",▂ ▄ ▅ ▆☆ ROTANA HD ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",النسخة المدفوعة AirMax TV
@@ -702,9 +1056,12 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunk
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="Syria قنوات سورية",AR:SYR-Lana Plus
-http://178.63.48.23:25461/syairmax/bNNbp7o4U5/54
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="Syria قنوات سورية",AR:SYR-LANA HD+
-http://178.63.48.23:25461/syairmax/bNNbp7o4U5/311
+https://stream.lanacanal.tv:444/live/5f897da5763f3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="Syria قنوات سورية",AR:SYR-LANA HD
+https://stream.lanacanal.tv:444/live/5f8976fdc153f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="Syria قنوات سورية",AR:SYR-LANA SD
+http://digitalxpress.gcdn.co/live1/lanatv/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="",AR:SYR-NOUR ELSHAM
 http://82.137.248.16:1935/Nour/stream31122019/chunklist.m3u8?airmaxtv.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-logo="http://sy.heytv.org/wp-content/uploads/2019/04/Sham-FM-TV-webtvonlive.com_.jpg" group-title="Syria قنوات سورية",AR:SYR-SHAM.FM TV
@@ -742,7 +1099,7 @@ http://144.76.226.29:8080/live/streeem/streeem/169.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
 http://144.76.226.29:8080/live/streeem/streeem/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
-http://144.76.226.29:8080/live/streeem/streeem/114.m3u8
+http://digitalxpress.gcdn.co/live1/otv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
 http://144.76.226.29:8080/live/streeem/streeem/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
