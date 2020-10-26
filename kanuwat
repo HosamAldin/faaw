@@ -737,24 +737,14 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="LBCI" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",AR:LBN-ldc lebanon
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",NBN
-http://178.63.48.23:25461/lebairmax/j1vrloG1th/318
-#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AL JADEED
-http://178.63.48.23:25461/lebairmax/j1vrloG1th/319
-#EXTINF:0 tvg-id="lbc.il" group-title="LEBANON قنوات لبنان",lbc
-http://178.63.48.23:25461/lebairmax/j1vrloG1th/320
-#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",AR_MTV Lebanon
-http://178.63.48.23:25461/lebairmax/j1vrloG1th/321
-#EXTINF:0 tvg-id="ext" group-title="LEBANON قنوات لبنان",OTV Lebanon
-http://178.63.48.23:25461/lebairmax/j1vrloG1th/322
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
-http://144.76.226.29:8080/live/streeem/streeem/149.m3u8
+http://144.76.226.29:8080/live/streeem/streeem/169.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
 http://144.76.226.29:8080/live/streeem/streeem/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
 http://144.76.226.29:8080/live/streeem/streeem/114.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
-http://144.76.226.29:8080/live/streeem/streeem/126.m3u8
+http://144.76.226.29:8080/live/streeem/streeem/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
