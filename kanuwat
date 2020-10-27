@@ -17,33 +17,6 @@ https://bit.ly/39SJpGk
 https://bit.ly/2RrPh2X
 #EXTINF:0 tvg-id="ext" group-title="كيفية الحصول على الكود الجديد",تحميل airmaxعلى الشاشات الاندرويد
 https://bit.ly/34udaMv
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 1 FHD
-http://dx4.gcdn.co/UKS1747/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 2 FHD
-http://dx4.gcdn.co/UKS1748/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 3 FHD
-http://dx4.gcdn.co/UKS1749/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 4 FHD
-http://dx4.gcdn.co/UKS1750/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 5 FHD
-http://dx4.gcdn.co/UKS1751/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 6 FHD
-http://dx4.gcdn.co/UKS1752/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 7 FHD
-http://dx4.gcdn.co/UKS1753/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 8 FHD
-http://dx4.gcdn.co/UKS1754/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 9 FHD
-http://dx4.gcdn.co/UKS1755/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 10 FHD
-http://dx4.gcdn.co/UKS1756/index.m3u8
-#EXTINF:-1 tvg-id="bein11hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD11-1.png" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 11 EN FHD
-http://dx4.gcdn.co/UKS1757/index.m3u8
-#EXTINF:-1 tvg-id="bein12hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD12-1.png" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 12 EN FHD
-http://dx4.gcdn.co/UKS1758/index.m3u8
-#EXTINF:-1 tvg-id="bein13hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD13-1.png" group-title="BEIN SPORTS ⚽🏀", BeIN Sports 13 EN FHD
-http://dx4.gcdn.co/UKS1759/index.m3u8
-
 #EXTINF:0 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 1 HD
 http://138.201.145.136:8080/live/MAXAPK/MAXAPK/205.ts
 #EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 2 HD
@@ -611,17 +584,17 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="قنوات أطفال Children",Ar:SPACETOON
 https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baraem.tv/images/logo.png" group-title="قنوات أطفال Children",Bein: Baraem
-http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/306
+http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="قنوات أطفال Children",Bein : Jeem 
-http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/310
+http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/06/Gulli-Bil-Arabi.png?resize=850%2C850" group-title="قنوات أطفال Children",Bein:GULLI BIL ARABIE
 http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/307
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network العربية
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network
-http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/20
-#EXTINF:-1 tvg-id="" tvg-logo="https://anubismistery.files.wordpress.com/2011/07/nickhd-anmtv.jpg" group-title="قنوات أطفال Children",OSN_Nickelodeon_HD
-http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/308
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="قنوات أطفال Children",BEIN :beIN Boomerang HD
+http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/The_logo_of_be_junior_TV_Channel.png" group-title="قنوات أطفال Children",be junior
+http://digitalxpress.gcdn.co/live1/beinbejunior/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/CWRWzUGWsAAboTd.png" group-title="قنوات أطفال Children",VIP : OSN Disney Channel HD
 http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/309
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/768410454288982016/VfsFhl3R.jpg" group-title="قنوات أطفال Children",koky kids
