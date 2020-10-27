@@ -628,6 +628,8 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC5 4K" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Variety 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png" group-title="قنوات أم بي سيMBC",MBC Variety FHD
+http://digitalxpress.gcdn.co/live1/mbcvarietyhd-AR/index.m3u8
 #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ FHD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="MBC Max 4K" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max FHD
@@ -783,23 +785,22 @@ http://digitalxpress.gcdn.co/live1/mbcdrama/index.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="قنوات روتانا ROTANA" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="قنوات روتانا ROTANA",Rotana Cinema HD
+http://digitalxpress.gcdn.co/live1/RTMP-Rotana_Cinema/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="قنوات روتانا ROTANA" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" tvg-country="SA" tvg-url="" group-title="قنوات روتانا ROTANA",Rotana Classic HD
+http://digitalxpress.gcdn.co/live1/RTMP-rotana_classic/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-name="Rotana Comedy ARB" tvg-language="قنوات روتانا ROTANA" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" tvg-country="SA" tvg-url="" group-title="قنوات روتانا ROTANA",Rotana Comedy HD
+http://digitalxpress.gcdn.co/live1/Rotana_Clip/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="قنوات روتانا ROTANA" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" tvg-country="SA" tvg-url="" group-title="قنوات روتانا ROTANA",Rotana Drama HD
+http://digitalxpress.gcdn.co/live1/RTMP-Rotana_Music/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="قنوات روتانا ROTANA" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" tvg-country="SA" tvg-url="" group-title="قنوات روتانا ROTANA",Rotana Khalijia HD
+http://digitalxpress.gcdn.co/live1/RTMP-Rotana_Khalijiah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="" tvg-name="MUS:AR-RADIO ROTANA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
 http://188.247.86.67:8002/3
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema
-http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/108
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
-http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/109
-#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy
-http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/110
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama
-http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/111
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
-http://178.63.48.23:25461/rutanairmax/hyYYHmn7Iq/112
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema
 https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
