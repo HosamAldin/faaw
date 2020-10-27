@@ -448,6 +448,13 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEUTSCH",one HD
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",Vox
+http://5.135.92.133:52841/out/u/124_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",RTL
+http://5.135.92.133:52841/out/u/115_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",RTL 2
+http://5.135.92.133:52841/out/u/119_1.m3u8
+
 #EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",de:Das Erste
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",de:HR
