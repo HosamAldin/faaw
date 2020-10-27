@@ -427,6 +427,27 @@ http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8?airmaxtv.m3u8
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",▂ ▄ ▅ ▆☆ DEUTSCH TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",ZDF info HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",ZDF neo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",das Erste
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",KIKA FHD
+https://kikageohls-i.akamaihd.net/hls/live/1006268-b/livetvkika_de/master_1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",arte HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",phoenix HD
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",one HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
 #EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",de:Das Erste
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="DEUTSCH",de:HR
