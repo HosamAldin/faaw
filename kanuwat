@@ -59,30 +59,6 @@ http://116.203.182.40/hls/bein9.m3u8
 
 
 
-#EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORTS NEWS HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/315505
-#EXTINF:-1 tvg-id="beinsports.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORTS HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/315504
-#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 01 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
-#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 02 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924
-#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 03 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30246
-#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 04 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30245
-#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 05 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30244
-#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 06 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30243
-#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 07 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
-#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 08 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30241
-#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 09 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240
-#EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="BEIN SPORTS ⚽🏀", |oAa| BEIN SPORT 10 HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30239
 #EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1_4k
 http://2.56.215.148:25461/live/11/11/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BEINSPORTS وقت المبارة ⌛⏰",1__1080p
@@ -1120,34 +1096,7 @@ http://195.154.136.160:8080/hls/attesiatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/F6yV8gv-vF4/hqdefault.jpg" group-title="TUNISIE قنوات تونس",carthage tv
 http://tv.teledunet.com:25461/live/hadisite/nv3xv/10056.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-7lhrkSPJ4gw/V2lTF28JKuI/AAAAAAAAA0U/RKcQ1ShpJsUs9a8jFhUJS0TayR1FmJaaQCLcB/s1600/Al%2Binsen%2BTV.png" group-title="TUNISIE قنوات تونس",Tunisie Al Insan 
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_TUNISIA_NAT_1
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/202
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR:Tunisia_National_2
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/203
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_Horror tv
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/204
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_Zitouna
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/205
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_HANNIBAL
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/206
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AL JANOUBIA
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/207
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_ATTESSIA
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/208
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_Tanasuh TV
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/209
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_:M TUNISIA
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/210
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_Elhiwar Ettounsi
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/211
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_Tunisia Watania 1
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/212
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_Tunisia Watania 2
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/213
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",AR_ZWEINA BALADNA
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/214
-#EXTINF:0 tvg-id="ext" group-title="TUNISIE قنوات تونس",Tunisie Immobilier TV
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/215
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/2vXQz2XEKi0/maxresdefault.jpg" group-title="ALGERIEN قنوات الجزائر",▂ ▄ ▅ ▆☆ ALGERIEN قنوات الجزائر ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
@@ -1157,42 +1106,6 @@ http://82.212.74.5:8000/live/hls/7728.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:EchoroukTV
 http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8?airmaxtv.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:EchoroukTV
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/216
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Arriadia
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/217
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Dzaier
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/218
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR_BEUR TV
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/219
-#EXTINF:0 tvg-id="CanalAlgerie.dz" group-title="ALGERIEN قنوات الجزائر",AR:ALGERIA 3
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/220
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR_ALGERIA 4
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/221
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",CGTN ARABIC
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/222
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR: Al Anis TV
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/223
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR_SAMIRA TV
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/224
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Elheddaf TV
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/225
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Echorouk TV
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/226
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Samarraa
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/227
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:ENNAHAR TV
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/228
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Echorouk News
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/229
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Echorouk Benna
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/230
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Ennahar Algerie
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/231
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",ALG:Canal-Algerie
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/232
-#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:Berbere_srid
-http://178.63.48.23:25461/jjjggtttnns/ysbkeAAiTL/233
 #EXTINF:-1 tvg-id="" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsimages/appimg-ramTnpaf.jpg" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ksa5.net/wp-content/uploads/2018/08/Libya-One-Tv.jpg?resize=300%2C200&ssl=1" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya 1
