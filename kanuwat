@@ -17,46 +17,6 @@ https://bit.ly/39SJpGk
 https://bit.ly/2RrPh2X
 #EXTINF:0 tvg-id="ext" group-title="كيفية الحصول على الكود الجديد",تحميل airmaxعلى الشاشات الاندرويد
 https://bit.ly/34udaMv
-#EXTINF:0 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 1 HD
-http://138.201.145.136:8080/live/MAXAPK/MAXAPK/205.ts
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 2 HD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 3 HD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 4 HD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 5 HD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 6 HD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀",  |S2| beIN Sports 7 HD
-http://138.201.145.136:8080/live/MAXAPK/MAXAPK/218.ts
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 8 HD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |S2| beIN Sports 9 HD
-http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 1 HD
-http://88.198.207.99/hls/bein1.m3u8
-#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 2 HD
-http://116.203.182.40/hls/bein2.m3u8
-#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 3 HD
-http://159.69.36.73/hls/bein3.m3u8
-#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 4 HD
-http://159.69.18.22/hls/bein4.m3u8
-#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 5 HD
-http://116.203.228.176/hls/bein5.m3u8
-#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 6 HD
-http://116.203.228.176/hls/bein6.m3u8
-#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 7 HD
-http://159.69.18.22/hls/bein7.m3u8 
-#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 8 HD
-http://159.69.36.73/hls/bein8.m3u8
-#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="BEIN SPORTS ⚽🏀", |S3| BeIN Sports 9 HD
-http://116.203.182.40/hls/bein9.m3u8
-
 
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="وقت المباريات فقط♤",beIN Sports 1 sd
