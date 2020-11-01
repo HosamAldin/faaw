@@ -410,38 +410,22 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arabpage.net/wp-content/uploads/2020/03/%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-%D9%83%D9%8A%D8%AF%D8%B2.jpg" group-title="قنوات أطفال Children",Rotana Kids HD
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="قنوات أطفال Children",Ar:SPACETOON
-https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8?airmaxtv.m3u8
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baraem.tv/images/logo.png" group-title="قنوات أطفال Children",Bein: Baraem
 http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="قنوات أطفال Children",Bein : Jeem 
 http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/06/Gulli-Bil-Arabi.png?resize=850%2C850" group-title="قنوات أطفال Children",Bein:GULLI BIL ARABIE
-http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/307
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network العربية
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="قنوات أطفال Children",BEIN :beIN Boomerang HD
 http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/The_logo_of_be_junior_TV_Channel.png" group-title="قنوات أطفال Children",be junior
 http://digitalxpress.gcdn.co/live1/beinbejunior/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/CWRWzUGWsAAboTd.png" group-title="قنوات أطفال Children",VIP : OSN Disney Channel HD
-http://178.63.48.23:25461/kendairmax/ForOMEu9Tx/309
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/768410454288982016/VfsFhl3R.jpg" group-title="قنوات أطفال Children",koky kids
-http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2416.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://p5.focus.de/img/fotos/crop477365/4510047306-cv4_3-h548-q72-p4/kultur-tom-und-jerry.jpg" group-title="قنوات أطفال Children",TOM & JERRY+
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="قنوات أطفال Children",Ar:SPACETOON
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.masralyoum.net/content/uploads/2019/10/02/84a928c48c.jpg" group-title="قنوات أطفال Children",AR Majid_Kids HD
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/cb94040630343f5e440c2e50ea0be67c.png" group-title="قنوات أطفال Children",TAHA Kids TV
-https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="قنوات أطفال Children",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="قنوات أطفال Children",Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="قنوات أطفال Children",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="Karameesh" tvg-name="Karameesh" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Entertainment/Baraem.png" group-title="قنوات أطفال Children",Karameesh
+#EXTINF:-1 tvg-id="Karameesh" tvg-name="Karameesh" tvg-logo="https://elwekalanews.net/wp-content/uploads/2020/06/%D9%82%D9%86%D8%A7%D8%A9-%D9%83%D8%B1%D8%A7%D9%85%D9%8A%D8%B4.png" group-title="قنوات أطفال Children",Karameesh
 http://digitalxpress.gcdn.co/live1/RTMP-Karameesh/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="قنوات أطفال Children",Ar:TOYOR-طيور الجنة
 http://digitalxpress.gcdn.co/live1/touyourbaby/index.m3u8
@@ -471,8 +455,6 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="AR:MY-MBC ACTION 4K" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION FHD+
 http://161.97.101.27:25461/live/stream/stream1/11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC VARIETY 4K" tvg-logo="https://www.gobx.com/wp-content/uploads/2016/08/MBC-Variety.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC VARIETY HD+
-http://178.63.48.23:25461/airmaxtvosn/swApj6Bq3T/15
 #EXTINF:-1 tvg-id="MBC Bollywood 4k" tvg-name="AR:MY-MBC Bolleywod HD" tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod FHD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="MBC Drama 4k" tvg-name="AR:MY-MBC Drama HD" tvg-logo="https://alnahdanews.com/uploads/images/2020/06/E85Zu.jpeg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama FHD
@@ -491,10 +473,10 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC FM 4K" tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC panoramafm FHD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN+
-http://178.63.48.23:25461/zeeairmaxtv/fb1NWuHLUm/130
-#EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM+
-http://178.63.48.23:25461/zeeairmaxtv/fb1NWuHLUm/129
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN
+http://146.59.203.78:9000/live/8ChlUoUIYB/ECrRqyFpF6/2.m3u8
+#EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM
+http://146.59.203.78:9000/live/8ChlUoUIYB/ECrRqyFpF6/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png"  group-title="قنوات أم بي سيMBC",|MBC| 1 FHD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="قنوات أم بي سيMBC" ,|MBC| 2 FHD
@@ -1081,7 +1063,7 @@ http://82.212.74.99:8000/live/hls/8164.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/928727626998599681/ZwMaNIAd_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-22 TV
 http://82.212.74.99:8000/live/8117.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/campaignme.com/wp-content/uploads/2020/04/thikrayat-logo-tv.png?fit=1024%2C586&ssl=1" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-THIKRAYAT HD
-http://178.63.48.23:25461/sU/EbZcsB7yjV/73
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.satfrequency.com/wp-content/uploads/ktz/Saudi-Quran-Tv-Frequency-2yhl8od1usadqgkqyd0rgq.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi Quran HD
 https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1275138698275966982/GMu3UDPh_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",En TV
