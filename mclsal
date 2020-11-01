@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E01
+https://cdn.alarab.com/h264/160083_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E02
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E03
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E04
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E05
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E06
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E07
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E08
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E09
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E10
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الهيبة 4 الرد الحلقة S04E11
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E01
 https://cdn.alarab.com/h264/159815_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E02
@@ -24,11 +45,11 @@ https://cdn.alarab.com/h264/159958_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E12
 https://cdn.alarab.com/h264/159956_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E13
-
+https://cdn.alarab.com/h264/160023_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E14
-
+https://cdn.alarab.com/h264/160024_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E15
-
+https://cdn.alarab.com/h264/160025_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E16
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E17
@@ -38,6 +59,10 @@ https://cdn.alarab.com/h264/159956_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E19
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E20
+
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",نمرة اتنين الحلقة S01E01
+https://cdn.alarab.com/h264/160060_480p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",من الآخر الحلقة S01E01
 https://cdn.alarab.com/h264/159251_480p.mp4/index-v1-a1.m3u8
@@ -86,9 +111,9 @@ https://cdn.alarab.com/h264/159954_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",من الآخر الحلقة S01E23
 https://cdn.alarab.com/h264/159957_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",من الآخر الحلقة S01E24
-
+https://cdn.alarab.com/h264/159957_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",من الآخر الحلقة S01E25
-
+https://cdn.alarab.com/h264/160040_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",من الآخر الحلقة S01E26
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",من الآخر الحلقة S01E27
@@ -148,9 +173,9 @@ https://cdn.alarab.com/h264/159984_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E24
 https://cdn.alarab.com/h264/160005_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E25
-
+https://cdn.alarab.com/h264/160028_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E26
-
+https://cdn.alarab.com/h264/160084_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",اسود فاتح الحلقة S01E27
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",المنصة الحلقة S01E01
 https://admvta.cdn.mangomolo.com/vod/_definst_/smil:2020-09-03/vidgkdOhFD9nR.smil/chunklist.m3u8
@@ -259,7 +284,9 @@ https://cdn.alarab.com/h264/159983_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E39
 https://cdn.alarab.com/h264/160006_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E40
-
+https://cdn.alarab.com/h264/160027_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",الوجه الآخر الحلقة S01E41
+https://cdn.alarab.com/h264/160081_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E01
 https://cdn.alarab.com/h264/158902_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",قوت القلوب 2 الحلقة S02E02
