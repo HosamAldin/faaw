@@ -43,16 +43,11 @@ http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/92
 #EXTINF:-1 tvg-id="" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT HD
 http://178.63.48.23:25461/airmaxtvbein/urHUPjVDhP/91
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
-https://akamai2-me.cdn.booyah.live/hls/113132/28043406.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORT 1 FHD
-http://ydv2wp0o6ma.a.trbcdn.net/hls/CDN-HLS-Bein1-CC.m3u8
-http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1120_1.png" group-title="ART", |S1| ART Aflam 1
 http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
