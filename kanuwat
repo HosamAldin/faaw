@@ -32,32 +32,46 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 1 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/1
+http://best-live-iptv.xyz:25461/2day/BEST-LIVE/1
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT2.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 2 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/2
+http://best-live-iptv.xyz:25461/2day/BEST-LIVE/2
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT3.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 3 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/3
+http://best-live-iptv.xyz:25461/2day/BEST-LIVE/3
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT4.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 4 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/4
+http://best-live-iptv.xyz:25461/2day/BEST-LIVE/4
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT5.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 5 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/5
+http://best-live-iptv.xyz:25461/2day/BEST-LIVE/5
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT6.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 6 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/6
+http://best-live-iptv.xyz:25461/2day/BEST-LIVE/6
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 7 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE.app/BEST-LIVE.app/7
+http://best-live-iptv.xyz:25461/2day/BEST-LIVE/7
 
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 1 HD
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD1/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT2.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 2 HD
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinLow2/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT3.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 3 HD
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD3/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT4.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 4 HD
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinLow4/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT5.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 5 HD
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD5/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT6.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 6 HD
-http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinHD6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports1.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 01 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports1.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports2.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 02 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports2.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports3.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 03 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports3.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports4.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 04 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports4.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports5.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 05 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports5.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports6.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 06 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports6.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports7.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 07 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports7.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports8.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 08 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports8.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports9.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 09 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports9.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports10.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 10 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports10.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports11.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 11 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports11.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports12.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 12 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports12.qa.m3u8
+#EXTINF:-1 tvg-logo="https://media.tv4.live/beINSports13.qa.png" group-title="قنوات بين سبور BEIN SPORT",|10days| Sports 13 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports13.qa.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1120_1.png" group-title="ART", |S1| ART Aflam 1
 http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
