@@ -744,6 +744,28 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسطين",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 1" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",Al Fajer TV 1
+https://streamer1.furrera.ps/FajerTV1/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 2" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",Al Fajer TV 2
+https://streamer1.furrera.ps/FajerTV2/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 3" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",Al Fajer TV 3
+https://streamer1.furrera.ps/FajerTV3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 4" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",Al Fajer TV 4
+https://streamer1.furrera.ps/FajerTV4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 5" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",Al Fajer TV 5
+https://streamer1.furrera.ps/FajerTV5/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="sport" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",sport
+https://streamer1.furrera.ps/BeinSports1/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="FurreraCinema" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",FurreraCinema
+https://streamer1.furrera.ps/FurreraCinema/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="FurreraAflam" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",FurreraAflam
+https://streamer1.furrera.ps/FurreraAflam/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="felesport1" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",felesport1
+https://streamer1.furrera.ps/BeinSport01/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="felesport3" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",felesport2
+https://streamer1.furrera.ps/BeinSport03/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+#EXTINF:-1 tvg-id="" tvg-name="felesport3" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="PALESTINE قنوات فلسطين",felesport3
+https://streamer1.furrera.ps/BeinSport03/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ps-alfajer-tv-1195.jpg" group-title="PALESTINE قنوات فلسطين",AlFajer 
 http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="https://gulf365.co/content/uploads/2019/09/26/c524a38aa6.jpg" group-title="PALESTINE قنوات فلسطين",AlFajer 2
