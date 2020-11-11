@@ -437,7 +437,7 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arabpage.net/wp-content/uploads/2020/03/%D9%82%D9%86%D8%A7%D8%A9-%D8%B1%D9%88%D8%AA%D8%A7%D9%86%D8%A7-%D9%83%D9%8A%D8%AF%D8%B2.jpg" group-title="قنوات أطفال Children",Rotana Kids HD
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="قنوات أطفال Children",Ar:SPACETOON
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8?airmaxtv.m3u8
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baraem.tv/images/logo.png" group-title="قنوات أطفال Children",Bein: Baraem
 http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="قنوات أطفال Children",Bein : Jeem 
