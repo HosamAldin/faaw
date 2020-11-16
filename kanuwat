@@ -31,20 +31,65 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="beIN Sports 1 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT1.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 1 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE/BEST-LIVE1212/1
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="beIN Sports 2 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT2.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 2 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE/BEST-LIVE1212/2
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="beIN Sports 3 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT3.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 3 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE/BEST-LIVE1212/3
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="beIN Sports 4 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT4.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 4 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE/BEST-LIVE1212/4
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="beIN Sports 5 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT5.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 5 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE/BEST-LIVE1212/5
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="beIN Sports 6 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEINSPORT6.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 6 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE/BEST-LIVE1212/6
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="قنوات بين سبور BEIN SPORT",beIN Sports 7 SD
-http://best-live-iptv.xyz:25461/BEST-LIVE/BEST-LIVE1212/7
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD1
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1442
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD2
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1443
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD3
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1444
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD4
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1445
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD5
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1446
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD6
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1447
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD7
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1448
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD8
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1449
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD9
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1450
+#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD10
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1451
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEIN SPORT LOW 1 
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/15
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD2.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEIN SPORT LOW 2 
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/16
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD3.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEIN SPORT LOW 3 
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/17
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD4.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEIN SPORT LOW 4 
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD5.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEIN SPORT LOW 5 
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/19
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 1 ˢᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/13
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 2 ˢᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/14
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 3 ˢᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/100
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 1 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3T7Ky/HD2.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 2 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSjJxv2/HD3.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 3 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rFV69xp/HD4.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 4 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C1Jt1n0/HD5.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 5 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RSKRsZ/HD6.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 6 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYfQFGh/HD7.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 7 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YXC7Wgy/HD8.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 8 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zX4TC60/HD9.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 9 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/T8Gw0JT/HD10.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEINSPORTS 10 ʰᵈ
+http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/10
 
 
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1120_1.png" group-title="ART", |S1| ART Aflam 1
