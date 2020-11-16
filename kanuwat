@@ -31,26 +31,6 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD1
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1442
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD2
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1443
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD3
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1444
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD4
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1445
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD5
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1446
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD6
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1447
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD7
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1448
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD8
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1449
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD9
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1450
-#EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|osn|Bein Sport HD10
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/1451
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pm2hWss/HD1.png" group-title="قنوات بين سبور BEIN SPORT",|best|BEIN SPORT LOW 1 
 http://best-live-iptv.xyz:25461/BEST-LIVE1313/BEST-LIVE1313/15
