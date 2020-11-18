@@ -572,9 +572,9 @@ http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtolive.com/wp-content/uploads/Assirat-TV.tvtolive.com_.jpg" group-title="LEBANON قنوات لبنان",Assirat TV
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
-http://144.76.226.29:8080/live/streeem/streeem/190.m3u8
+http://p-cdn1-604-cg15-linear-cbd46b77.movetv.com/clipslist/384/20201118T010000Z/20201118T020000Z/master_7_5_fairplay.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
-http://144.76.226.29:8080/live/streeem/streeem/165.m3u8
+http://p-cdn1-602-cg15-linear-cbd46b77.movetv.com/clipslist/118/20201118T003000Z/20201118T023000Z/master_7_5_fairplay.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/dHYua2IucGFsZXN0aW5lX3NjcmVlbl8xXzE1NTc2MzQyNTFfMDMz/screen-1.jpg?fakeurl=1&type=.jpg" group-title="PALESTINE قنوات فلسطين",▂ ▄ ▅ ▆☆ PALESTINE قنوات فلسيطين ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسطين",النسخة المدفوعة AirMax TV
