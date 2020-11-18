@@ -31,9 +31,9 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="قنوات بين سبور BEIN SPORT", |kurd| BeIN  News
+#EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN  News
 http://194.99.21.90/beinNews/index.m3u8
-#EXTINF:-1 tvg-id="beinsports.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="قنوات بين سبور BEIN SPORT", |kurd| BeIN Sport
+#EXTINF:-1 tvg-id="beinsports.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sport
 http://194.99.21.90/bein14/index.m3u8
 #EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 1 ˢᵈ
 http://194.99.21.90/Beinsport1/index.m3u8
