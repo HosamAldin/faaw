@@ -31,7 +31,10 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
-
+#EXTINF:-1 tvg-id="beinsportsnews.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="قنوات بين سبور BEIN SPORT", |kurd| BeIN  News
+http://194.99.21.90/beinNews/index.m3u8
+#EXTINF:-1 tvg-id="beinsports.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD-1.png" group-title="قنوات بين سبور BEIN SPORT", |kurd| BeIN Sport
+http://194.99.21.90/bein14/index.m3u8
 #EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 1 ˢᵈ
 http://194.99.21.90/Beinsport1/index.m3u8
 #EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 2 ˢᵈ
@@ -148,32 +151,45 @@ http://digitalxpress.gcdn.co/live1/osnartaflam2/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1195_1.png" group-title="ART", |S1| ART Cinema
 http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
 
-
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="OSN", |S1| OSN Ya Hala Cinma HD
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="او اس انOSN", |S1| OSN Ya Hala Cinma HD
 http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/B4P.png" group-title="OSN", |S1| B4u
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/B4P.png" group-title="او اس انOSN", |S1| B4u
 http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2000px-WWE_Logo.svg.png" group-title="OSN", |S1| OSN WWE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2000px-WWE_Logo.svg.png" group-title="او اس انOSN", |S1| OSN WWE HD
 http://dx3.gcdn.co/OSNWWE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN WWE1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="او اس انOSN",AR: OSN WWE1 HD
 http://dx3.gcdn.co/OSNWWE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="OSN", |S1| OSN kids
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="او اس انOSN", |S1| OSN kids
 http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
-#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="OSN", |S1| OSN Movies HD
+#EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="او اس انOSN", |S1| OSN Movies HD
 http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="OSN", |S1| beIN Movies 1 HD
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1322_1.png" group-title="او اس انOSN", |S1| beIN Movies 1 HD
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="OSN", |S1| beIN Movies 2 HD
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="او اس انOSN", |S1| beIN Movies 2 HD
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1324_1.png" group-title="OSN", |S1| beIN Movies 3 HD
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1324_1.png" group-title="او اس انOSN", |S1| beIN Movies 3 HD
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="OSN", |S1| beIN Movies 4 HD
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1325_1.png" group-title="او اس انOSN", |S1| beIN Movies 4 HD
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1327_1.png" group-title="OSN", |S1| beIN Series 1 HD
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1327_1.png" group-title="او اس انOSN", |S1| beIN Series 1 HD
 http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1328_1.png" group-title="OSN", |S1| beIN Series 2 HD
+#EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1328_1.png" group-title="او اس انOSN", |S1| beIN Series 2 HD
 http://digitalxpress.gcdn.co/live1/BEINSERIESHD2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",▂ ▄ ▅ ▆☆ NETFLIX CHANNELS ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="DMC" tvg-logo="http://omgchannel.net/image/cache/catalog/logo-210x89.png" group-title="قنوات نتفليكسNETFLIX",Omg Channel TV
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",Nas Tv
+http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",▂ ▄ ▅ ▆☆ SPORT CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",النسخة المدفوعة AirMax TV
