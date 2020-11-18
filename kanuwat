@@ -32,6 +32,27 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="bein1hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD1-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 1 ˢᵈ
+http://194.99.21.90/Beinsport1/index.m3u8
+#EXTINF:-1 tvg-id="bein2hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD2-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 2 ˢᵈ
+http://194.99.21.90/Bein2/index.m3u8
+#EXTINF:-1 tvg-id="bein3hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD3-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 3 ˢᵈ
+http://194.99.21.90/Bein3x/index.m3u8
+#EXTINF:-1 tvg-id="bein4hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD4-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 4 ˢᵈ
+http://194.99.21.90/Bei4/index.m3u8
+#EXTINF:-1 tvg-id="bein5hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD5-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 5 ˢᵈ
+http://194.99.21.90/Bein5/index.m3u8
+#EXTINF:-1 tvg-id="bein6hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD6-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 6 ˢᵈ
+http://194.99.21.90/bein6/index.m3u8
+#EXTINF:-1 tvg-id="bein7hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD7-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 7 ˢᵈ
+http://194.99.21.90/bein7/index.m3u8
+#EXTINF:-1 tvg-id="bein8hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD8-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 8 ˢᵈ
+http://194.99.21.90/bein8/index.m3u8
+#EXTINF:-1 tvg-id="bein9hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD9-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 9 ˢᵈ
+http://194.99.21.90/bein9/index.m3u8
+#EXTINF:-1 tvg-id="bein10hd.jsc" tvg-logo="https://cdn.bein.com/mena/wp-content/uploads/sites/3/2020/06/HD10-1.png" group-title="قنوات بين سبور BEIN SPORT",  BeIN Sports 10 ˢᵈ
+http://194.99.21.90/bein10/index.m3u8
+
 #EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|domino|beIN Sports 1 HD
 http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.ts
 #EXTINF:-1 group-title="قنوات بين سبور BEIN SPORT",|domino|beIN Sports 2 HD
