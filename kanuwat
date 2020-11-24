@@ -89,6 +89,8 @@ http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
 http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.elcinema.com/tvguide/1328_1.png" group-title="او اس انOSN", |S1| beIN Series 2 HD
 http://digitalxpress.gcdn.co/live1/BEINSERIESHD2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.fatafeat.com/static/images/logo.png" group-title="او اس انOSN",Fatafeat
+http://digitalxpress.gcdn.co/live1/beinfatafeathd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",▂ ▄ ▅ ▆☆ NETFLIX CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
@@ -113,6 +115,10 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master570.m3u8
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master570.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C2rNnvXWQAAOHtz.jpg" group-title="قنوات رياضية SPORT",ALKASS 5
 https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnline/AlkassOnline/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/SaudiSport1.sa.png" group-title="قنوات رياضية SPORT",Saudi Sport 1
+http://116.203.40.131:80/hls/ksa1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/SaudiSport2.sa.png" group-title="قنوات رياضية SPORT",Saudi Sport 2
+http://116.203.40.131:80/hls/ksa2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="قنوات رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="قنوات رياضية SPORT",Abu Dhabi Sports 2
@@ -586,7 +592,7 @@ http://digitalxpress.gcdn.co/live1/mtvlebanon/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
 http://digitalxpress.gcdn.co/live1/otv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8?airmaxtv.m3u8
+https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
 https://live.alittihad.tv/ittihad/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="almanar" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="LEBANON قنوات لبنان",Al Manar
