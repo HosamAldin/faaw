@@ -585,6 +585,8 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="LBCI" tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",AR:LBN-ldc lebanon
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON قنوات لبنان",Tele Liban
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.meietv.de/images/logo.png" group-title="LEBANON قنوات لبنان",meie tv DE
 https://stream.meietv.de/live/meietv.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
@@ -612,8 +614,6 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
 http://ssitv.ddns.net:9074/channel7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON قنوات لبنان",Tele Liban
-http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/dHYua2IucGFsZXN0aW5lX3NjcmVlbl8xXzE1NTc2MzQyNTFfMDMz/screen-1.jpg?fakeurl=1&type=.jpg" group-title="PALESTINE قنوات فلسطين",▂ ▄ ▅ ▆☆ PALESTINE قنوات فلسيطين ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسطين",النسخة المدفوعة AirMax TV
