@@ -119,6 +119,10 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnline/AlkassOnline/chunk
 http://116.203.40.131:80/hls/ksa1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/sa/SaudiSport2.sa.png" group-title="قنوات رياضية SPORT",Saudi Sport 2
 http://116.203.40.131:80/hls/ksa2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="قنوات رياضية SPORT",on time Sport 1
+http://channelsstream.xyz:8080/live/streeem/streeem/112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="قنوات رياضية SPORT",on time Sport 2
+http://channelsstream.xyz:8080/live/streeem/streeem/113.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="قنوات رياضية SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="قنوات رياضية SPORT",Abu Dhabi Sports 2
