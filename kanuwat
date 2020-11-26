@@ -581,7 +581,7 @@ http://185.96.70.242:1935/live/alltv/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Syria قنوات سورية",AR:SYR-EL TARBAOUIA
 http://82.137.248.16:1935/SEdu/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
-http://stream.sama-tv.net:8080/hls/samatv.m3u8
+http://144.76.226.29:8080/live/streeem/streeem/34.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alalam-news-channel-syria-ir-sy.png" group-title="Syria قنوات سورية",AR:SYR-ALAM-SYRIA-TV
 #EXTINF:-1 tvg-id="LBCI" tvg-logo="https://i.ytimg.com/vi/MNsSa8k-F8U/hqdefault.jpg" group-title="LEBANON قنوات لبنان",▂ ▄ ▅ ▆☆ LEBANON قنوات لبنان ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
