@@ -768,14 +768,13 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alfath.helool.net/images/d2-logo.png" group-title="قنوات المصرية Egypt",Fateh TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/fb_image_cbc.jpg" group-title="قنوات المصرية Egypt",CBC Drama
-
-#EXTINF:0 tvg-id="ext" group-title="arabic",ahly
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ahly
 http://144.76.226.29:8080/streeem/streeem/59
-#EXTINF:0 tvg-id="Ten.es" group-title="arabic",ten
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ten
 http://144.76.226.29:8080/streeem/streeem/60
-#EXTINF:0 tvg-id="ext" group-title="arabic",sada
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",sada
 http://144.76.226.29:8080/streeem/streeem/78
-#EXTINF:0 tvg-id="ext" group-title="arabic",Kahera m
+#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Kahera m
 http://144.76.226.29:8080/streeem/streeem/115
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",dmc drama
 http://144.76.226.29:8080/streeem/streeem/199
@@ -858,14 +857,13 @@ https://bit.ly/39YjahM
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:EchoroukTV
 http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8?airmaxtv.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="arabic",alger3
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="ALGERIEN قنوات الجزائر",alger 2
+http://144.76.226.29:8080/streeem/streeem/31
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/23/9b/c9/239bc964a689c733d702ac70174455f2.png" group-title="ALGERIEN قنوات الجزائر",alger3
 http://144.76.226.29:8080/streeem/streeem/53
-#EXTINF:0 tvg-id="ext" group-title="arabic",alger 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" group-title="ALGERIEN قنوات الجزائر",alger 4
 http://144.76.226.29:8080/streeem/streeem/101
 
-#EXTINF:0 tvg-id="ext" group-title="arabic",entv
-http://144.76.226.29:8080/streeem/streeem/31
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsimages/appimg-ramTnpaf.jpg" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
