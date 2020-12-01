@@ -322,6 +322,8 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baraem.tv/images/logo.png" group-title="قنوات أطفال Children",Bein: Baraem
 http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
+
+http://digitalxpress.gcdn.co/live1/beinbaraem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="قنوات أطفال Children",Bein : Jeem 
 http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network العربية
@@ -714,7 +716,7 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Alfallujah_tv.png" group-title="قنوات العراق IRAQ",AR:IRQ-Al Fallujah
-https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8?airmaxtv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/BfsJ7ttKI3s/hqdefault.jpg" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rafidain FHD
