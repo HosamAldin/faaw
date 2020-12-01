@@ -322,7 +322,7 @@ https://cdn.alarab.com/h264/160404_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E12
 https://cdn.alarab.com/h264/160526_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E13
-
+https://cdn.alarab.com/h264/160798_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E14
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E15
@@ -506,7 +506,7 @@ https://cdn.alarab.com/h264/160252_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E13
 https://cdn.alarab.com/h264/160507_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E14
-
+https://cdn.alarab.com/h264/160786_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E15
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E16
@@ -1183,6 +1183,8 @@ https://cdn.alarab.com/h264/160149_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160281_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E11
 https://cdn.alarab.com/h264/160406_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E12
+https://cdn.alarab.com/h264/160536_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 1
 https://cdn.alarab.com/h264/151632_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 2
