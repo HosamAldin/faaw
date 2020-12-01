@@ -64,7 +64,8 @@ http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-
+#EXTINF:-1 tvg-logo="https://www.almolakhs.com/wp-content/uploads/2019/02/mix-hollywood-new-frequency-1.jpg" group-title="او اس انOSN",mix 1
+http://144.76.226.29:8080/streeem/streeem/118
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="او اس انOSN", |S1| OSN Ya Hala Cinma HD
 http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://content.osn.com/logo/channel/cropped/B4P.png" group-title="او اس انOSN", |S1| B4u
@@ -524,6 +525,9 @@ http://digitalxpress.gcdn.co/live1/RTMP-Rotana_Music/index.m3u8
 http://digitalxpress.gcdn.co/live1/RTMP-Rotana_Khalijiah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://atf-image.s3.us-east-1.amazonaws.com/uploads/partner/partner_151696528837.png" group-title="قنوات روتانا ROTANA",lbc
+http://144.76.226.29:8080/streeem/streeem/194
 #EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="" tvg-name="MUS:AR-RADIO ROTANA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
@@ -580,8 +584,6 @@ http://82.137.248.16:1935/Souryana/stream10112020/chunklist.m3u8
 http://vod.alikhbaria.net:1935/Snews/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="Syria قنوات سورية",AR:SYR-ORIENT.NEWS
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="Syria قنوات سورية",AR:SYR-ORIENT.NEWS+
-http://144.76.226.29:8080/streeem/streeem/54
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/816930125103198208/-Sv8c7HE.jpg" group-title="Syria قنوات سورية",AR:SYR- راديو مرح
@@ -638,7 +640,7 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
 http://channelsstream.xyz:8080/live/streeem/streeem/209.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
-
+http://144.76.226.29:8080/streeem/streeem/165
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD+
 http://channelsstream.xyz:8080/live/streeem/streeem/165.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/dHYua2IucGFsZXN0aW5lX3NjcmVlbl8xXzE1NTc2MzQyNTFfMDMz/screen-1.jpg?fakeurl=1&type=.jpg" group-title="PALESTINE قنوات فلسطين",▂ ▄ ▅ ▆☆ PALESTINE قنوات فلسيطين ☆▆ ▅ ▄ ▂ ▁
@@ -767,20 +769,22 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?airmaxtv.m3u8
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/fb_image_cbc.jpg" group-title="قنوات المصرية Egypt",CBC Drama
 
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",اجيال
-http://144.76.226.29:8080/streeem/streeem/195
+#EXTINF:0 tvg-id="ext" group-title="arabic",ahly
+http://144.76.226.29:8080/streeem/streeem/59
+#EXTINF:0 tvg-id="Ten.es" group-title="arabic",ten
+http://144.76.226.29:8080/streeem/streeem/60
+#EXTINF:0 tvg-id="ext" group-title="arabic",sada
+http://144.76.226.29:8080/streeem/streeem/78
+#EXTINF:0 tvg-id="ext" group-title="arabic",Kahera m
+http://144.76.226.29:8080/streeem/streeem/115
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",dmc drama
 http://144.76.226.29:8080/streeem/streeem/199
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",cbc1
 http://144.76.226.29:8080/streeem/streeem/200
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",cbc drama1
 http://144.76.226.29:8080/streeem/streeem/201
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",elhdaf
-http://144.76.226.29:8080/streeem/streeem/205
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",dmc1
 http://144.76.226.29:8080/streeem/streeem/206
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ON SPORT
-http://144.76.226.29:8080/streeem/streeem/210
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",On sport11
 http://144.76.226.29:8080/streeem/streeem/217
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",on dramaa
@@ -791,20 +795,6 @@ http://144.76.226.29:8080/streeem/streeem/125
 http://144.76.226.29:8080/streeem/streeem/127
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",nahara
 http://144.76.226.29:8080/streeem/streeem/128
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",B4U M
-http://144.76.226.29:8080/streeem/streeem/129
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",pal sport
-http://144.76.226.29:8080/streeem/streeem/131
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",afaq
-http://144.76.226.29:8080/streeem/streeem/132
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",om darman
-http://144.76.226.29:8080/streeem/streeem/133
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",nbn1
-http://144.76.226.29:8080/streeem/streeem/165
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",tom
-http://144.76.226.29:8080/streeem/streeem/166
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",braem
-http://144.76.226.29:8080/streeem/streeem/175
 #EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",al hayat
 http://144.76.226.29:8080/streeem/streeem/179
 #EXTINF:0 tvg-id="vremya" group-title="قنوات المصرية Egypt",time
@@ -873,6 +863,9 @@ http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8?airmaxtv.m3u8
 http://144.76.226.29:8080/streeem/streeem/53
 #EXTINF:0 tvg-id="ext" group-title="arabic",alger 4
 http://144.76.226.29:8080/streeem/streeem/101
+
+#EXTINF:0 tvg-id="ext" group-title="arabic",entv
+http://144.76.226.29:8080/streeem/streeem/31
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsimages/appimg-ramTnpaf.jpg" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -1781,120 +1774,3 @@ https://ustream2.panet.co.il/vod/197/197643/197643.mp4/playlist.m3u8?airmaxtv.m3
 https://ustream2.panet.co.il/vod/169/169304/169304.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام اطفال",AR:سنافر
 https://ustream2.panet.co.il/vod/77/77262/77262.mp4/playlist.m3u8?airmaxtv.m3u8
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="arabic",iraq
-http://144.76.226.29:8080/streeem/streeem/14
-#EXTINF:0 tvg-id="ext" group-title="arabic",lana plus
-http://144.76.226.29:8080/streeem/streeem/20
-#EXTINF:0 tvg-id="ext" group-title="arabic",sada 2
-http://144.76.226.29:8080/streeem/streeem/21
-#EXTINF:0 tvg-id="ext" group-title="arabic",sada drama
-http://144.76.226.29:8080/streeem/streeem/22
-#EXTINF:0 tvg-id="ext" group-title="arabic",kahera we alnas2
-http://144.76.226.29:8080/streeem/streeem/24
-#EXTINF:0 tvg-id="ext" group-title="arabic",dream
-http://144.76.226.29:8080/streeem/streeem/25
-#EXTINF:0 tvg-id="ext" group-title="arabic",blue nile
-http://144.76.226.29:8080/streeem/streeem/26
-#EXTINF:0 tvg-id="ext" group-title="arabic",fajr 1
-http://144.76.226.29:8080/streeem/streeem/28
-#EXTINF:0 tvg-id="ext" group-title="arabic",fajr 2
-http://144.76.226.29:8080/streeem/streeem/29
-#EXTINF:0 tvg-id="ext" group-title="arabic",ksa sport 2
-http://144.76.226.29:8080/streeem/streeem/30
-#EXTINF:0 tvg-id="ext" group-title="arabic",entv
-http://144.76.226.29:8080/streeem/streeem/31
-#EXTINF:0 tvg-id="ext" group-title="arabic",اذاعة
-http://144.76.226.29:8080/streeem/streeem/32
-#EXTINF:0 tvg-id="ext" group-title="arabic",المحور
-http://144.76.226.29:8080/streeem/streeem/33
-#EXTINF:0 tvg-id="ext" group-title="arabic",sama syria
-http://144.76.226.29:8080/streeem/streeem/34
-#EXTINF:0 tvg-id="ext" group-title="arabic",jordon sport
-http://144.76.226.29:8080/streeem/streeem/35
-#EXTINF:0 tvg-id="ext" group-title="arabic",tele liban
-http://144.76.226.29:8080/streeem/streeem/36
-#EXTINF:0 tvg-id="ext" group-title="arabic",شباب ورياضة
-http://144.76.226.29:8080/streeem/streeem/37
-#EXTINF:0 tvg-id="ext" group-title="arabic",sofra
-http://144.76.226.29:8080/streeem/streeem/38
-#EXTINF:0 tvg-id="ext" group-title="arabic",ksa sport
-http://144.76.226.29:8080/streeem/streeem/40
-#EXTINF:0 tvg-id="ZeeAflam.net" group-title="arabic",zee aflam
-http://144.76.226.29:8080/streeem/streeem/45
-#EXTINF:0 tvg-id="ext" group-title="arabic",zee al
-http://144.76.226.29:8080/streeem/streeem/46
-#EXTINF:0 tvg-id="Sbc.gr" group-title="arabic",sbc
-http://144.76.226.29:8080/streeem/streeem/49
-#EXTINF:0 tvg-id="ext" group-title="arabic",carton
-http://144.76.226.29:8080/streeem/streeem/50
-#EXTINF:0 tvg-id="ext" group-title="arabic",alger3
-http://144.76.226.29:8080/streeem/streeem/53
-#EXTINF:0 tvg-id="ext" group-title="arabic",orient
-http://144.76.226.29:8080/streeem/streeem/54
-#EXTINF:0 tvg-id="ext" group-title="arabic",watania1
-http://144.76.226.29:8080/streeem/streeem/56
-#EXTINF:0 tvg-id="ext" group-title="arabic",watania2
-http://144.76.226.29:8080/streeem/streeem/57
-#EXTINF:0 tvg-id="ext" group-title="arabic",ahly
-http://144.76.226.29:8080/streeem/streeem/59
-#EXTINF:0 tvg-id="Ten.es" group-title="arabic",ten
-http://144.76.226.29:8080/streeem/streeem/60
-#EXTINF:0 tvg-id="ext" group-title="arabic",funoon
-http://144.76.226.29:8080/streeem/streeem/61
-#EXTINF:0 tvg-id="ext" group-title="arabic",taha
-http://144.76.226.29:8080/streeem/streeem/62
-#EXTINF:0 tvg-id="ext" group-title="arabic",karamesh
-http://144.76.226.29:8080/streeem/streeem/64
-#EXTINF:0 tvg-id="natgeowild" group-title="arabic",wild
-http://144.76.226.29:8080/streeem/streeem/65
-#EXTINF:0 tvg-id="ext" group-title="arabic",koky
-http://144.76.226.29:8080/streeem/streeem/66
-#EXTINF:0 tvg-id="ext" group-title="arabic",nas
-http://144.76.226.29:8080/streeem/streeem/67
-#EXTINF:0 tvg-id="ext" group-title="arabic",roya
-http://144.76.226.29:8080/streeem/streeem/70
-#EXTINF:0 tvg-id="ext" group-title="arabic",ann
-http://144.76.226.29:8080/streeem/streeem/72
-#EXTINF:0 tvg-id="ext" group-title="arabic",sada
-http://144.76.226.29:8080/streeem/streeem/78
-#EXTINF:0 tvg-id="ext" group-title="arabic",alrai
-http://144.76.226.29:8080/streeem/streeem/83
-#EXTINF:0 tvg-id="ext" group-title="arabic",b4u plus
-http://144.76.226.29:8080/streeem/streeem/84
-#EXTINF:0 tvg-id="baby-tv" group-title="arabic",baby
-http://144.76.226.29:8080/streeem/streeem/100
-#EXTINF:0 tvg-id="ext" group-title="arabic",alger 4
-http://144.76.226.29:8080/streeem/streeem/101
-#EXTINF:0 tvg-id="ext" group-title="arabic",on sport2 m
-http://144.76.226.29:8080/streeem/streeem/113
-#EXTINF:0 tvg-id="ext" group-title="arabic",Kahera m
-http://144.76.226.29:8080/streeem/streeem/115
-#EXTINF:0 tvg-id="ext" group-title="arabic",rt af1
-http://144.76.226.29:8080/streeem/streeem/116
-#EXTINF:0 tvg-id="ext" group-title="arabic",mix 1
-http://144.76.226.29:8080/streeem/streeem/118
-#EXTINF:0 tvg-id="ext" group-title="arabic",rt af 2
-http://144.76.226.29:8080/streeem/streeem/122
-#EXTINF:0 tvg-id="ext" group-title="arabic",Lana
-http://144.76.226.29:8080/streeem/streeem/182
-#EXTINF:0 tvg-id="ext" group-title="arabic",syr drama
-http://144.76.226.29:8080/streeem/streeem/189
-#EXTINF:0 tvg-id="ext" group-title="arabic",ldc-1
-http://144.76.226.29:8080/streeem/streeem/193
-#EXTINF:0 tvg-id="lbc.il" group-title="arabic",lbc
-http://144.76.226.29:8080/streeem/streeem/194
-#EXTINF:0 tvg-id="ext" group-title="arabic",jadeed
-http://144.76.226.29:8080/streeem/streeem/209
-#EXTINF:0 tvg-id="mtv-rus" group-title="arabic",MTV
-http://144.76.226.29:8080/streeem/streeem/211
-#EXTINF:0 tvg-id="ext" group-title="arabic",otv1
-http://144.76.226.29:8080/streeem/streeem/213
-#EXTINF:0 tvg-id="ext" group-title="arabic",iraq news
-http://144.76.226.29:8080/streeem/streeem/214
-#EXTINF:0 tvg-id="ext" group-title="arabic",eqdawfs
-http://144.76.226.29:8080/streeem/streeem/215
-#EXTINF:0 tvg-id="ext" group-title="arabic",future
-http://144.76.226.29:8080/streeem/streeem/216
