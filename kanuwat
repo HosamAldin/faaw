@@ -616,10 +616,23 @@ https://stream.meietv.de/live/meietv.m3u8
 http://digitalxpress.gcdn.co/live1/mtvlebanon/index.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD+
 http://144.76.226.29:8080/streeem/streeem/211
+#EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD++
+http://ssitv.ddns.net:9074/channel1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
+http://144.76.226.29:8080/streeem/streeem/209
+#EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
+http://channelsstream.xyz:8080/live/streeem/streeem/209.m3u8
+#EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED++
+http://ssitv.ddns.net:9074/channel7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="LBCI" tvg-logo="https://www.lbcgroup.tv/newsimages/News-P-234427-635804074242143842.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-ldc 2
+http://ssitv.ddns.net:9074/channel6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
 http://digitalxpress.gcdn.co/live1/otv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.turk-now.com/wp-content/uploads/2020/04/2832.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV 1 HD
 http://144.76.226.29:8080/streeem/streeem/213
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.turk-now.com/wp-content/uploads/2020/04/2832.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV 1 HD+
+http://ssitv.ddns.net:9074/channel78/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
@@ -638,10 +651,7 @@ https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtolive.com/wp-content/uploads/Assirat-TV.tvtolive.com_.jpg" group-title="LEBANON قنوات لبنان",Assirat TV
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
-	http://144.76.226.29:8080/streeem/streeem/209
-#EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
-http://channelsstream.xyz:8080/live/streeem/streeem/209.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
 http://144.76.226.29:8080/streeem/streeem/165
 #EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD+
@@ -866,7 +876,8 @@ http://144.76.226.29:8080/streeem/streeem/31
 http://144.76.226.29:8080/streeem/streeem/53
 #EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" group-title="ALGERIEN قنوات الجزائر",alger 4
 http://144.76.226.29:8080/streeem/streeem/101
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="ALGERIEN قنوات الجزائر",alger 2+
+http://54.36.122.126/canal_algerie.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsimages/appimg-ramTnpaf.jpg" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
