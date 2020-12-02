@@ -24,6 +24,14 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg" group-title="قنوات بين سبور BEIN SPORT",Bein Sport News 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
+http://akamai2-me.cdn.booyah.live/hls/113137/32753344.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
+http://akamai2-me.cdn.booyah.live/hls/113134/34588904.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
+http://akamai2-me.cdn.booyah.live/hls/113138/33572941.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
+http://akamai2-me.cdn.booyah.live/hls/113132/32751874.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
@@ -622,17 +630,10 @@ http://ssitv.ddns.net:9074/channel1/tracks-v1a1/mono.m3u8
 http://144.76.226.29:8080/streeem/streeem/209
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
 http://channelsstream.xyz:8080/live/streeem/streeem/209.m3u8
-#EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED++
-http://ssitv.ddns.net:9074/channel7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="LBCI" tvg-logo="https://www.lbcgroup.tv/newsimages/News-P-234427-635804074242143842.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-ldc 2
-http://ssitv.ddns.net:9074/channel6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
 http://digitalxpress.gcdn.co/live1/otv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.turk-now.com/wp-content/uploads/2020/04/2832.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV 1 HD
 http://144.76.226.29:8080/streeem/streeem/213
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.turk-now.com/wp-content/uploads/2020/04/2832.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV 1 HD+
-http://ssitv.ddns.net:9074/channel78/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
