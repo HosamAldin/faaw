@@ -385,7 +385,7 @@ https://cdn.alarab.com/h264/160420_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E11
 https://cdn.alarab.com/h264/160550_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E12
-
+https://cdn.alarab.com/h264/160845_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E13
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E14
@@ -786,7 +786,7 @@ https://cdn.alarab.com/h264/160419_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E15
 https://cdn.alarab.com/h264/160549_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E16
-
+https://cdn.alarab.com/h264/160841_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E17
 
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E18
@@ -1185,6 +1185,8 @@ https://cdn.alarab.com/h264/160281_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160406_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E12
 https://cdn.alarab.com/h264/160536_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E13
+https://cdn.alarab.com/h264/160800_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 1
 https://cdn.alarab.com/h264/151632_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 2
@@ -1221,6 +1223,7 @@ https://cdn.alarab.com/h264/159897_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160031_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 18
 https://cdn.alarab.com/h264/160198_480p.mp4/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 19
 https://cdn.alarab.com/h264/160314_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 20
@@ -1695,7 +1698,7 @@ https://cdn.alarab.com/h264/160435_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 26
 https://cdn.alarab.com/h264/160551_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 27
-
+https://cdn.alarab.com/h264/160854_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 28
 
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 29
@@ -1763,7 +1766,7 @@ https://cdn.alarab.com/h264/160409_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 29
 https://cdn.alarab.com/h264/160529_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 30
-
+https://cdn.alarab.com/h264/160823_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 1
 https://cdn.alarab.com/h264/151830_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 2
