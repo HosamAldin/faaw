@@ -905,6 +905,11 @@ https://master.starmena-cloud.com/hls/abna.m3u8?airmaxtv.m3u8
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/77/20170617224100%21Sudan_TV_Logo.png" group-title="SUDAN قنوات السودان",Sudan TV
 http://217.182.137.206/sudantv.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/nkQT-_puy-0/hqdefault.jpg" group-title="SUDAN قنوات السودان",Sudan 24 TV
+http://217.182.137.206/sudania24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.scoop.it/MMIBafocaGAj0TXyM4f--zl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9" group-title="SUDAN قنوات السودان",Sudan drama TV
+http://217.182.137.206/sudan_drama.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/7/77/20170617224100%21Sudan_TV_Logo.png" group-title="SUDAN قنوات السودان",Sudan TV+
 https://bozztv.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Oneafricatvlogo.png/250px-Oneafricatvlogo.png" group-title="SUDAN قنوات السودان",sudan_drama
@@ -1054,6 +1059,8 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8?airmaxtv.m3u8
 https://master.starmena-cloud.com/hls/aden.m3u8?airmaxtv.m3u8?v=2957056943
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" group-title="قنوات اليمن Yemen",Al Mahrah
 http://82.212.74.99:8000/live/8173.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/511169620074446849/gj6HafBk_400x400.jpeg" group-title="قنوات اليمن Yemen",قناة السعيدة
+http://82.212.74.99:8000/live/hls/8173.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="Somalia الصومال",▂ ▄ ▅ ▆☆ Somalia الصومال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/HCTV_LOGO.png" group-title="Somalia الصومال",Horn Cable TV
