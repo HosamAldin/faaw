@@ -786,51 +786,6 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alfath.helool.net/images/d2-logo.png" group-title="قنوات المصرية Egypt",Fateh TV
 https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/fb_image_cbc.jpg" group-title="قنوات المصرية Egypt",CBC Drama
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ahly
-http://144.76.226.29:8080/streeem/streeem/59
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ten
-http://144.76.226.29:8080/streeem/streeem/60
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",sada
-http://144.76.226.29:8080/streeem/streeem/78
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",Kahera m
-http://144.76.226.29:8080/streeem/streeem/115
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",dmc drama
-http://144.76.226.29:8080/streeem/streeem/199
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",cbc1
-http://144.76.226.29:8080/streeem/streeem/200
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",cbc drama1
-http://144.76.226.29:8080/streeem/streeem/201
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",dmc1
-http://144.76.226.29:8080/streeem/streeem/206
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",On sport11
-http://144.76.226.29:8080/streeem/streeem/217
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",on dramaa
-http://144.76.226.29:8080/streeem/streeem/123
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",ON
-http://144.76.226.29:8080/streeem/streeem/125
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",nahar dramaa
-http://144.76.226.29:8080/streeem/streeem/127
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",nahara
-http://144.76.226.29:8080/streeem/streeem/128
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",al hayat
-http://144.76.226.29:8080/streeem/streeem/179
-#EXTINF:0 tvg-id="vremya" group-title="قنوات المصرية Egypt",time
-http://144.76.226.29:8080/streeem/streeem/96
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",cima
-http://144.76.226.29:8080/streeem/streeem/99
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",zamalek
-http://144.76.226.29:8080/streeem/streeem/71
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",nile sport
-http://144.76.226.29:8080/streeem/streeem/58
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",nile drama
-http://144.76.226.29:8080/streeem/streeem/55
-#EXTINF:0 tvg-id="Extra.gr" group-title="قنوات المصرية Egypt",extra
-http://144.76.226.29:8080/streeem/streeem/39
-#EXTINF:0 tvg-id="ext" group-title="قنوات المصرية Egypt",panorama food
-http://144.76.226.29:8080/streeem/streeem/27
-
-
 #EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://www.video.wataan.com/uploads/1052018-054720PM.png" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://tvfcdn.com/big/alaoula-maroc.jpg" group-title="MAROCCO قنوات المغرب العربي",AL_Aoula_InterTV
