@@ -111,6 +111,8 @@ https://cdn.alarab.com/h264/160312_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160437_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 35 HD
 https://cdn.alarab.com/h264/160565_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 36 HD
+https://cdn.alarab.com/h264/160867_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E02
@@ -1107,6 +1109,22 @@ https://cdn.alarab.com/h264/160232_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160365_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E20
 https://cdn.alarab.com/h264/160567_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E21
+https://cdn.alarab.com/h264/160869_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E22
+
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E23
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E24
+
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E25
+
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E26
+
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E27
+
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E28
+
+#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E29
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E01
 https://cdn.alarab.com/h264/152001_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E02
@@ -1223,11 +1241,29 @@ https://cdn.alarab.com/h264/159897_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160031_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 18
 https://cdn.alarab.com/h264/160198_480p.mp4/index-v1-a1.m3u8
-
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 19
 https://cdn.alarab.com/h264/160314_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 20
 https://cdn.alarab.com/h264/160443_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 21
+https://cdn.alarab.com/h264/160566_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 22
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 23
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 24
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 25
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 26
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 27
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 28
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 29
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 30
 #EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 1
 https://cdn.alarab.com/h264/152304_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 2
