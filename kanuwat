@@ -634,7 +634,7 @@ https://stream.meietv.de/live/meietv.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
 http://digitalxpress.gcdn.co/live1/mtvlebanon/index.m3u8
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
-
+http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist_w1090511420_b1000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
 http://digitalxpress.gcdn.co/live1/otv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.turk-now.com/wp-content/uploads/2020/04/2832.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV 1 HD
