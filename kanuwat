@@ -35,6 +35,8 @@ https://akamai2-mx.cdn.booyah.live/hls/250170/35439759.m3u8
 https://live-ak.vimeocdn.com/exp=1607199549~acl=%2F65a26732-190a-4855-9975-ad56d6ec87ad%2F%2A~hmac=b8433825f37f35ab83bf5d706a67cc1419f1558a6c461f061eb23ec35f7bd777/65a26732-190a-4855-9975-ad56d6ec87ad/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein برشلونة ضد قادش
 https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/9f806c30e9a948a395b894420049a1c6/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein برشلونة ضد قادش
+https://livestream.rheotv.com/live/Mm3pJVl/high/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
