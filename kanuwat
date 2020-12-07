@@ -506,10 +506,13 @@ http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.meietv.de/images/logo.png" group-title="LEBANON قنوات لبنان",meie tv DE
 https://stream.meietv.de/live/meietv.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
-#EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
+http://51.38.191.10/live/tdn/123414557503/10009.m3u8
+#EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD+
 http://posterboot.xyz:8080/streeem/streeem/52
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
 http://posterboot.xyz:8080/streeem/streeem/50
+#EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
+http://51.38.191.10/live/tdn/123414557502/10008.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
 http://posterboot.xyz:8080/streeem/streeem/17
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.turk-now.com/wp-content/uploads/2020/04/2832.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV 1 HD
@@ -547,6 +550,8 @@ https://bit.ly/34ooolI
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="PALESTINE قنوات فلسطين", |🇵🇸| Raya tv 1 
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="PALESTINE قنوات فلسطين", |🇵🇸| Raya tv 3
+http://vstream3.hadara.ps:8081/RayaHD2_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://btv2020.com/wp-content/uploads/2020/04/Logo2020.png" group-title="PALESTINE قنوات فلسطين",AR:Bethlehem Tv
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/LXBiCQhBhEs/hqdefault.jpg" group-title="PALESTINE قنوات فلسطين",AR:تلفزيون السلام Tv
