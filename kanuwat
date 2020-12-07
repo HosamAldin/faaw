@@ -443,7 +443,14 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya HD
+https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/7fdc4713-e998-4d70-82b6-cc9fbcd943aa:GRQ/variant/8c5b5969467cb7d5ea8bb1fe6dd27fd4/bandwidth/1334839.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya SD
+https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/7fdc4713-e998-4d70-82b6-cc9fbcd943aa:GRQ/variant/6d314d945d3732eb5ae7054570c38108/bandwidth/783672.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema HD
+https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/8bbdc7f8-c56f-4d7a-8835-0fb1d3168129:GRQ/variant/91b8a5da4cbc72533f927328609ac744/bandwidth/1349659.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema SD
+https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/8bbdc7f8-c56f-4d7a-8835-0fb1d3168129:GRQ/variant/eb2fe1098c1f1ebe1f34a7938ebc3c69/bandwidth/810538.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://atf-image.s3.us-east-1.amazonaws.com/uploads/partner/partner_151696528837.png" group-title="قنوات روتانا ROTANA",lbc
 
 #EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
