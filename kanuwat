@@ -25,14 +25,20 @@ https://bit.ly/34ooolI
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT HD
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein برايتون ضد ساوثهامتون
-https://livestream.rheotv.com/live/qnQBWC6/high/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein برايتون ضد ساوثهامتون
-https://live-ak.vimeocdn.com/exp=1607374429~acl=%2F551accbf-2de0-4679-896a-de94404c8536%2F%2A~hmac=8eaf35cb0781323d176167e5ad5f19c2e67b5078f01f5d3c345df4597fd12567/551accbf-2de0-4679-896a-de94404c8536/chunklist_b2056000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein فالنسيا ضد إيبار
-https://akamai2-mx.cdn.booyah.live/hls/250170/18806639.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein فالنسيا ضد إيبار
-https://live-ak.vimeocdn.com/exp=1607374491~acl=%2Ff537d3a3-1303-4739-b5c9-b7ad632b14e0%2F%2A~hmac=614e3799a5d2821ea47ff0e19686d8c04d5a48c6082532d1f467f57d4e79a30e/f537d3a3-1303-4739-b5c9-b7ad632b14e0/chunklist_b2056000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 1
+http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 2
+http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 3
+http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 4
+http://194.32.79.172/bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 5
+http://194.32.79.172/beins5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 6
+http://194.32.79.172/bein6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 7
+http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
