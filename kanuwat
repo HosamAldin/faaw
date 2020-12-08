@@ -503,10 +503,6 @@ https://stream.meietv.de/live/meietv.m3u8
 http://51.38.191.10/live/tdn/123414557503/10009.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD+
 http://posterboot.xyz:8080/streeem/streeem/52
-#EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD+
-http://p-cdn1-805-cg14-linear-cbd46b77.movetv.com/clipslist/378/20201208T014500Z/20201208T025500Z.mpd
-#EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD+
-http://p-cdn1-805-cg14-linear-cbd46b77.movetv.com/clipslist/378/20201208T014500Z/20201208T025500Z/master_7_5_fairplay.m3u8
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
 http://posterboot.xyz:8080/streeem/streeem/50
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
