@@ -24,6 +24,27 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1156848617812049920/O7MDxiLL_400x400.jpg" group-title="قنوات بين سبور BEIN SPORT",Bein Sport News 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mms.businesswire.com/media/20191118005904/en/671600/23/beINSPORTS.jpg" group-title="قنوات بين سبور BEIN SPORT",beIN SPORT HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein ليفربول ضد ميتييلاند
+https://akamai2-me.cdn.booyah.live/hls/113134/35898592.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein ليفربول ضد ميتييلاند
+https://live-ak.vimeocdn.com/exp=1607539842~acl=%2F98c4593c-e847-491a-81e2-499612e9971c%2F%2A~hmac=1c323f91372f45aca420a63ff8ae2bf5e8e549a7bd6b430cab4ec86975141b93/98c4593c-e847-491a-81e2-499612e9971c/chunklist_b2056000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein ليفربول ضد ميتييلاند
+https://livestream.rheotv.com/live/hgM50TL/high/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein باريس سان جيرمان ضد باشاك شهير
+https://akamai2-me.cdn.booyah.live/hls/113137/35895271.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein باريس سان جيرمان ضد باشاك شهير
+https://live-ak.vimeocdn.com/exp=1607539910~acl=%2F596d8d46-1ef3-48b8-adbf-e326f8ab6b40%2F%2A~hmac=758a4bebe27c36615191b45a6bc122ddc33f92f15aea22ae4103b38b964162c9/596d8d46-1ef3-48b8-adbf-e326f8ab6b40/chunklist_b728000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein باريس سان جيرمان ضد باشاك شهير
+https://livestream.rheotv.com/live/vvPrKg2/high/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 1
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
