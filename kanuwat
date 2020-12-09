@@ -28,14 +28,6 @@ https://bit.ly/34ooolI
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein متيولاند × ليفربول
-https://live-ak.vimeocdn.com/exp=1607545270~acl=%2Fc17aa526-2e4c-4f77-bbf4-ef36979410e2%2F%2A~hmac=927c4f2ee108cf900eb30dbdffcfedb9e1b23d42792918cfc9af6c6c3b05e523/c17aa526-2e4c-4f77-bbf4-ef36979410e2/chunklist_b3256000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein متيولاند × ليفربول
-https://live-ak.vimeocdn.com/exp=1607545270~acl=%2Fc17aa526-2e4c-4f77-bbf4-ef36979410e2%2F%2A~hmac=927c4f2ee108cf900eb30dbdffcfedb9e1b23d42792918cfc9af6c6c3b05e523/c17aa526-2e4c-4f77-bbf4-ef36979410e2/chunklist_b728000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein باريس × باشاك شهير
-https://live-ak.vimeocdn.com/exp=1607545368~acl=%2F6d57430f-aa0f-4ae3-8fed-c737fa2c5830%2F%2A~hmac=4aaa9d26d2e178b25485866763cd7ec27746e9c13a351033070d29b172138764/6d57430f-aa0f-4ae3-8fed-c737fa2c5830/chunklist_b3256000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein باريس × باشاك شهير
-https://live-ak.vimeocdn.com/exp=1607545368~acl=%2F6d57430f-aa0f-4ae3-8fed-c737fa2c5830%2F%2A~hmac=4aaa9d26d2e178b25485866763cd7ec27746e9c13a351033070d29b172138764/6d57430f-aa0f-4ae3-8fed-c737fa2c5830/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein باريس × باشاك شهير
 https://steambroadcast.akamaized.net/broadcast/76561199115676669/269625543454055754/hls_manifest/0/steambroadcast.akamaized.net/1200000/video.m3u8?broadcast_origin=repo-02-sto1.broadcast.steamcontent.com:80
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein ريال مدريد ضد بوروسيا مونشنغلادباخ
