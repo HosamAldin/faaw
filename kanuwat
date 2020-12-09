@@ -38,7 +38,34 @@ https://live-ak.vimeocdn.com/exp=1607545368~acl=%2F6d57430f-aa0f-4ae3-8fed-c737f
 https://live-ak.vimeocdn.com/exp=1607545368~acl=%2F6d57430f-aa0f-4ae3-8fed-c737fa2c5830%2F%2A~hmac=4aaa9d26d2e178b25485866763cd7ec27746e9c13a351033070d29b172138764/6d57430f-aa0f-4ae3-8fed-c737fa2c5830/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein باريس × باشاك شهير
 https://steambroadcast.akamaized.net/broadcast/76561199115676669/269625543454055754/hls_manifest/0/steambroadcast.akamaized.net/1200000/video.m3u8?broadcast_origin=repo-02-sto1.broadcast.steamcontent.com:80
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein ريال مدريد ضد بوروسيا مونشنغلادباخ
+https://steambroadcast.akamaized.net/broadcast/76561199115679535/5179723440649446150/hls_manifest/0/steambroadcast.akamaized.net/1500000/video.m3u8?broadcast_origin=repo-03-sto1.broadcast.steamcontent.com:80
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein ريال مدريد ضد بوروسيا مونشنغلادباخ
+https://steambroadcast.akamaized.net/broadcast/76561199115676669/269625543454055754/hls_manifest/0/steambroadcast.akamaized.net/1200000/video.m3u8?broadcast_origin=repo-02-sto1.broadcast.steamcontent.com:80
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein بايرن ميونيخ ضد لوكوموتيف موسكو
+https://live-ak.vimeocdn.com/exp=1607546639~acl=%2F901aba58-bb55-4270-a105-6a0eb5f1dcdd%2F%2A~hmac=3c7e808454e86da47a857a388dc958b23d57655edf9f1f3e48bf87dbd3619545/901aba58-bb55-4270-a105-6a0eb5f1dcdd/chunklist_b3256000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein بايرن ميونيخ ضد لوكوموتيف موسكو
+https://live-ak.vimeocdn.com/exp=1607546664~acl=%2F901aba58-bb55-4270-a105-6a0eb5f1dcdd%2F%2A~hmac=154752522d9756a454b49939a080802d34a1443bb1717b24e82e53022e2c87e6/901aba58-bb55-4270-a105-6a0eb5f1dcdd/chunklist_b728000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein مانشستر سيتي ضد مارسيليا
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
 
