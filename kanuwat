@@ -29,6 +29,20 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 1
+http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 2
+http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 3
+http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 4
+http://194.32.79.172/bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 5
+http://194.32.79.172/beins5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 6
+http://194.32.79.172/bein6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 7
+http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 1
 http://51.178.220.156/?watch=EX/bein1hd-ar&token=
@@ -44,20 +58,6 @@ http://51.178.220.156/?watch=EX/bein5hd-ar&token=
 http://51.178.220.156/?watch=EX/bein6hd-ar&token=
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 7
 http://51.178.220.156/?watch=EX/bein7hd-ar&token=
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 1
-http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 2
-http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 3
-http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 4
-http://194.32.79.172/bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 5
-http://194.32.79.172/beins5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 6
-http://194.32.79.172/bein6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 7
-http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",▂ ▄ ▅ ▆☆ NETFLIX CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
@@ -501,8 +501,12 @@ http://stream.sama-tv.net:8080/hls/samatv.m3u8
 http://185.246.210.50:2200/TN/samatv-ar/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
 http://82.137.248.16:1935/Drama/stream10112020/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV +
+http://89.187.169.204:2200/TN/syriandramatv-ar/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
 http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
+http://185.246.210.53:2200/TN/syriasatellitechannel-ar/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="",AR:SYR-NOUR ELSHAM
 http://82.137.248.16:1935/Nour/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://sy.heytv.org/wp-content/uploads/2019/04/Sham-FM-TV-webtvonlive.com_.jpg" group-title="Syria قنوات سورية",AR:SYR-SHAM.FM TV
