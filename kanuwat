@@ -462,6 +462,8 @@ https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA+
+http://185.246.210.50:2200/TN/samatv-ar/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
 http://82.137.248.16:1935/Drama/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
