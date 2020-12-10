@@ -603,6 +603,8 @@ https://bit.ly/34ooolI
 http://iptv--iptv.repl.co/Arabic/Al_summaria
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Alfallujah_tv.png" group-title="قنوات العراق IRAQ",AR:IRQ-Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Alfallujah_tv.png" group-title="قنوات العراق IRAQ",AR:IRQ-Al Fallujah
+https://playback2.akamaized.net/streams/4671269_4213685_lsifswzsarkaup7k0gi_1/exp=1607652517~acl=%2f*~data=hdntl~hmac=79d2436e738e78e7ffa828c979a1cb1b8022f546867fcaa562b57c303f2209fc/media/4671269_4213685_lsifswzsarkaup7k0gi_1@678000pb.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/BfsJ7ttKI3s/hqdefault.jpg" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rafidain FHD
@@ -784,7 +786,7 @@ https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/18/17/11/kuwait-al-rai-newspaper-iphone-png-favpng-tHDnsDmHsZ2B96idrx1x9QnLN.jpg" group-title="قنوات الكويت Kuwait",AR:Kuwait Alrai TV +
 http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png" group-title="قنوات الكويت Kuwait",FUNOON
-
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://fhras.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-atv-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A%D8%A9-2020.jpg" group-title="قنوات الكويت Kuwait",قناة atv الكويتية 1 SD
 rtmp://168.187.49.14:1935/live//atv?v=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/04/481438_437913999596713_1650868144_n.jpg" group-title="قنوات الكويت Kuwait",قناه المعارف الكويتيه SD
