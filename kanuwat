@@ -45,19 +45,29 @@ http://194.32.79.172/bein6/tracks-v1a1/mono.m3u8
 http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 1
-http://51.178.220.156/?watch=EX/bein1hd-ar&token=
+http://185.246.210.53:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 2
-http://51.178.220.156/?watch=EX/bein2hd-ar&token=
+http://185.246.210.53:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 3
-http://51.178.220.156/?watch=EX/bein3hd-ar&token=
+http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 4
-http://51.178.220.156/?watch=EX/bein4hd-ar&token=
+http://185.246.210.53:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 5
-http://51.178.220.156/?watch=EX/bein5hd-ar&token=
+http://185.246.210.53:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 6
-http://51.178.220.156/?watch=EX/bein6hd-ar&token=
+http://185.246.210.53:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 7
-http://51.178.220.156/?watch=EX/bein7hd-ar&token=
+http://185.246.210.53:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 7
+http://185.246.210.53:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 8
+http://185.246.210.53:2200/EX/bein8hd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 9
+http://185.246.210.53:2200/EX/bein9hd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 10
+http://185.246.210.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 1
+http://51.178.220.156/?watch=EX/bein7hd-ar&token=m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",▂ ▄ ▅ ▆☆ NETFLIX CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",النسخة المدفوعة AirMax TV
