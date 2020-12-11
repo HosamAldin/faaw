@@ -419,7 +419,7 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 #EXTINF:-1 tvg-id="MBC5 4K" tvg-name="AR:MY-MBC ⓹ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 FHD
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Variety 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png" group-title="قنوات أم بي سيMBC",MBC Variety FHD
-
+http://185.246.210.52:2200/EX/MBC_Variety_HD-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="AR:MY-MBC IRAQ HD" tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ FHD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="MBC Max 4K" tvg-name="AR:MY-MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max FHD
@@ -635,6 +635,9 @@ http://5.39.218.151:8400/;
 http://82.137.248.16:1935/Souryana/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA
 http://vod.alikhbaria.net:1935/Snews/stream10112020/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA
+http://89.187.169.204:2200/TN/syrianews-ar/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="Syria قنوات سورية",AR:SYR-ORIENT.NEWS
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY
@@ -658,7 +661,7 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON قنوات لبنان",Tele Liban
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
-http://185.246.210.51:2200/TR/mtvlebanonhd-ar/index.m3u8?token=
+http://185.246.210.50:2200/TR/mtvlebanonhd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
 http://89.187.169.202:2200/TR/aljadeedhd-ar/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
@@ -762,6 +765,17 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" group-title="قنوات العراق IRAQ",Al Summaria
 http://51.178.220.156/?watch=TN/sumaria-ar&token=
+#EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",utviraqh
+http://89.187.169.206:2200/TR/utviraqhd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",albaeenahiraq
+http://89.187.169.205:2200/TN/albaeenahiraq-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",iraqfuture
+http://89.187.169.206:2200/TN/iraqfuture-ar/index.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",almawsleya
+http://185.246.210.53:2200/TN/almawsleya-ar/index.m3u8?token=
+#EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",alebaatv
+http://185.246.210.52:2200/TN/alebaatv-ar/index.m3u8?token=
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Alfallujah_tv.png" group-title="قنوات العراق IRAQ",AR:IRQ-Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV
@@ -903,83 +917,56 @@ http://89.187.169.205:2200/TN/masperozaman-ar/tracks-v1a1/mono.m3u8?token=
 http://185.246.210.51:2200/TN/panoramafilm-ar/tracks-v1a1/mono.m3u8?token= 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",panoramadrama
 http://185.93.2.153:2200/TN/panoramadrama-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",alsa3aaalyo
 http://89.187.169.206:2200/TN/alsa3aaalyom-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",mogacinem
 http://89.187.169.202:2200/TR/mogacinema-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",cima
 http://185.246.210.52:2200/TN/cima-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",alyoomhakayat
 http://195.181.172.83:2200/TR/alyoomhakayat-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",misralzera3eya
 http://185.93.2.153:2200/TN/misralzera3eya-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",cinema1
 http://89.187.169.204:2200/TN/cinema1-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",cinema2
 http://89.187.169.204:2200/TN/cinema2-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",cinemapro
 http://185.246.210.50:2200/TN/cinemapro-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",melodyclassic
 http://185.246.210.51:2200/TN/melodyclassic-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",toktokaflam
 http://185.246.210.52:2200/TN/toktokaflam-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",toktokcima
 http://185.246.210.53:2200/TN/toktokcima-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",scaretv
 http://195.181.172.83:2200/TN/scaretv-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",alkahera
 http://89.187.169.206:2200/TN/alkahera-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",
 http://89.187.169.202:2200/TN/alsaeedtv-ar/index.m3u8?token=
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",tebatv
 http://89.187.169.206:2200/TN/tebatv-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",alkanal
 http://185.246.210.51:2200/TN/alkanal-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",aldeltatv
 http://89.187.169.202:2200/TN/aldeltatv-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",alhadathalyoum
 http://89.187.169.202:2200/TN/alhadathalyoum-ar/index.m3u8?token=
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",misrelbald
 http://89.187.169.203:2200/TN/misrelbald-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",miracletv
 http://89.187.169.202:2200/TN/miracletv-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",applehekayat
 http://185.93.2.153:2200/TN/applehekayat-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",applecinema
 http://89.187.169.203:2200/TN/applecinema-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",applemosalsalat
 http://185.246.210.53:2200/TN/applemosalsalat-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",applecomedy
 http://89.187.169.202:2200/TN/applecomedy-ar/tracks-v1a1/mono.m3u8?token= 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",halabat
 http://185.93.2.153:2200/TN/halabatv-ar/tracks-v1a1/mono.m3u8?token= 
-
-
 #EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://www.video.wataan.com/uploads/1052018-054720PM.png" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://tvfcdn.com/big/alaoula-maroc.jpg" group-title="MAROCCO قنوات المغرب العربي",AL_Aoula_InterTV
@@ -1015,25 +1002,82 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist.m3u8?a
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.tunisieimmobiliertv.net/wp-content/uploads/2018/05/LOGOO.png?fit=452%2C474&ssl=1" group-title="TUNISIE قنوات تونس",Tunimmob TV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngtmOEHiHZkrCmuWQQM2Y8yaPzNyenmPaaYh5XqmQ=s900-c-k-c0x00ffffff-no-rj" group-title="TUNISIE قنوات تونس",watania1
+http://89.187.169.203:2200/TN/tunisianat1-ar/tracks-v1a1/mono.m3u8?token=
 http://144.76.226.29:8080/streeem/streeem/56
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnge4AFbxviurXkZ3oMD7F3V7RnZrorjYrowH5TLEg=s900-c-k-c0x00ffffff-no-rj" group-title="TUNISIE قنوات تونس",watania2
+http://89.187.169.203:2200/TN/tunisianat2-ar/tracks-v1a1/mono.m3u8?token=
 http://144.76.226.29:8080/streeem/streeem/57
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.marinatv.me/images/marina_tv.png" group-title="TUNISIE قنوات تونس",Marina TV
 http://www.radiomarina.tn:8080/media/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",elhiwarettounsi
+http://89.187.169.205:2200/TN/elhiwarettounsi-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",attasiatv
+http://89.187.169.202:2200/TN/attasiatv-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",nessma
+http://89.187.169.203:2200/TN/nessma-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",hannibal
+http://185.93.2.153:2200/TN/hannibal-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",zaytounatv
+http://89.187.169.206:2200/TN/zaytounatv-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",mtunisia
+http://89.187.169.206:2200/TN/mtunisia-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",aljanoubia
+http://195.181.172.83:2200/TN/aljanoubia-ar/tracks-v1a1/mono.m3u8?token=
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/2vXQz2XEKi0/maxresdefault.jpg" group-title="ALGERIEN قنوات الجزائر",▂ ▄ ▅ ▆☆ ALGERIEN قنوات الجزائر ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:EchoroukTV
 http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="ALGERIEN قنوات الجزائر",alger 2
-http://144.76.226.29:8080/streeem/streeem/31
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/23/9b/c9/239bc964a689c733d702ac70174455f2.png" group-title="ALGERIEN قنوات الجزائر",alger3
-http://144.76.226.29:8080/streeem/streeem/53
-#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" group-title="ALGERIEN قنوات الجزائر",alger 4
-http://144.76.226.29:8080/streeem/streeem/101
 #EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" group-title="ALGERIEN قنوات الجزائر",alger 2+
 http://54.36.122.126/canal_algerie.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/23/9b/c9/239bc964a689c733d702ac70174455f2.png" group-title="ALGERIEN قنوات الجزائر",alger3
+#EXTINF:-1 tvg-id="" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" group-title="ALGERIEN قنوات الجزائر",alger 4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",alger 2
+http://185.246.210.52:2200/TN/ennahartv-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",sahratvalgeria
+http://89.187.169.206:2200/TN/sahratvalgeria-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",samira
+http://89.187.169.203:2200/TN/samira-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",tvcoran
+http://89.187.169.204:2200/TN/tvcoran-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",echourouknews
+http://195.181.172.83:2200/TN/echourouknews-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",tv7elmaarifa
+http://185.246.210.52:2200/TN/tv7elmaarifa-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",numidianewstv
+http://89.187.169.206:2200/TN/numidianewstv-ar/tracks-v1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",elbiladtv
+http://89.187.169.202:2200/TN/elbiladtv-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",
+http://89.187.169.204:2200/TN/berberetv-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",awraastv
+http://89.187.169.203:2200/TN/awraastv-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",elbadiltv
+http://185.93.2.153:2200/TN/elbadiltv-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",a3hd
+http://89.187.169.202:2200/TN/a3hd-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",canalalgeria
+http://89.187.169.202:2200/TN/canalalgeria-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",eldjuzairia
+http://89.187.169.202:2200/TN/eldjuzairia-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",tv4
+http://185.246.210.50:2200/TN/tv4-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",eldjazairn1
+http://195.181.172.83:2200/TN/eldjazairn1-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",bahiatv
+http://195.181.172.83:2200/TN/bahiatv-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",linatv
+http://185.246.210.50:2200/TN/linatv-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",hayattvalgeria
+http://89.187.169.206:2200/TN/hayattvalgeria-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",eladjwaa
+http://89.187.169.205:2200/TN/eladjwaa-ar/tracks-v1a1/mono.m3u8?token= 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",programmenational
+http://185.246.210.52:2200/TN/programmenational-ar/index.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsimages/appimg-ramTnpaf.jpg" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -1131,12 +1175,26 @@ https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8?airmaxtv.m3u8
 http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png" group-title="قنوات الكويت Kuwait",FUNOON
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png" group-title="قنوات الكويت Kuwait",FUNOON +
+http://89.187.169.205:2200/TR/atv2hd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://fhras.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-atv-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A%D8%A9-2020.jpg" group-title="قنوات الكويت Kuwait",قناة atv الكويتية 1 SD
 rtmp://168.187.49.14:1935/live//atv?v=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/04/481438_437913999596713_1650868144_n.jpg" group-title="قنوات الكويت Kuwait",قناه المعارف الكويتيه SD
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/MarinaFM_logo_2016.png" group-title="قنوات الكويت Kuwait",Kuwait MarinaFM
 http://31.14.40.102:8006/MarinaFM%2090.4.mp3
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait alshahedhd
+http://89.187.169.203:2200/TR/alshahedhd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait scopehd
+http://89.187.169.203:2200/TR/scopehd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait atvaladalahhd
+http://89.187.169.205:2200/TR/atvaladalahhd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait alsabah
+http://185.246.210.50:2200/TR/alsabah-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait marinatvhd
+http://185.246.210.50:2200/TR/marinatvhd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2020/01/JzMM5KDx_400x400.jpg" group-title="قنوات البحرين Bahrain",▂ ▄ ▅ ▆☆ Bahrain TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.1arablive.com/livetv/assets/images/1549220196.jpg" group-title="قنوات البحرين Bahrain",AR:Bahrain Quran
@@ -1223,6 +1281,13 @@ http://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8?airmaxtv.m3u8
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Yas TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?airmaxtv.m3u8?adtv
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",gemarabia
+http://185.246.210.52:2200/TR/gemarabia-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",ajmanhd
+http://89.187.169.203:2200/TN/ajmanhd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="قنوات الامارات EMIRATES",BeinFataFeat
+http://89.187.169.203:2200/EX/BeinFataFeat-ar/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almashhad-alyemeni.com/img/20/05/27/15906037931314008.JPG" group-title="قنوات اليمن Yemen",▂ ▄ ▅ ▆☆ Yemen tv ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/frequencieschannels.info/wp-content/uploads/2018/07/%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A9.jpg" group-title="قنوات اليمن Yemen",Almasira TV
