@@ -30,45 +30,116 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 1
-http://194.32.79.172/bein1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
+http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 2HD
 http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 3HD
 http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 4HD
 http://194.32.79.172/bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 5HD
 http://194.32.79.172/beins5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 6
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 6HD
 http://194.32.79.172/bein6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 7HD
 http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 8HD
+http://194.32.79.172/bein8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 9HD
+http://194.32.79.172/bein9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 10HD
+http://194.32.79.172/bein10/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
 http://185.246.210.53:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 2HD
 http://185.246.210.53:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 3HD
 http://185.246.210.53:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 4HD
 http://185.246.210.53:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 5HD
 http://185.246.210.53:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 6
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 6HD
 http://185.246.210.53:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 7
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 7HD
 http://185.246.210.53:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 8HD
 http://185.246.210.53:2200/EX/bein8hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 9
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 9HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-9-760.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 9HD
 http://185.246.210.53:2200/EX/bein9hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 10
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 10HD
 http://185.246.210.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 11
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 11HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-bein-sports-11-1164.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 11HD
 http://185.246.210.53:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 12
 http://185.246.210.53:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
+https://bit.ly/34ooolI
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BeinMoviesHD1
+http://185.246.210.50:2200/EX/BeinMoviesHD1-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BeinMoviesHD2
+http://89.187.169.206:2200/EX/BeinMoviesHD2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BeinMoviesHD3
+http://89.187.169.205:2200/EX/BeinMoviesHD3-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BeinMoviesHD4
+http://89.187.169.205:2200/EX/BeinMoviesHD4-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",beinserieshd2
+http://185.246.210.50:2200/EX/beinserieshd2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_YAHALA
+http://89.187.169.206:2200/OSN-EX/OSN_YAHALA-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_YAHALA_CINEMA
+http://89.187.169.206:2200/OSN-EX/OSN_YAHALA_CINEMA-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_CINEMA_1
+http://185.93.2.153:2200/OSN-EX/OSN_CINEMA_1-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_CINEMA_2
+http://89.187.169.202:2200/OSN-EX/OSN_CINEMA_2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_MUSALSALAT_1
+http://89.187.169.206:2200/OSN-EX/OSN_MUSALSALAT_1-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_MUSALSALAT_2
+http://185.93.2.153:2200/OSN-EX/OSN_MUSALSALAT_2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_ALYAWM
+http://185.246.210.52:2200/OSN-EX/OSN_ALYAWM-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_ALYAWM
+http://185.246.210.52:2200/OSN-EX/OSN_ALYAWM-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_MOVIES
+http://89.187.169.202:2200/OSN-EX/OSN_MOVIES-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_MOVIES_ACTION
+http://89.187.169.204:2200/OSN-EX/OSN_MOVIES_ACTION-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",
+http://89.187.169.202:2200/OSN-EX/OSN_MOVIES_BINGI-ar/tracks-v1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_STAR_MOVIES
+http://89.187.169.204:2200/OSN-EX/OSN_STAR_MOVIES-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_E
+http://185.93.2.153:2200/OSN-EX/OSN_E-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_DISCOVERY
+http://89.187.169.206:2200/OSN-EX/OSN_DISCOVERY-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_DISCOVERY_SCIENCE
+http://89.187.169.202:2200/OSN-EX/OSN_DISCOVERY_SCIENCE-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_DISCOVERY_ID
+http://89.187.169.204:2200/OSN-EX/OSN_DISCOVERY_ID-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_NAT_GEO_WILD
+http://185.246.210.52:2200/OSN-EX/OSN_NAT_GEO_WILD-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_NAT_GEO_PEOPLE
+http://89.187.169.206:2200/OSN-EX/OSN_NAT_GEO_PEOPLE-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_H2
+http://185.246.210.52:2200/OSN-EX/OSN_H2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_LIVING
+http://89.187.169.205:2200/OSN-EX/OSN_LIVING-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_CI_TV
+http://89.187.169.202:2200/OSN-EX/OSN_CI_TV-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",beIN_Outdoor
+http://89.187.169.203:2200/EX/beIN_Outdoor-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",pickireland
+http://89.187.169.204:2200/NL/pickireland-uk/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",dmax-uk
+http://185.246.210.53:2200/NL/dmax-uk/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Crime_and_Investigation
+http://89.187.169.202:2200/EX/Crime_and_Investigation_HD-uk/tracks-v1a1/mono.m3u8?token=airmaxtv
 
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",▂ ▄ ▅ ▆☆ NETFLIX افلام ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -490,6 +561,7 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baraem.tv/images/logo.png" group-title="قنوات أطفال Children",Bein: Baraem
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="قنوات أطفال Children",Bein : Jeem 
+http://89.187.169.203:2200/EX/BeinBaraeimHD-ar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network العربية
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="قنوات أطفال Children",BEIN :beIN Boomerang HD
@@ -506,7 +578,14 @@ http://185.246.210.50:2200/TR/toyoraljanah-ar/tracks-v1a1/mono.m3u8?token=airmax
 http://89.187.169.205:2200/TN/atfalandmawaheb-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="قنوات أطفال Children",OSN_NICKELODEON
 http://185.246.210.53:2200/OSN-EX/OSN_NICKELODEON-ar/index.m3u8?token=airmaxtv
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",babychannel
+http://185.93.2.153:2200/TN/babychannel-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",OSN_DISNEY_XD
+http://89.187.169.206:2200/OSN-EX/OSN_DISNEY_XD-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",OSN_KIDS
+http://89.187.169.206:2200/OSN-EX/OSN_KIDS-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",OSN_KIDS_ZONE
+http://89.187.169.204:2200/OSN-EX/OSN_KIDS_ZONE-ar/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 1
 http://185.246.210.38:2200/VOD/redkids1-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
@@ -1110,6 +1189,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="Assadissa" tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/assadissax2-1.png" group-title="MAROCCO قنوات المغرب",ASSADISSA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="Assadissa" tvg-logo="https://www.video.wataan.com/uploads/1052018-061819PM.jpg" group-title="MAROCCO قنوات المغرب",Al_ASSABIA
+http://89.187.169.203:2200/EX/Al_ASSABIA_HD-mor/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="Tamazight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MAROCCO قنوات المغرب",tamazight tv8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.medi1tv.com/live_medi1tvarabic_visuel.jpg?1" group-title="MAROCCO قنوات المغرب",Medi1tv Maghreb
