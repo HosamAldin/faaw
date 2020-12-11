@@ -74,27 +74,27 @@ http://185.246.210.53:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 1
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 1 AR
 http://185.246.210.38:2200/VOD/redcinema-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 2
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 2 AR
 http://185.246.210.38:2200/VOD/redaction3-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 3
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 3 AR
 http://185.246.210.38:2200/VOD/redaction2-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 4
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 4 AR
 http://185.246.210.38:2200/VOD/redaction9-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 5
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 5 AR
 http://185.246.210.38:2200/VOD/redaction8-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 6
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 6 AR
 http://185.246.210.38:2200/VOD/redaction7-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 7
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 7 AR
 http://185.246.210.38:2200/VOD/redaction6-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 8
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 8 AR
 http://185.246.210.38:2200/VOD/redaction-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 9
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 9 AR
 http://185.246.210.38:2200/VOD/redaction5-ar/index.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 10
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 10 AR
 http://185.246.210.38:2200/VOD/redaction4-ar/tracks-v1a1/mono.m3u8?token=
-#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 11
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 11 AR
 http://185.246.210.38:2200/VOD/redaction10-ar/index.m3u8?token=
 
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Comedy 1
@@ -161,6 +161,68 @@ http://185.246.210.38:2200/VOD/redhorrorthriller9-ar/tracks-v1a1/mono.m3u8?token
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Horror Thriller 10
 http://185.246.210.38:2200/VOD/redhorrorthriller10-ar/tracks-v1a1/mono.m3u8?token=
 
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 1
+http://185.246.210.38:2200/VOD/redscifi9-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 2
+http://185.246.210.38:2200/VOD/redscifi2-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 3
+http://185.246.210.38:2200/VOD/redscifi3-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 4
+http://185.246.210.38:2200/VOD/redscifi4-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 5
+http://185.246.210.38:2200/VOD/redscifi5-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 6
+http://185.246.210.38:2200/VOD/redscifi6-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 7
+http://185.246.210.38:2200/VOD/redscifi7-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 8
+http://185.246.210.38:2200/VOD/redscifi8-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 9
+http://185.246.210.38:2200/VOD/redscifi9-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Scifi 10
+http://185.246.210.38:2200/VOD/redscifi10-ar/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 1
+http://185.246.210.38:2200/VOD/redaction-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 2
+http://185.246.210.38:2200/VOD/redaction2-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 3
+http://185.246.210.38:2200/VOD/redaction3-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 4
+http://185.246.210.38:2200/VOD/redaction4-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 5
+http://185.246.210.38:2200/VOD/redaction5-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 6
+http://185.246.210.38:2200/VOD/redaction6-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 7
+http://185.246.210.38:2200/VOD/redaction7-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 8
+http://185.246.210.38:2200/VOD/redaction8-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 9
+http://185.246.210.38:2200/VOD/redaction9-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 10
+http://185.246.210.38:2200/VOD/redaction10-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 11
+http://185.246.210.38:2200/VOD/redaction11-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 12
+http://185.246.210.38:2200/VOD/redaction12-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 13
+http://185.246.210.38:2200/VOD/redaction13-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 14
+http://185.246.210.38:2200/VOD/redaction14-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action-EN 15
+http://185.246.210.38:2200/VOD/redaction15-en/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Drama-EN 1
+http://185.246.210.38:2200/VOD/reddrama-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Drama-EN 2
+http://185.246.210.38:2200/VOD/reddrama2-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Drama-EN 3
+http://185.246.210.38:2200/VOD/reddrama3-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Drama-EN 4
+http://185.246.210.38:2200/VOD/reddrama4-en/tracks-v1a1/mono.m3u8?token=
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Drama-EN 5
+http://185.246.210.38:2200/VOD/reddrama5-en/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:0 tvg-id="ext" group-title="قنوات نتفليكسNETFLIX",▂ ▄ ▅ ▆☆ NETFLIX CHANNELS ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -176,6 +238,29 @@ http://vstream3.hadara.ps:8081/NasRadio_web/web/playlist.m3u8?airmaxtv.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI.
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 1 HD
+http://185.93.2.153:2200/TR/ksasport1hd-ar/tracks-v1a1/mono.m3u8?token=R
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 2 HD
+http://185.93.2.153:2200/TR/ksasport2hd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 3 HD
+http://185.93.2.153:2200/TR/ksasport3hd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 4 HD
+http://185.93.2.153:2200/TR/ksasport4hd-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Saudi24 Sport
+http://89.187.169.202:2200/TR/saudi24sport-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",ON sporthd2
+http://185.246.210.52:2200/TN/onsporthd2-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",OPN sportv
+http://89.187.169.203:2200/TN/onsportv-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",alahlyclubtv
+http://89.187.169.202:2200/TN/alahlyclubtv-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",neelainsport
+http://185.93.2.153:2200/TR/neelainsport-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",libyasports
+http://185.246.210.53:2200/TN/libyasports-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",zamaleksports
+http://185.246.210.50:2200/TN/zamaleksports-ar/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142627377.png" group-title="قنوات رياضية SPORT",ALKASS 1
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master480.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="قنوات رياضية SPORT",ALKASS 2
@@ -374,6 +459,27 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8?airmaxtv.m
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nilesat7.com/wp-content/uploads/2019/08/%D9%82%D9%86%D8%A7%D8%A9-%D9%83%D9%8A%D9%81.jpg" group-title="قنوات الوثائقية",Kaifa TV
 http://82.212.74.2:8000/live/hls/7311.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",OSN_DISCOVERY
+http://185.246.210.50:2200/OSN-EX/OSN_DISCOVERY-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 1
+http://185.246.210.38:2200/VOD/reddocumentary-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 2
+http://185.246.210.38:2200/VOD/reddocumentary2-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 3
+http://185.246.210.38:2200/VOD/reddocumentary3-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 4
+http://185.246.210.38:2200/VOD/reddocumentary4-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 5
+http://185.246.210.38:2200/VOD/reddocumentary5-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 6
+http://185.246.210.38:2200/VOD/reddocumentary6-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 7
+http://185.246.210.38:2200/VOD/reddocumentary7-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 8
+http://185.246.210.38:2200/VOD/reddocumentary8-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 9
+http://185.246.210.38:2200/VOD/reddocumentary9-ar/tracks-v1a1/mono.m3u8?token=
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات أطفال Children",▂ ▄ ▅ ▆☆ قنوات أطفال ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="MBC 3" tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="قنوات أطفال Children",MBC 3 FHD
@@ -400,6 +506,28 @@ http://185.246.210.50:2200/TR/toyoraljanah-ar/tracks-v1a1/mono.m3u8?token=
 http://89.187.169.205:2200/TN/atfalandmawaheb-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="قنوات أطفال Children",OSN_NICKELODEON
 http://185.246.210.53:2200/OSN-EX/OSN_NICKELODEON-ar/index.m3u8?token=
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 1
+http://185.246.210.38:2200/VOD/redkids1-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 2
+http://185.246.210.38:2200/VOD/redkids2-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 3
+http://185.246.210.38:2200/VOD/redkids3-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 4
+http://185.246.210.38:2200/VOD/redkids4-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 5
+http://185.246.210.38:2200/VOD/redkids5-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 6
+http://185.246.210.38:2200/VOD/redkids6-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 7
+http://185.246.210.38:2200/VOD/redkids7-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 8
+http://185.246.210.38:2200/VOD/redkids8-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 9 
+http://185.246.210.38:2200/VOD/redkids9-ar/tracks-v1a1/mono.m3u8?token=
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png" group-title="قنوات أطفال Children",Tiny Pop (UK)
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8?airmaxtv.m3u8
@@ -763,7 +891,7 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات العراق IRAQ",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" group-title="قنوات العراق IRAQ",Al Summaria
-http://51.178.220.156/?watch=TN/sumaria-ar&token=
+http://89.187.169.203:2200/TN/sumaria-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",utviraqh
 http://89.187.169.206:2200/TR/utviraqhd-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",albaeenahiraq
