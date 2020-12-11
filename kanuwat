@@ -1094,31 +1094,31 @@ http://185.246.210.53:2200/TN/applemosalsalat-ar/tracks-v1a1/mono.m3u8?token=air
 http://89.187.169.202:2200/TN/applecomedy-ar/tracks-v1a1/mono.m3u8?token=airmaxtv 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",halabat
 http://185.93.2.153:2200/TN/halabatv-ar/tracks-v1a1/mono.m3u8?token=airmaxtv 
-#EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://www.video.wataan.com/uploads/1052018-054720PM.png" group-title="MAROCCO قنوات المغرب العربي",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://www.video.wataan.com/uploads/1052018-054720PM.png" group-title="MAROCCO قنوات المغرب",▂ ▄ ▅ ▆☆ MAROCCO قنوات المغرب العربي ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://tvfcdn.com/big/alaoula-maroc.jpg" group-title="MAROCCO قنوات المغرب العربي",AL_Aoula_InterTV
+#EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://tvfcdn.com/big/alaoula-maroc.jpg" group-title="MAROCCO قنوات المغرب",AL_Aoula_InterTV
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/LaayouneTV.png" group-title="MAROCCO قنوات المغرب العربي",AL_Aoula_laayoune TV
+#EXTINF:-1 tvg-id="Al Aoula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/LaayouneTV.png" group-title="MAROCCO قنوات المغرب",AL_Aoula_laayoune TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="2M Monde" tvg-logo="https://2.bp.blogspot.com/-Vw0w4MwQDOY/WRbi-hd2bzI/AAAAAAAAGEM/-8s5Lh8HxBAy_nOFaV_aQVhaFlQub_o8QCLcB/s1600/2m.monde.png" group-title="MAROCCO قنوات المغرب العربي",AL_ 2M MONDE
+#EXTINF:-1 tvg-id="2M Monde" tvg-logo="https://2.bp.blogspot.com/-Vw0w4MwQDOY/WRbi-hd2bzI/AAAAAAAAGEM/-8s5Lh8HxBAy_nOFaV_aQVhaFlQub_o8QCLcB/s1600/2m.monde.png" group-title="MAROCCO قنوات المغرب",AL_ 2M MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1=4-mp4aqad=1.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-LH1JM7FhJEI/XSx2AAzrSrI/AAAAAAAADxo/SnAIBZdo8G041sBPnQpsiehtsmmEYCU0QCLcBGAs/s1600/24112016-090604PM.png" group-title="MAROCCO قنوات المغرب العربي",AR:MR-ARRYADIA -3
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-LH1JM7FhJEI/XSx2AAzrSrI/AAAAAAAADxo/SnAIBZdo8G041sBPnQpsiehtsmmEYCU0QCLcBGAs/s1600/24112016-090604PM.png" group-title="MAROCCO قنوات المغرب",AR:MR-ARRYADIA -3
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="Arryadia" tvg-logo="https://api.aws.telearabia.taprod.otv-se.com/BE/babeleye/cirrus-mcnc/mcnc5/AthaqafiaTV.png" group-title="MAROCCO قنوات المغرب العربي",AR:MR-ARRABIAA HD
+#EXTINF:-1 tvg-id="Arryadia" tvg-logo="https://api.aws.telearabia.taprod.otv-se.com/BE/babeleye/cirrus-mcnc/mcnc5/AthaqafiaTV.png" group-title="MAROCCO قنوات المغرب",AR:MR-ARRABIAA HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="Al Maghribia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="MAROCCO قنوات المغرب العربي",AR:MR-AL MAGHRIBIA HD
+#EXTINF:-1 tvg-id="Al Maghribia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="MAROCCO قنوات المغرب",AR:MR-AL MAGHRIBIA HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="Assadissa" tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/assadissax2-1.png" group-title="MAROCCO قنوات المغرب العربي",ASSADISSA
+#EXTINF:-1 tvg-id="Assadissa" tvg-logo="http://sa.heytv.org/wp-content/uploads/2019/03/assadissax2-1.png" group-title="MAROCCO قنوات المغرب",ASSADISSA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="Tamazight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MAROCCO قنوات المغرب العربي",tamazight tv8
+#EXTINF:-1 tvg-id="Tamazight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MAROCCO قنوات المغرب",tamazight tv8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.medi1tv.com/live_medi1tvarabic_visuel.jpg?1" group-title="MAROCCO قنوات المغرب العربي",Medi1tv Maghreb
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.medi1tv.com/live_medi1tvarabic_visuel.jpg?1" group-title="MAROCCO قنوات المغرب",Medi1tv Maghreb
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="M24 TV" tvg-logo="https://1.bp.blogspot.com/-wCdmc9Bfmoc/XiS0MmHzabI/AAAAAAAAC7A/lUmaxdlvvJEd5WbBMgkdQafUxMj3sa5AgCLcBGAsYHQ/s320/M24%2BMaroc.jpg" group-title="MAROCCO قنوات المغرب العربي",M 24 HD
+#EXTINF:-1 tvg-id="M24 TV" tvg-logo="https://1.bp.blogspot.com/-wCdmc9Bfmoc/XiS0MmHzabI/AAAAAAAAC7A/lUmaxdlvvJEd5WbBMgkdQafUxMj3sa5AgCLcBGAsYHQ/s320/M24%2BMaroc.jpg" group-title="MAROCCO قنوات المغرب",M 24 HD
 http://79.137.106.241/live/smil:OutStream1.smil/chunklist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="Tele Maroc" tvg-logo="https://lh3.googleusercontent.com/lV1chnEuF1Hp166fw_JX7M2wD8C3InUDZzr4zzcFF6mk3c1Y8-q5lUtUXviuaACYQA=s180" group-title="MAROCCO قنوات المغرب العربي",Télé Maroc
+#EXTINF:-1 tvg-id="Tele Maroc" tvg-logo="https://lh3.googleusercontent.com/lV1chnEuF1Hp166fw_JX7M2wD8C3InUDZzr4zzcFF6mk3c1Y8-q5lUtUXviuaACYQA=s180" group-title="MAROCCO قنوات المغرب",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="Medi1 TV" tvg-logo="https://img.medi1tv.com/vis_live_Medi1V_afrique.jpg" group-title="MAROCCO قنوات المغرب العربي",Medi 1 TV Arabic
+#EXTINF:-1 tvg-id="Medi1 TV" tvg-logo="https://img.medi1tv.com/vis_live_Medi1V_afrique.jpg" group-title="MAROCCO قنوات المغرب",Medi 1 TV Arabic
 http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://diwanfm.net/photos/posts/2018/10/02/970x546-7be8bf7cfba2dedce99a96e6744dbd92.jpg" group-title="TUNISIE قنوات تونس",▂ ▄ ▅ ▆☆ TUNISIE قنوات تونس ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
