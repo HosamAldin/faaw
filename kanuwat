@@ -104,13 +104,11 @@ http://89.187.169.206:2200/OSN-EX/OSN_MUSALSALAT_1-ar/tracks-v1a1/mono.m3u8?toke
 http://185.93.2.153:2200/OSN-EX/OSN_MUSALSALAT_2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_ALYAWM
 http://185.246.210.52:2200/OSN-EX/OSN_ALYAWM-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_ALYAWM
-http://185.246.210.52:2200/OSN-EX/OSN_ALYAWM-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_MOVIES
 http://89.187.169.202:2200/OSN-EX/OSN_MOVIES-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_MOVIES_ACTION
 http://89.187.169.204:2200/OSN-EX/OSN_MOVIES_ACTION-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_MOVIES_BINGI
 http://89.187.169.202:2200/OSN-EX/OSN_MOVIES_BINGI-ar/tracks-v1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_STAR_MOVIES
 http://89.187.169.204:2200/OSN-EX/OSN_STAR_MOVIES-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
