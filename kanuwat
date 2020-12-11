@@ -559,7 +559,7 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baraem.tv/images/logo.png" group-title="قنوات أطفال Children",Bein: Baraem
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="قنوات أطفال Children",Bein : Jeem 
-http://89.187.169.203:2200/EX/BeinBaraeimHD-ar/tracks-v1a1/mono.m3u8
+http://89.187.169.203:2200/EX/BeinBaraeimHD-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network العربية
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="قنوات أطفال Children",BEIN :beIN Boomerang HD
@@ -577,13 +577,13 @@ http://89.187.169.205:2200/TN/atfalandmawaheb-ar/tracks-v1a1/mono.m3u8?token=air
 #EXTINF:-1 tvg-id="" tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="قنوات أطفال Children",OSN_NICKELODEON
 http://185.246.210.53:2200/OSN-EX/OSN_NICKELODEON-ar/index.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",babychannel
-http://185.93.2.153:2200/TN/babychannel-ar/tracks-v1a1/mono.m3u8?token=
+http://185.93.2.153:2200/TN/babychannel-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",OSN_DISNEY_XD
-http://89.187.169.206:2200/OSN-EX/OSN_DISNEY_XD-ar/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.206:2200/OSN-EX/OSN_DISNEY_XD-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",OSN_KIDS
-http://89.187.169.206:2200/OSN-EX/OSN_KIDS-ar/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.206:2200/OSN-EX/OSN_KIDS-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",OSN_KIDS_ZONE
-http://89.187.169.204:2200/OSN-EX/OSN_KIDS_ZONE-ar/tracks-v1a1/mono.m3u8?token=
+http://89.187.169.204:2200/OSN-EX/OSN_KIDS_ZONE-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 1
 http://185.246.210.38:2200/VOD/redkids1-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
