@@ -18,6 +18,8 @@ https://cdn.alarab.com/h264/160411_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160855_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E10
 https://cdn.alarab.com/h264/160822_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E11
+https://cdn.alarab.com/h264/160983_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 1
 https://cdn.alarab.com/hdiphone/150792.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 2
@@ -114,6 +116,8 @@ https://cdn.alarab.com/h264/160437_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160565_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 36 HD
 https://cdn.alarab.com/h264/160867_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 37 HD
+https://cdn.alarab.com/h264/160993_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E02
@@ -1040,7 +1044,7 @@ https://cdn.alarab.com/h264/160510_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E06
 https://cdn.alarab.com/h264/160939_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E07
-
+https://cdn.alarab.com/h264/160939_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E08
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E09
@@ -1208,6 +1212,8 @@ https://cdn.alarab.com/h264/160406_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160536_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E13
 https://cdn.alarab.com/h264/160800_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E14
+https://cdn.alarab.com/h264/160964_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 1
 https://cdn.alarab.com/h264/151632_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 2
@@ -1251,7 +1257,7 @@ https://cdn.alarab.com/h264/160443_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 21
 https://cdn.alarab.com/h264/160566_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 22
-
+https://cdn.alarab.com/h264/160865_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 23
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 24
