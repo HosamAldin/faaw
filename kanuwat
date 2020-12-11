@@ -119,7 +119,7 @@ http://185.246.210.38:2200/VOD/redcomedy6-ar/tracks-v1a1/mono.m3u8?token=
 http://185.246.210.38:2200/VOD/redcomedy10-ar/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Crime 1
-http://185.246.210.38:2200/VOD/redcrime1-ar/tracks-v1a1/mono.m3u8?token=
+http://185.246.210.38:2200/VOD/redcrime-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Crime 2
 http://185.246.210.38:2200/VOD/redcrime2-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Crime 3
