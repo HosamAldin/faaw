@@ -141,7 +141,7 @@ http://185.246.210.38:2200/VOD/redcrime10-ar/tracks-v1a1/mono.m3u8?token=
 
 
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Horror Thriller 1
-http://185.246.210.38:2200/VOD/redhorrorthriller1-ar/tracks-v1a1/mono.m3u8?token=
+http://185.246.210.38:2200/VOD/redhorrorthriller-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Horror Thriller 2
 http://185.246.210.38:2200/VOD/redhorrorthriller2-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Horror Thriller 3
