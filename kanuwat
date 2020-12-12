@@ -595,7 +595,7 @@ http://89.187.169.206:2200/OSN-EX/OSN_KIDS-ar/tracks-v1a1/mono.m3u8?token=airmax
 http://89.187.169.204:2200/OSN-EX/OSN_KIDS_ZONE-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 1
-http://185.246.210.38:2200/VOD/redkids1-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://185.246.210.38:2200/VOD/redkids-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 2
 http://185.246.210.38:2200/VOD/redkids2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 3
