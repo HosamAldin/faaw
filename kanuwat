@@ -763,7 +763,7 @@ http://89.187.169.202:2200/TR/rotanacinemahd-ar/index.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
 http://89.187.169.204:2200/TR/rotanaclassichd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy
-http://185.246.210.51:2200/TR/rotanaaflamhd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://89.187.169.204:2200/TR/rotanaaflamhd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama
 http://89.187.169.206:2200/TR/rotanadramahd-ar/index.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
