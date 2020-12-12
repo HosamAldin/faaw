@@ -88,6 +88,8 @@ http://89.187.169.206:2200/EX/BeinMoviesHD2-ar/tracks-v1a1/mono.m3u8?token=airma
 http://89.187.169.205:2200/EX/BeinMoviesHD3-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BeinMoviesHD4
 http://89.187.169.205:2200/EX/BeinMoviesHD4-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BeinSeriesHD1
+http://89.187.169.206:2200/EX/BeinSeriesHD1-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",beinserieshd2
 http://185.246.210.50:2200/EX/beinserieshd2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_YAHALA
@@ -124,6 +126,9 @@ http://89.187.169.204:2200/OSN-EX/OSN_DISCOVERY_ID-ar/tracks-v1a1/mono.m3u8?toke
 http://185.246.210.52:2200/OSN-EX/OSN_NAT_GEO_WILD-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_NAT_GEO_PEOPLE
 http://89.187.169.206:2200/OSN-EX/OSN_NAT_GEO_PEOPLE-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+#EXTINF:0 tvg-id="ext" group-title="او اس انOSN",beingourmet
+http://89.187.169.205:2200/EX/beingourmet-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_H2
 http://185.246.210.52:2200/OSN-EX/OSN_H2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",OSN_LIVING
