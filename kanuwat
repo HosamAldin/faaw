@@ -138,7 +138,6 @@ http://89.187.169.204:2200/NL/pickireland-uk/tracks-v1a1/mono.m3u8?token=airmaxt
 http://185.246.210.53:2200/NL/dmax-uk/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",Crime_and_Investigation
 http://89.187.169.202:2200/EX/Crime_and_Investigation_HD-uk/tracks-v1a1/mono.m3u8?token=airmaxtv
-
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",▂ ▄ ▅ ▆☆ NETFLIX افلام ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",النسخة المدفوعة AirMax TV
@@ -1754,12 +1753,15 @@ http://live02.mc-doualiya.com/mc-doualiya.mp3
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",▂ ▄ ▅ ▆☆ قنوات اسلامية ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات اسلامية",almajd02
+http://89.187.169.205:2200/TR/almajd02-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات اسلامية",almajd04
+http://89.187.169.206:2200/TR/almajd04-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="قنوات اسلامية",Iqraa Europe
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",iqraa
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF: tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="قنوات اسلامية",,Al Risala
-
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",fatehtv
 https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات اسلامية",makkahtv
