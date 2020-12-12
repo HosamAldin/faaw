@@ -762,13 +762,13 @@ http://185.246.210.53:2200/TN/rotanacinema-ar/tracks-v1a1/mono.m3u8?token=airmax
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema HD
 http://89.187.169.202:2200/TR/rotanacinemahd-ar/index.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
-http://185.246.210.51:2200/TR/rotanaclassichd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://89.187.169.204:2200/TR/rotanaclassichd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy
 http://185.246.210.51:2200/TR/rotanaaflamhd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama
 http://89.187.169.206:2200/TR/rotanadramahd-ar/index.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
-http://51.178.220.156/?watch=TR/rotanakhalijeahhd-ar&token=
+http://89.187.169.203:2200/TR/rotanakhalijeahhd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music
 http://89.187.169.205:2200/TR/rotanamusichd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd
