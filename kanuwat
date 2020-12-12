@@ -317,13 +317,13 @@ https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI.
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 1 HD
-http://185.93.2.153:2200/TR/ksasport1hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtvR
+http://89.187.169.203:2200/TR/ksasports1hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 2 HD
 http://185.93.2.153:2200/TR/ksasport2hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 3 HD
-http://185.93.2.153:2200/TR/ksasport3hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://89.187.169.203:2200/TR/ksasports3hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 4 HD
-http://185.93.2.153:2200/TR/ksasport4hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://185.93.2.153:2200/TR/ksasports4hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Saudi24 Sport
 http://89.187.169.202:2200/TR/saudi24sport-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",ON sporthd2
