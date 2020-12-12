@@ -32,21 +32,21 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein .1تعمل وقت المبارات المهمة
-https://akamai2-mx.cdn.booyah.live/hls/250170/36385570.m3u8
+https://cdnhls.goodgame.ru/hls/182056.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein .2تعمل وقت المبارات المهمة
-https://livestream.rheotv.com/live/UjBjuQn/high/manifest.m3u8
+https://live-ak.vimeocdn.com/exp=1607806784~acl=%2Fde9bcce0-309f-4a0e-8fe2-3f08dd47c067%2F%2A~hmac=e534dc65bd95fd6bab7be013a3990cf3399c58c6328431bc2106b46e83e83476/de9bcce0-309f-4a0e-8fe2-3f08dd47c067/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein .3تعمل وقت المبارات المهمة
-https://cdnhls.goodgame.ru/hls/181960.m3u8
+https://live-ak.vimeocdn.com/exp=1607806784~acl=%2Fde9bcce0-309f-4a0e-8fe2-3f08dd47c067%2F%2A~hmac=e534dc65bd95fd6bab7be013a3990cf3399c58c6328431bc2106b46e83e83476/de9bcce0-309f-4a0e-8fe2-3f08dd47c067/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein .4تعمل وقت المبارات المهمة
-https://akamai2-mx.cdn.booyah.live/hls/210158/36406820.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/210158/36449862.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein .5تعمل وقت المبارات المهمة
-https://akamai2-mx.cdn.booyah.live/hls/250170/36394104.m3u8
+https://live-ak.vimeocdn.com/exp=1607806853~acl=%2F3f117b62-9397-45bf-b49d-90ab3710a909%2F%2A~hmac=74fd71797f64a978d61bab6684a3af1ee8cef02b4ba7b10af65b92cd00b69fb6/3f117b62-9397-45bf-b49d-90ab3710a909/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein .6تعمل وقت المبارات المهمة
-https://livestream.rheotv.com/live/LDLrMZ5/high/manifest.m3u8
+https://live-ak.vimeocdn.com/exp=1607806853~acl=%2F3f117b62-9397-45bf-b49d-90ab3710a909%2F%2A~hmac=74fd71797f64a978d61bab6684a3af1ee8cef02b4ba7b10af65b92cd00b69fb6/3f117b62-9397-45bf-b49d-90ab3710a909/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein .7تعمل وقت المبارات المهمة
-https://akamai2-mx.cdn.booyah.live/hls/210158/36406820.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein .8تعمل وقت المبارات المهمة
-https://cdnhls.goodgame.ru/hls/182011.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein
 
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
