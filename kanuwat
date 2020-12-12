@@ -91,7 +91,7 @@ http://89.187.169.205:2200/EX/BeinMoviesHD4-ar/tracks-v1a1/mono.m3u8?token=airma
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BeinSeriesHD1
 http://89.187.169.206:2200/EX/BeinSeriesHD1-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",beinserieshd2
-http://89.187.169.206:2200/EX/BeinSeriesHD2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://185.246.210.50:2200/EX/beinserieshd2-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN_DTX-
 http://89.187.169.205:2200/EX/BEIN_DTX-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BEIN_AM
