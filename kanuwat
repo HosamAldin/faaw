@@ -48,9 +48,9 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
-https://akamai2-me.cdn.booyah.live/hls/113138/36456704.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/210158/36547483.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
-https://akamai2-mx.cdn.booyah.live/hls/250176/36546488.m3u8
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CqQFv_7kwYSAJqbVat5w2oVdC4whMG_9V48mYDDThrZdwqYmfGcMfs2SLxJGON7FKoXkFch9Dz6L8rLREZpOIwnHrG_y6Mnk7SgMYguzmd3teIzfbVilk6fCkMu4hMxgjMYKHdXLUz7ijYu_V2XUgfl3UCRT1aQkAOD2yLcRzQsrDvqWb_lZCKQGL9L9An66Umttp5IkOq1kFZIGS-h2doUKLmwTiGpTcQla7ra0lceJ41UxmXWAoDMyhvWNs4yT9ZKbfw3gRgn9NPVUq5nMEV8qaaoUrgaAU5dRlCRgrkev4CPQR1ZnLz3xBqMpin5K7ABGEUtT_a7iYo-AO3GDGUWhdlW3S3eF3NQSrn9CBHw16HGG1qrf85sbEc2qsncjB6Blt8cDnWuTXyIw7BFrcrJJTMNiF_MTHfGgn1C00zVw6QHOB92ALBpDDxLDniRYbQm-pXslMswHP4jQ7KFfBVuYRoqMGdCknQhCNCdmFONRpy3Qr3CJRXiwOyTXu-MaPZtrd56sEOGlNoNL7oKoj3U4uvWirnduGrPz50wMcwb7GwQA7lVFBarCzkmVIglsDz8E3D9ZjuTVz3_YFcM_2A34ZdwE0cquHn-SGTmYmBrxCGRUptcfeQFcEE3hPUkKuzSsVBDbM4zw9rBwh5WC61GqT2P-WCjSxHWsEYEeNEJYXFIgjYU9pzZKT20i9RujIOtAktRtShPQJh36zgmOlbHr2NQz6WcblNIbs6B-a17ARqe0v9zay1urf8RHogaNQsuKSgRYaR61lYZQX-xQZGuARd4bZs6skp8dt4vg0Bcp2Ys7tCVhthJYOeHUqvuJs-zBaowsD6V4JjUM2Cg3PgK4GV5LHbzMFbM0X9nI-kA90KHd9aWK9lz-JpEMY5x9UHAAmEXyoBIQ_j_Hw1ty9ynJxBHOdjU4bBoMIXtTC_23hRGuMkM6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
