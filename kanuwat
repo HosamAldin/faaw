@@ -40,13 +40,8 @@ https://akamai2-br.cdn.booyah.live/hls/1000010/36530728.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 https://akamai2-mx.cdn.booyah.live/hls/210154/36518896.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
-https://livestream.rheotv.com/live/UjBjuQn/high/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 https://akamai2-me.cdn.booyah.live/hls/113138/36456704.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
-https://sg.mmfootballgroup.com/stream/387p1CnKFOnvxMP8vwRJ.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
-https://m59.cdn4kora.com/live/bein2/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
