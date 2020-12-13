@@ -31,7 +31,7 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein تعمل وقت المبارات المهمة
-https://akamai2-mx.cdn.booyah.live/hls/210158/36551943.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 2HD
@@ -102,23 +102,6 @@ http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d
 http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1450.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_10_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 10 HD
 http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1451.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 SD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 1 SD
-http://173.249.4.94:8081/Ch1/Ch1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 SD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 2 SD
-http://173.249.4.94:8081/Ch2/Ch2/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 SD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 3 SD
-http://173.249.4.94:8081/Ch3/Ch3/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 SD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 4 SD
-http://173.249.4.94:8081/Ch4/Ch4/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 SD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 5 SD
-http://173.249.4.94:8081/Ch5/Ch5/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 SD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 6 SD
-http://173.249.4.94:8081/Ch6/Ch6/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 SD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 7 SD
-http://173.249.4.94:8081/Ch7/Ch7/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 SD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 8 SD
-http://173.249.4.94:8081/Ch8/Ch8/chunks.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
