@@ -4149,22 +4149,6 @@ https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://i.pinimg.com/236x/63/0b/81/630b814e80a6fdad1f020e1606590c27.jpg" tvg-country="MM" tvg-url="" group-title="Myanmar",MWD Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="NP" tvg-url="" group-title="Nepal",AVENUES TV
-http://stream-e30453a4b.nmbs.top/m3u/Nepal/f456950dd9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Himalaya_tv_new_logo.png/100px-Himalaya_tv_new_logo.png" tvg-country="NP" tvg-url="" group-title="Nepal",HIMALAYA TV
-http://stream-e30453a4b.nmbs.top/m3u/Nepal/96ca8abf6e.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kantipur_TV_new_logo.png/200px-Kantipur_TV_new_logo.png" tvg-country="NP" tvg-url="" group-title="Nepal",KANTIPUR TV
-http://stream-e30453a4b.nmbs.top/m3u/Nepal/f8c3173730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jcss-cdn.ekantipur.com//kantipur-tv/images/ktv-hd.png" tvg-country="NP" tvg-url="" group-title="Nepal",Kantipur TV
-https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Mountaintvlogo.png/200px-Mountaintvlogo.png" tvg-country="NP" tvg-url="" group-title="Nepal",MOUNTAIN TV
-http://stream-e30453a4b.nmbs.top/m3u/Nepal/284bc38189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/90/NTV_Plus.png" tvg-country="NP" tvg-url="" group-title="Nepal",NTV PLUS
-http://stream-e30453a4b.nmbs.top/m3u/Nepal/640d53a32a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="NP" tvg-url="" group-title="Nepal",TV FILMY
-http://stream-e30453a4b.nmbs.top/m3u/Nepal/6a45212329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="NP" tvg-url="" group-title="Nepal",VISION NEPAL
-http://stream-e30453a4b.nmbs.top/m3u/Nepal/69d3e8d1af.m3u8
 
 #EXTINF:-1 tvg-id="tv.13" tvg-name="Māori Television" tvg-language="" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/freeview-channel-logos-38.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="New Zealand",Māori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
