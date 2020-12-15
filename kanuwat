@@ -83,28 +83,6 @@ http://185.246.210.53:2200/EX/bein10hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 http://185.246.210.53:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",SPORT: AR: BEIN Sports 12
 http://185.246.210.53:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
-
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SPORTS 1 hd" tvg-logo="http://190.2.141.126/logos/bein/be_in_mena_sports_01_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 1 hd
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1442.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_02_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 2 HD
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1443.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_03_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 3 HD
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1444.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_04_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 4 HD
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1445.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_05_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 5 HD
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1446.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_06_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 6 HD
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1447.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_07_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 7 HD
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1448.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_08_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 8 HD
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1449.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_09_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 9 HD
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1450.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_10_hd.jpg" group-title="قنوات بين سبور BEIN SPORT",BEIN SPORTS 10 HD
-http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/live/orbnazidhf/55f23g854f21d32/1451.ts
-
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
