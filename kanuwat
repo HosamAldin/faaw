@@ -31,9 +31,9 @@ http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vnCFJ5a.png" group-title="قنوات بين سبور BEIN SPORT",Bein 2تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein 3تعمل وقت المبارات المهمة
-https://akamai2-br.cdn.booyah.live/hls/1000021/36606870.m3u8
+https://livestream.rheotv.com/live/u62bc5P/high/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein 4تعمل وقت المبارات المهمة
-https://akamai2-mx.cdn.booyah.live/hls/250170/36663178.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein 5تعمل وقت المبارات المهمة
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/f840bcb7d819481b9f52bbc4ee8d5f33/index2_3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein 6تعمل وقت المبارات المهمة
@@ -41,7 +41,6 @@ https://playtimeshift.trovo.live/timeshift/live/73846_101217519_101217519/timesh
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein 7تعمل وقت المبارات المهمة
 https://steambroadcast.akamaized.net/broadcast/76561199028686120/3368120157432061179/hls_manifest/0/steambroadcast.akamaized.net/7000000/video.m3u8?broadcast_origin=repo-02-lhr1.broadcast.steamcontent.com:80
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein 8تعمل وقت المبارات المهمة
-https://live-ak.vimeocdn.com/exp=1608058162~acl=%2F22a5b0a9-f2f0-480a-8f09-247acdad8dbf%2F*~hmac=50dfd0ffa3fad52a66b0e1b5ddd72720d9c0e3cae93c85b51f4cf88be9215c7b/22a5b0a9-f2f0-480a-8f09-247acdad8dbf/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 2HD
