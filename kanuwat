@@ -641,7 +641,7 @@ https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi" tvg-logo="https://i.pinimg.com/280x280_RS/8f/47/38/8f4738cd03952945d41da892211b43ee.jpg" group-title="قنوات الوثائقية",National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
-https://edge-1192-ch-gv.filmon.com/live/3029.high.stream/playlist.m3u8?airmaxtv.m3u8
+http://185.246.210.53:2200/NL/aljazeeradocumentary-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2020/01/JzMM5KDx_400x400.jpg" group-title="قنوات الوثائقية",BAHRAIN INTERNATIONAL
