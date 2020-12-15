@@ -1472,7 +1472,7 @@ https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-name="AR:Qatar TV HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-qatar-tv-3389.jpg" group-title="قنوات قطر Qatar",Qatar 1 TV HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/master.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Qatar TV HD" tvg-logo="https://www.altkia.com/wp-content/uploads/2020/12/Qatar2.jpg" group-title="قنوات قطر Qatar",Qatar 2 TV HD
-http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master720p.m3u8
+http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://4.bp.blogspot.com/-sikjDK305oU/W43yPSuVcDI/AAAAAAAABGg/RqLj6sP5kPwXCYJbABmXXLlJunStl0MlQCLcBGAs/s1600/Alrayyan%2B2.jpg" group-title="قنوات قطر Qatar",Al RAYAN 2 HD
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://www.alarab.qa/Content/Upload/large/7201490127.jpg" group-title="قنوات قطر Qatar",ALRAYAN HD
