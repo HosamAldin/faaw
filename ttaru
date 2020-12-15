@@ -357,6 +357,37 @@ https://cdn.alarab.com/h264/161004_480p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E01
 https://cdn.alarab.com/h264/160679_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E02
+https://cdn.alarab.com/h264/160679_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E03
+https://cdn.alarab.com/h264/161088_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E04
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E05
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E06
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E07
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E08
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E09
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E01
+https://cdn.alarab.com/h264/161086_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E02
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E03
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E04
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E05
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E06
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E07
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E08
 
 
 
@@ -515,7 +546,7 @@ https://cdn.alarab.com/h264/160507_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E14
 https://cdn.alarab.com/h264/160786_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E15
-
+https://cdn.alarab.com/h264/160936_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E16
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E17
@@ -609,6 +640,23 @@ https://cdn.alarab.com/h264/160489_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160713_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E42
 https://cdn.alarab.com/h264/160917_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E42
+https://cdn.alarab.com/h264/160917_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E43
+https://cdn.alarab.com/h264/161087_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E44
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E45
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E46
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E47
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E48
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E49
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E42
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E01
 https://cdn.alarab.com/h264/158911_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E02
@@ -638,7 +686,7 @@ https://cdn.alarab.com/h264/160728_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E14
 https://cdn.alarab.com/h264/160933_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E15
-
+https://cdn.alarab.com/h264/161101_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E16
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E17
@@ -726,7 +774,7 @@ https://cdn.alarab.com/h264/160500_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E12
 https://cdn.alarab.com/h264/160731_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E13
-
+https://cdn.alarab.com/h264/160935_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E14
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E15
@@ -758,7 +806,7 @@ https://cdn.alarab.com/h264/160436_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E08
 https://cdn.alarab.com/h264/161006_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E09
-
+https://cdn.alarab.com/h264/160994_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E10
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E01
@@ -995,9 +1043,28 @@ https://cdn.alarab.com/h264/160210_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E18
 https://cdn.alarab.com/h264/160318_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E19
-
+https://cdn.alarab.com/h264/160488_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E20
 https://cdn.alarab.com/h264/160706_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E21
+https://cdn.alarab.com/h264/160916_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E22
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E23
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E24
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E25
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E26
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E27
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E28
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E29
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E01
 https://cdn.alarab.com/h264/158855_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E02
@@ -1628,6 +1695,20 @@ https://cdn.alarab.com/h264/160473_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160628_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E50 زهرة الثالوث
 https://cdn.alarab.com/h264/160907_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E51 زهرة الثالوث
+https://cdn.alarab.com/h264/161020_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E52 زهرة الثالوث
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E53 زهرة الثالوث
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E54 زهرة الثالوث
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E55 زهرة الثالوث
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E56 زهرة الثالوث
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E57 زهرة الثالوث
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E01 الطبيب المعجزة
 https://cdn.alarab.com/numeric/131568.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E02 الطبيب المعجزة
