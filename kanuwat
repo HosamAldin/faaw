@@ -1475,7 +1475,7 @@ http://qtv-i.akamaihd.net/hls/live/213233/QTV/master.m3u8?airmaxtv.m3u8
 http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://4.bp.blogspot.com/-sikjDK305oU/W43yPSuVcDI/AAAAAAAABGg/RqLj6sP5kPwXCYJbABmXXLlJunStl0MlQCLcBGAs/s1600/Alrayyan%2B2.jpg" group-title="قنوات قطر Qatar",Al RAYAN 2 HD
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://www.alarab.qa/Content/Upload/large/7201490127.jpg" group-title="قنوات قطر Qatar",ALRAYAN HD
+#EXTINF:-1 tvg-id="" tvg-name="AR:Al RAYAN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_2014-03-24_07-56.png" group-title="قنوات قطر Qatar",ALRAYAN HD
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/images-90-2-1280x720.jpeg" group-title="قنوات الكويت Kuwait",▂ ▄ ▅ ▆☆ Kuwait TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
