@@ -43,7 +43,8 @@ https://livestream.rheotv.com/live/u62bc5P/high/manifest.m3u8
 https://playtimeshift.trovo.live/timeshift/live/73846_101217519_101217519/timeshift.m3u8?delay=0&txKbps=600
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein 9تعمل وقت المبارات المهمة
 https://ccf3786b925ee51c.mediapackage.us-east-1.amazonaws.com/out/v1/f66c9ac57cf0482ca54c5cdc86e68854/index4_1.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein 10تعمل وقت المبارات المهمة
+http://edge-ind.inapcdn.in:1935/live/alam/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="قنوات بين سبور BEIN SPORT",bein sport 2HD
