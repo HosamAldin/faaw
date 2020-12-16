@@ -113,10 +113,6 @@ http://135.181.31.32/hls/bein7.m3u8
 http://135.181.31.32/hls/bein8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 9 HD
 http://135.181.31.32/hls/bein9.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 9 HD
-https://youtu.be/1QsG27Dqq8I/@s@/
-
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
@@ -2425,3 +2421,5 @@ https://ustream2.panet.co.il/vod/197/197643/197643.mp4/playlist.m3u8?airmaxtv.m3
 https://ustream2.panet.co.il/vod/169/169304/169304.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام اطفال",AR:سنافر
 https://ustream2.panet.co.il/vod/77/77262/77262.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="افلام اطفال",AR:سنافر ++
+https://www.ostora-tv.com/live/20831835/1544487/70134
