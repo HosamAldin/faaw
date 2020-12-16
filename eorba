@@ -268,6 +268,10 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEUTSCH",Vox
 http://5.135.92.133:52841/out/u/124_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",RTL Nitro
+http://188.35.9.5:10020/stolen/479d/hot.dll
+#EXTINF:-1 tvg-logo="" group-title="DEUTSCH",RTL Plus
+http://188.35.9.5:10020/stolen/480c/hot.dll
 #EXTINF:-1 tvg-logo="" group-title="DEUTSCH",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEUTSCH",RTL 2
@@ -975,93 +979,6 @@ http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
 http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FRANCE",▂ ▄ ▅ ▆☆ FRANCE TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTM3U
-#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE",France 2
-http://stream-e30453a4b.nmbs.top/m3u/France/d0a6097754.m3u8
-#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE",France 3
-http://stream-e30453a4b.nmbs.top/m3u/France/a435517422.m3u8
-#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE",France 4
-http://stream-e30453a4b.nmbs.top/m3u/France/95227cb0c2.m3u8
-#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE",France 5
-http://stream-e30453a4b.nmbs.top/m3u/France/3587c5fdd9.m3u8
-#EXTINF:0 tvg-id="FranceO.fr" group-title="FRANCE",France O
-http://stream-e30453a4b.nmbs.top/m3u/France/4c77c3f40d.m3u8
-#EXTINF:0 tvg-id="france24" group-title="FRANCE",France 24
-http://stream-e30453a4b.nmbs.top/m3u/France/c005e5def2.m3u8
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE",TF1
-http://stream-e30453a4b.nmbs.top/m3u/France/40336c9df8.m3u8
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE",M6
-http://stream-e30453a4b.nmbs.top/m3u/France/c1f5830564.m3u8
-#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="FRANCE",M6 MUSIC
-http://stream-e30453a4b.nmbs.top/m3u/France/001f2f04bd.m3u8
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FRANCE",Canal+ Sport
-http://stream-e30453a4b.nmbs.top/m3u/France/b946a256d9.m3u8
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE",Canal+ Series
-http://stream-e30453a4b.nmbs.top/m3u/France/cc1609bfcf.m3u8
-#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="FRANCE",Canal+ Family
-http://stream-e30453a4b.nmbs.top/m3u/France/3f73faf3ce.m3u8
-#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE",Canal+ Cinema
-http://stream-e30453a4b.nmbs.top/m3u/France/f743b08300.m3u8
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRANCE",CINE PREMIER
-http://stream-e30453a4b.nmbs.top/m3u/France/e611049352.m3u8
-#EXTINF:0 tvg-id="CinePolar.fr" group-title="FRANCE",CINE POLAR
-http://stream-e30453a4b.nmbs.top/m3u/France/dc6e666eab.m3u8
-#EXTINF:0 tvg-id="CineFX.fr" group-title="FRANCE",CINE FX
-http://stream-e30453a4b.nmbs.top/m3u/France/4bd3b5736d.m3u8
-#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE",CINE FAMIZ
-http://stream-e30453a4b.nmbs.top/m3u/France/456002b289.m3u8
-#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE",CINE CLASSIC
-http://stream-e30453a4b.nmbs.top/m3u/France/f15a49d5e5.m3u8
-#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE",SYFY FRANCE
-http://stream-e30453a4b.nmbs.top/m3u/France/a66d3d8d53.m3u8
-#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="FRANCE",Disney Cinemagic
-http://stream-e30453a4b.nmbs.top/m3u/France/42d0f7ee60.m3u8
-#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FRANCE",OCS CHOC
-http://stream-e30453a4b.nmbs.top/m3u/France/7734ed75d3.m3u8
-#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="FRANCE",OCS MAX
-http://stream-e30453a4b.nmbs.top/m3u/France/68b5dc76a0.m3u8
-#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FRANCE",OCS CITY
-http://stream-e30453a4b.nmbs.top/m3u/France/15795b9e9c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",OLTV HD
-http://stream-e30453a4b.nmbs.top/m3u/France/1aada22045.m3u8
-#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE",COMEDIE  HD
-http://stream-e30453a4b.nmbs.top/m3u/France/93b2671094.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",GULLI FRANCE
-http://stream-e30453a4b.nmbs.top/m3u/France/7f805bd94d.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Discovery France
-http://stream-e30453a4b.nmbs.top/m3u/France/77dc72360d.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",NAT GEO FRANCE
-http://stream-e30453a4b.nmbs.top/m3u/France/e4e541e51d.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",NAT GEO WILD FRANCE
-http://stream-e30453a4b.nmbs.top/m3u/France/2aa1d84e04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",DISCOVERY SCI FRANCE
-http://stream-e30453a4b.nmbs.top/m3u/France/c108157cea.m3u8
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE",W9 HD
-http://stream-e30453a4b.nmbs.top/m3u/France/a2ba967eb8.m3u8
-#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE",RTL9 HD
-http://stream-e30453a4b.nmbs.top/m3u/France/49a6412ef4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Boomrang France
-http://stream-e30453a4b.nmbs.top/m3u/France/935ed8ac4b.m3u8
-#EXTINF:0 tvg-id="tv1000-action" group-title="FRANCE",ACTION
-http://stream-e30453a4b.nmbs.top/m3u/France/0de8b91cfb.m3u8
-#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE",ANIMAUX
-http://stream-e30453a4b.nmbs.top/m3u/France/bfd0ca768a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",E! ENT FRANCE
-http://stream-e30453a4b.nmbs.top/m3u/France/53e41e6957.m3u8
-#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE",MANGAS
-http://stream-e30453a4b.nmbs.top/m3u/France/a66202d234.m3u8
-#EXTINF:0 tvg-id="BFMTV.fr" group-title="FRANCE",BFMTV
-http://stream-e30453a4b.nmbs.top/m3u/France/3e065705fe.m3u8
-#EXTINF:0 tvg-id="RFMTV.fr" group-title="FRANCE",RFM TV
-http://stream-e30453a4b.nmbs.top/m3u/France/55a4f27472.m3u8
-#EXTINF:0 tvg-id="mcm-top" group-title="FRANCE",MCM TOP
-http://stream-e30453a4b.nmbs.top/m3u/France/4cbe87bc60.m3u8
-#EXTINF:0 tvg-id="Equipe21.fr" group-title="FRANCE",LEQUIPE 21
-http://stream-e30453a4b.nmbs.top/m3u/France/e0ade57a09.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",GONGMAX
-http://stream-e30453a4b.nmbs.top/m3u/France/8d0b2859e3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",ZEE MAGIC
-http://stream-e30453a4b.nmbs.top/m3u/France/965818a853.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/FranceO.fr.png" group-title="FRANCE",France Ô
 https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="FRANCE",France 2
