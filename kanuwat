@@ -1011,7 +1011,7 @@ https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="LEBANON قنوات لبنان",AR:LBN-ETIHAD-TV
 https://live.alittihad.tv/ittihad/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="almanar" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="LEBANON قنوات لبنان",Al Manar
-https://manar.live/iptv/tracks-v1a1/mono.m3u8
+https://manar.live/iptv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-al-iman-tv-5506.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- AL-IMAN-TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-AL Mayadeen
