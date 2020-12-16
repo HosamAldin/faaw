@@ -690,8 +690,9 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png/220px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86.png" group-title="قنوات أطفال Children",Ar:SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baraem.tv/images/logo.png" group-title="قنوات أطفال Children",Bein: Baraem
+http://185.246.210.52:2200/EX/BeinBaraeimHD-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="قنوات أطفال Children",Bein : Jeem 
-http://89.187.169.203:2200/EX/BeinBaraeimHD-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
+http://195.181.172.83:2200/EX/beINJeem-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="قنوات أطفال Children",BEIN :Cartoon_Network العربية
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="قنوات أطفال Children",BEIN :beIN Boomerang HD
@@ -708,6 +709,8 @@ http://185.246.210.50:2200/TR/toyoraljanah-ar/tracks-v1a1/mono.m3u8?token=airmax
 http://89.187.169.205:2200/TN/atfalandmawaheb-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="قنوات أطفال Children",OSN_NICKELODEON
 http://185.246.210.53:2200/OSN-EX/OSN_NICKELODEON-ar/index.m3u8?token=airmaxtv
+#EXTINF:-1 tvg-id="" tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="قنوات أطفال Children",OSN_NICKELODEON +
+http://89.187.169.202:2200/OSN-EX/OSN_NICKELODEON-ar/index.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",babychannel
 http://185.93.2.153:2200/TN/babychannel-ar/tracks-v1a1/mono.m3u8?token=airmaxtv
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",OSN_DISNEY_XD
@@ -1667,6 +1670,26 @@ http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/chunklist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="الصومال‎",SBC
 http://cdn.mediavisionuae.com:1935/live/sbctv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.elahmad.com/tv/images/somali_channels.jpg" group-title="Mouritaniya موريتانيا‎",▂ ▄ ▅ ▆☆ Mouritaniya موريتانيا ☆▆ ▅ ▄ ▂ ▁
+https://bit.ly/39YjahM
+#EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elmouritaniya
+http://185.93.2.153:2200/TR/elmouritaniya-af/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elmouritania2
+http://185.59.222.171:2200/TR/elmouritania2-af/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elmahadra
+http://185.246.210.53:2200/TR/elmahadra-af/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",chinguittv
+http://185.246.210.52:2200/TR/chinguittv-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",almourabitoune
+http://185.93.2.153:2200/TR/almourabitoune-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elwataniatv
+http://185.246.210.53:2200/TR/elwataniatv-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",saheltv
+http://185.246.210.54:2200/TR/saheltv-ar/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",tdmpromotionalchannel
+http://89.187.169.204:2200/TR/tdmpromotionalchannel-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elbarlemania
+http://185.93.2.153:2200/TR/elbarlemania-ar/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/TIOMNuOzknM/maxresdefault.jpg" group-title="KURDISH ",▂ ▄ ▅ ▆☆ KURDISH  ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",النسخة المدفوعة AirMax TV
