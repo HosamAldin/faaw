@@ -114,6 +114,9 @@ http://135.181.31.32/hls/bein8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 9 HD
 http://135.181.31.32/hls/bein9.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 9 HD
+https://youtu.be/1QsG27Dqq8I/@s@/
+
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
