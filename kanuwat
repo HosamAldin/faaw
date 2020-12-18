@@ -934,39 +934,36 @@ https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات روتانا ROTANA",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids
-https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="قنوات روتانا ROTANA",Rotana+ HD
-http://185.93.2.153:2200/TR/rotanaplushd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/m-plus.png" group-title="قنوات روتانا ROTANA",Rotana M+ HD
-http://185.93.2.153:2200/TR/rotanamplushd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/aflam-plus.png" group-title="قنوات روتانا ROTANA",Rotana aflam+ HD
-http://185.246.210.50:2200/TR/rotanaaflamplushd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات روتانا ROTANA",Rotana cinema
-http://185.246.210.53:2200/TN/rotanacinema-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema HD
-http://89.187.169.202:2200/TR/rotanacinemahd-ar/index.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
-http://89.187.169.204:2200/TR/rotanaclassichd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy
-http://89.187.169.204:2200/TR/rotanaaflamhd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama
-http://89.187.169.206:2200/TR/rotanadramahd-ar/index.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
-http://89.187.169.203:2200/TR/rotanakhalijeahhd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music
-http://89.187.169.205:2200/TR/rotanamusichd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd
-http://89.187.169.206:2200/TR/lbchd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya HD
-https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/7fdc4713-e998-4d70-82b6-cc9fbcd943aa:GRQ/variant/8c5b5969467cb7d5ea8bb1fe6dd27fd4/bandwidth/1334839.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya SD
-https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/7fdc4713-e998-4d70-82b6-cc9fbcd943aa:GRQ/variant/6d314d945d3732eb5ae7054570c38108/bandwidth/783672.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema HD
-https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/8bbdc7f8-c56f-4d7a-8835-0fb1d3168129:GRQ/variant/91b8a5da4cbc72533f927328609ac744/bandwidth/1349659.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema SD
-https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/8bbdc7f8-c56f-4d7a-8835-0fb1d3168129:GRQ/variant/eb2fe1098c1f1ebe1f34a7938ebc3c69/bandwidth/810538.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://atf-image.s3.us-east-1.amazonaws.com/uploads/partner/partner_151696528837.png" group-title="قنوات روتانا ROTANA",lbc
+
+
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="قنوات روتانا ROTANA",Rotana Cinema HD
+
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="قنوات روتانا ROTANA",Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="قنوات روتانا ROTANA",Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="قنوات روتانا ROTANA",Rotana Classic HD
+
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" group-title="قنوات روتانا ROTANA",Rotana Classic HD
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-name="Rotana Comedy ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy HD
+
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="قنوات روتانا ROTANA",Rotana Drama HD
+
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="قنوات روتانا ROTANA",Rotana Drama HD
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="قنوات روتانا ROTANA",Rotana Khalijia HD
+
+#EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" group-title="قنوات روتانا ROTANA",Rotana Khalijia HD
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids
+
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/music.png" group-title="قنوات روتانا ROTANA",Rotana Music
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="قنوات روتانا ROTANA",Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
 http://188.247.86.67:8008/3
@@ -1569,8 +1566,6 @@ https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8?airmaxtv.m3u8
 http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png" group-title="قنوات الكويت Kuwait",FUNOON
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/FunoonTV.png" group-title="قنوات الكويت Kuwait",FUNOON +
-http://89.187.169.205:2200/TR/atv2hd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
 #EXTINF:-1 tvg-id="" tvg-logo="https://fhras.net/wp-content/uploads/2020/04/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-atv-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A%D8%A9-2020.jpg" group-title="قنوات الكويت Kuwait",قناة atv الكويتية 1 SD
 rtmp://168.187.49.14:1935/live//atv?v=
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.el7sry2day.info/wp-content/uploads/2019/04/481438_437913999596713_1650868144_n.jpg" group-title="قنوات الكويت Kuwait",قناه المعارف الكويتيه SD
@@ -1615,6 +1610,13 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?airmaxtv.m3u8
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/saXXXEIJun0/hqdefault.jpg" group-title="قنوات السعودية Saudi-Arabia",▂ ▄ ▅ ▆☆ Saudi-Arabia tv ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="قنوات السعودية Saudi-Arabia",Saudi TV 1
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="قنوات السعودية Saudi-Arabia",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="قنوات السعودية Saudi-Arabia",Iqraa Europe Africa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/campaignme.com/wp-content/uploads/2020/04/thikrayat-logo-tv.png?fit=1024%2C586&ssl=1" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-THIKRAYAT HD
 http://185.246.210.52:2200/TR/thikrayathd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
 #EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/max/660/0*OjKxlLf3wI7PeQCP." group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Beity TV HD
@@ -1623,8 +1625,6 @@ http://185.246.210.50:2200/TR/beitytv-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQz
 http://89.187.169.206:2200/TR/sbc-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/889210598948577281/sdOxpgJQ_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",alamaken drama
 http://89.187.169.202:2200/TN/alamakendrama-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-#EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/tv-net.co/channels-frequencys/wp-content/uploads/2014/10/saudi_tv1.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi 1 LOW
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://stream.noble.tv:9990/top4.jpg" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Noble TV HD
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/928727626998599681/ZwMaNIAd_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-22 TV
