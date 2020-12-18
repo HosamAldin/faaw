@@ -1034,6 +1034,12 @@ https://bit.ly/34ooolI
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON قنوات لبنان",Tele Liban
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvseventeen.com/img/logo.png" group-title="LEBANON قنوات لبنان",TV Seventeen
+https://cdn.tvseventeen.com/test_tv_seventeen/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.u-news.net/themes/publication_1/theme_1/_img/logoimg.png" group-title="LEBANON قنوات لبنان",Unews
+http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg" group-title="LEBANON قنوات لبنان",Newv
+https://master.starmena-cloud.com/hls/newv.m3u8
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD+
 http://185.246.210.50:2200/TR/mtvlebanonhd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
@@ -1068,6 +1074,8 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="PALESTINE قنوات فلسطين",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+#EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="http://paltoday.tv/style/assets/images/logo.png" group-title="PALESTINE قنوات فلسطين",Paltv
+https://live.paltoday.tv/paltv/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ps-alfajer-tv-1195.jpg" group-title="PALESTINE قنوات فلسطين",AlFajer 
 
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="https://gulf365.co/content/uploads/2019/09/26/c524a38aa6.jpg" group-title="PALESTINE قنوات فلسطين",AlFajer 2
@@ -1154,7 +1162,8 @@ http://89.187.169.206:2200/TN/iraqfuture-ar/index.m3u8?token=RED_rqGLzQzan_G599X
 http://185.246.210.53:2200/TN/almawsleya-ar/index.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
 #EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",alebaatv
 http://185.246.210.52:2200/TN/alebaatv-ar/index.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://iraq24hd.com/wp-content/uploads/2020/07/iq24hd.png" group-title="قنوات العراق IRAQ",AR:IRQ-iraq24HD
+https://n-akamai-fastly.castr.com/edge/live_31b220e0e20611eab1b9cfce247e5d5f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Alfallujah_tv.png" group-title="قنوات العراق IRAQ",AR:IRQ-Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV
