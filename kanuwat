@@ -999,14 +999,6 @@ https://bit.ly/34ooolI
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON قنوات لبنان",Tele Liban
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD
-http://ssitv.ddns.net:9074/channel1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED
-http://ssitv.ddns.net:9074/channel7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="LBCI" tvg-logo="https://pbs.twimg.com/profile_images/378800000632371341/43ad2cad4ed9befaeb6be94843ee6682_400x400.jpeg" group-title="LEBANON قنوات لبنان",AR:LBN-ldc 2
-http://ssitv.ddns.net:9074/channel6/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD+
 http://185.246.210.50:2200/TR/mtvlebanonhd-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
 #EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
