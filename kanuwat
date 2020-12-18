@@ -520,6 +520,43 @@ http://catchup.iptv.iinet.rs/playlist.m3u8?id=186&token=dG9rZW49LVkzblctbGw0RUdz
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="قنوات رياضية SPORT",Arena Sport 5
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=187&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
 
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title ="قنوات رياضية SPORT",Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title ="قنوات رياضية SPORT",Fox Sport2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title ="قنوات رياضية SPORT",Fox Sport3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="قنوات رياضية SPORT", Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="قنوات رياضية SPORT", Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="قنوات رياضية SPORT", Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="قنوات رياضية SPORT", Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQz4nRW.png" group-title="قنوات رياضية SPORT", Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title ="قنوات رياضية SPORT",Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title ="قنوات رياضية SPORT",PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title ="قنوات رياضية SPORT",PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title ="قنوات رياضية SPORT",PremierHD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title ="قنوات رياضية SPORT",PremierHD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="قنوات رياضية SPORT",PremierHD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title ="قنوات رياضية SPORT",True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title ="قنوات رياضية SPORT",True Sport HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title ="قنوات رياضية SPORT",True Sport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="قنوات رياضية SPORT",True Sport HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?airmaxtv.m3u8
