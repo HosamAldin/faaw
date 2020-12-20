@@ -20,6 +20,23 @@ https://cdn.alarab.com/h264/160855_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160822_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E11
 https://cdn.alarab.com/h264/160983_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E12
+https://cdn.alarab.com/h264/161123_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E13
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E14
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E15
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E16
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E17
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E18
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E19
+
+#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E20
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 1
 https://cdn.alarab.com/hdiphone/150792.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 2
@@ -118,6 +135,8 @@ https://cdn.alarab.com/h264/160565_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160867_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 37 HD
 https://cdn.alarab.com/h264/160993_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 38 HD
+https://cdn.alarab.com/h264/161214_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E02
@@ -427,7 +446,7 @@ https://cdn.alarab.com/h264/160845_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E13
 https://cdn.alarab.com/h264/160979_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E14
-
+https://cdn.alarab.com/h264/161145_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E15
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E16
@@ -808,7 +827,7 @@ https://cdn.alarab.com/h264/161006_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E09
 https://cdn.alarab.com/h264/160994_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E10
-
+https://cdn.alarab.com/h264/161217_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E01
 https://cdn.alarab.com/h264/154125_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E07
@@ -847,7 +866,7 @@ https://cdn.alarab.com/h264/160841_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E17
 https://cdn.alarab.com/h264/160976_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E18
-
+https://cdn.alarab.com/h264/161142_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E19
 
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E20
@@ -896,7 +915,7 @@ https://cdn.alarab.com/h264/160905_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E15
 https://cdn.alarab.com/h264/161013_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E16
-
+https://cdn.alarab.com/h264/161273_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E17
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E18
@@ -1206,8 +1225,9 @@ https://cdn.alarab.com/h264/160567_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E21
 https://cdn.alarab.com/h264/160869_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E22
-
+https://cdn.alarab.com/h264/160996_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E23
+https://cdn.alarab.com/h264/161218_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E24
 
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E25
@@ -1362,9 +1382,9 @@ https://cdn.alarab.com/h264/160566_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 22
 https://cdn.alarab.com/h264/160865_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 23
-
+https://cdn.alarab.com/h264/160992_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 24
-
+https://cdn.alarab.com/h264/161211_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 25
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 26
@@ -1714,7 +1734,7 @@ https://cdn.alarab.com/h264/160907_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E51 زهرة الثالوث
 https://cdn.alarab.com/h264/161020_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E52 زهرة الثالوث
-
+https://cdn.alarab.com/h264/161250_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E53 زهرة الثالوث
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E54 زهرة الثالوث
@@ -1808,7 +1828,7 @@ https://cdn.alarab.com/h264/160888_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E41 الطبيب المعجزة
 https://cdn.alarab.com/h264/161003_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E42 الطبيب المعجزة
-
+https://cdn.alarab.com/h264/161223_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 1
 https://cdn.alarab.com/151442.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 2
@@ -1866,7 +1886,7 @@ https://cdn.alarab.com/h264/160854_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 28
 https://cdn.alarab.com/h264/160981_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 29
-
+https://cdn.alarab.com/h264/161141_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 30
 
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 1
