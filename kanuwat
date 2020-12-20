@@ -41,6 +41,25 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/iOmQ9o040qpJA3y87F
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png" group-title="قنوات بين سبور BEIN SPORT",Bein 10تعمل وقت المبارات المهمة
 
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 1HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-1-752.png" group-title="قنوات بين سبور BEIN SPORT,bein sport 1HD
+http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 2HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-2-753.png" group-title="قنوات بين سبور BEIN SPORT,bein sport 2HD
+http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 3HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-3-754.png" group-title="قنوات بين سبور BEIN SPORT,bein sport 3HD
+http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 4HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-4-755.png" group-title="قنوات بين سبور BEIN SPORT,bein sport 4HD
+http://194.32.79.172/bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 5HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-5-756.png" group-title="قنوات بين سبور BEIN SPORT,bein sport 5HD
+http://194.32.79.172/beins5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 6HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-6-757.png" group-title="قنوات بين سبور BEIN SPORT,bein sport 6HD
+http://194.32.79.172/bein6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 7HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-7-758.png" group-title="قنوات بين سبور BEIN SPORT,bein sport 7HD
+http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 8HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-8-759.png" group-title="قنوات بين سبور BEIN SPORT,bein sport 8HD
+http://194.32.79.172/bein8s/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport 10HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-qa-bein-sports-10-761.png" group-title="قنوات بين سبور BEIN SPORT,bein sport 10HD
+http://194.32.79.172/bein10/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 1 HD
 http://135.181.31.32/hls/bein1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 2 HD
