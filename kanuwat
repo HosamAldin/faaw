@@ -22,20 +22,18 @@ https://bit.ly/34udaMv
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",Bein Sport News
+http://89.187.169.206:2200/TN/beinsportsnewshd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",Bein Sport HD
+http://195.181.172.83:2200/TN/beinsportshd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 1تعمل وقت المبارات المهمة
 http://live.btv2020.com:1935/live/btv/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 2تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 3تعمل وقت المبارات المهمة
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Ds7pB_AbrUZYIEfSIzdfmf1wO8U0-aa6XVAqzO2yqchkfNUR6GBFGe6EOENh35RAQb61XtBOGKXuhk9rcTiPCg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 4تعمل وقت المبارات المهمة
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qvDO6hJb2r_p8R-dDGVqEYkUYbImoQi6Ko24tJU6DyWDXll0jdyf3QOeZfpHZsHxgMM3CGGJYEmQSjv4a8wyuw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 5تعمل وقت المبارات المهمه
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/BBERQmWAnn4AEoVLSZUmR8RmS-cQoB8dTkpwRPZQdc63OQCTZTnsmhlIC80w2tJL2gIGpr6xvxz8c5xVP14odA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 6تعمل وقت المبارات المهمه
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/iOmQ9o040qpJA3y87FtjwIrTMx54PJzK_kK3lZSI8Q7J_X35Nfgc1aI5RyGNFFDI2CocyEQX7ohiS1lynD3PLg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 7تعمل وقت المبارات المهمه
-https://fra-haproxy.angelthump.com/hls/saeedalderer/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 8تعمل وقت المبارات المهمه
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
