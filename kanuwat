@@ -605,7 +605,7 @@ https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi" tvg-logo="https://i.pinimg.com/280x280_RS/8f/47/38/8f4738cd03952945d41da892211b43ee.jpg" group-title="قنوات الوثائقية",National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
-http://185.246.210.53:2200/NL/aljazeeradocumentary-ar/tracks-v1a1/mono.m3u8?token=RED_rqGLzQzan_G599Xb67n8Qg%3D%3D%2C1608290163.1098673520
+http://185.246.210.53:2200/NL/aljazeeradocumentary-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="قنوات الوثائقية",ALJazeera الجزيرة الوثائقية
 https://webapps.aljazeera.net/live/assets/AJD/ajd-geoblock.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2020/01/JzMM5KDx_400x400.jpg" group-title="قنوات الوثائقية",BAHRAIN INTERNATIONAL
@@ -853,6 +853,8 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
 #EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="قنوات روتانا ROTANA",Rotana+
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/m-plus.png" group-title="قنوات روتانا ROTANA",RotanaM+
+http://89.187.169.205:2200/TR/rotanamplushd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 
 #EXTINF:-1 tvg-id="" tvg-name="AR:ROTANA TARAB HD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
 http://188.247.86.67:8008/3
