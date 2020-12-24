@@ -71,48 +71,28 @@ https://cdn.alarab.com/h264/153479_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/153636_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 17 HD
 https://cdn.alarab.com/h264/153764_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 17 SD
-https://cdn.alarab.com/h264/153764_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 18
 https://cdn.alarab.com/h264/154357_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 18
-http://the3sqtvhost.antiphates.feralhosting.com/mosalsalat/otman/Osman.E18.360p2.mp4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/18.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 19
-http://www.turkiflix.com/files/e/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85%20%D9%84%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2019%20-%20%D9%85%D9%88%D9%82%D8%B9%20%D9%82%D8%B5%D8%A9%20%D8%B9%D8%B4%D9%82.mp4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/19.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 20
-http://ramdan.ipsat.me/Eng/turki/0000/KURULUSOSMAN/KURULUSOSMAN.EP20.mkv
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/20.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 21 HD
 https://cdn.alarab.com/h264/155957_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 21 SD
-https://cdn.alarab.com/h264/155957_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 22 HD
-http://ramdan.ipsat.me/Eng/turki/0000/KURULUSOSMAN/KURULUSOSMAN.EP22.mkv
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 22 SD
-https://cdn.alarab.com/h264/156449_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 22 
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/22.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/23.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 23 SD
-http://ramdan.ipsat.me/Eng/turki/0000/KURULUSOSMAN/KURULUSOSMAN.EP23.mkv
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 24
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/24.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 24
 https://cdn.alarab.com/h264/156801_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 24 SD
-https://cdn.alarab.com/h264/156801_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 25
-http://ramdan.ipsat.me:81/Mix/Turky/0000/KURULUSOSMAN/KURULUSOSMAN.EP25.mp4
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 26 HD
-http://ramdan.ipsat.me:81/Mix/Turky/0000/KURULUSOSMAN/KURULUSOSMAN.EP26.mp4
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 26 SD
-https://cdn.alarab.com/h264/157072_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+https://cdn.alarab.com/h264/156926_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 26 HD
 https://cdn.alarab.com/h264/157072_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 27 SD
-http://ramdan.ipsat.me:81/Mix/Turky/0000/KURULUSOSMAN/KURULUSOSMAN.EP27.mp4
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 27 SD
-https://cdn.alarab.com/h264/157233_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 27 HD
 https://cdn.alarab.com/h264/157233_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 28 HD
@@ -137,6 +117,8 @@ https://cdn.alarab.com/h264/160867_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160993_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 38 HD
 https://cdn.alarab.com/h264/161214_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 39 HD
+https://cdn.alarab.com/h264/161425_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E02
