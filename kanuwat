@@ -99,9 +99,6 @@ http://135.181.31.32/hls/bein7.m3u8
 http://135.181.31.32/hls/bein8.m3u8
 #EXTINF:0 tvg-id="bein9hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 9 HD
 http://135.181.31.32/hls/bein9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pictures.artify.tn/media/r9p6ux7liv6q4pxabgwi.jpg?width=200" group-title="قنوات بين سبور BEIN SPORT", Dachra 1080p
-https://media.artify.tn/stream/dachra_vostfr/1080/1080p.m3u8|Referer=https://artify.tn/en/player/5ee239e3c5501e79d42de619?episode=1&season=2
-
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
