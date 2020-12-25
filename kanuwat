@@ -180,7 +180,7 @@ https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 1 AR
 http://185.246.210.38:2200/VOD/redcinema-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 2 AR
-http://185.246.210.38:2200/VOD/redaction3-ar/tracks-v1a1/mono.m3u8?token=xrstalkerairmaxtv
+http://185.246.210.38:2200/VOD/redaction3-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 3 AR
 http://185.246.210.38:2200/VOD/redaction2-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 4 AR
