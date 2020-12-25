@@ -979,7 +979,10 @@ https://live.paltoday.tv/paltv/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ps-alfajer-tv-1195.jpg" group-title="PALESTINE قنوات فلسطين",AlFajer 
 
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="https://gulf365.co/content/uploads/2019/09/26/c524a38aa6.jpg" group-title="PALESTINE قنوات فلسطين",AlFajer 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8?airmaxtv.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="PALESTINE قنوات فلسطين", |🇵🇸| Raya tv 1 
 http://213.6.0.132:1935/RayaTV1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="PALESTINE قنوات فلسطين", |🇵🇸| Raya tv 3
