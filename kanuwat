@@ -327,7 +327,7 @@ http://185.246.210.38:2200/VOD/reddrama4-en/tracks-v1a1/mono.m3u8?token=xrstalke
 http://185.246.210.38:2200/VOD/reddrama5-en/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:0 tvg-id="ext" group-title="HBO GO باقة مدفوعه",▂ ▄ ▅ ▆☆ HBO GO ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="HBO GO باقة مدفوعه"HBO GO باقة مدفوعه
+#EXTINF:0 tvg-id="ext" group-title="HBO GO باقة مدفوعه",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO باقة مدفوعه",HBO SV1
 http://136.243.177.164/HBO/playlist.m3u8
