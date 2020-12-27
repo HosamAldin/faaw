@@ -79,26 +79,6 @@ http://185.246.210.55:2200/EX/bein10hd-ar/index.m3u8?token=xrstalker
 http://185.246.210.55:2200/EX/bein11hd-ar/index.m3u8?token=xrstalker
 #EXTINF:0 tvg-id="bein9hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 12 HD+
 http://185.246.210.55:2200/EX/bein12hd-ar/index.m3u8?token=xrstalker
-
-
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 1 HD
-http://135.181.31.32/hls/bein1.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 2 HD
-http://135.181.31.32/hls/bein2.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 3 HD
-http://135.181.31.32/hls/bein3.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 4 HD
-http://135.181.31.32/hls/bein4.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 5 HD
-http://135.181.31.32/hls/bein5.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 6 HD
-http://135.181.31.32/hls/bein6.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 7 HD
-http://135.181.31.32/hls/bein7.m3u8
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 8 HD
-http://135.181.31.32/hls/bein8.m3u8
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 9 HD
-http://135.181.31.32/hls/bein9.m3u8
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
