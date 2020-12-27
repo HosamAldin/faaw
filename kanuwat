@@ -83,6 +83,19 @@ http://185.246.210.55:2200/EX/bein12hd-ar/index.m3u8?token=xrstalker
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+
+#EXTINF:-1 tvg-id="" tvg-name="bein Movies 4" tvg-logo="" group-title="او اس انOSN",bein Movies 4
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Arabian/f16f3ac95aea078.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein Movies 3" tvg-logo="" group-title="او اس انOSN",bein Movies 3
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Arabian/cd0d57feedf3ce6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein Movies 2" tvg-logo="" group-title="او اس انOSN",bein Movies 2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Arabian/1a66a4e7c48fe35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein Movies 1" tvg-logo="" group-title="او اس انOSN",bein Movies 1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Arabian/70468a5846885a3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bein series 1" tvg-logo="" group-title="او اس انOSN"",bein series 1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Arabian/dca5b9ff4b4644a.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BeinMoviesHD1
 http://185.246.210.50:2200/EX/BeinMoviesHD1-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",BeinMoviesHD2
