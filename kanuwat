@@ -982,8 +982,9 @@ http://vstream3.hadara.ps:8081/RayaHD_web/web1/chunks.m3u8
 http://vstream3.hadara.ps:8081/RayaHD2_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://btv2020.com/wp-content/uploads/2020/04/Logo2020.png" group-title="PALESTINE قنوات فلسطين",AR:Bethlehem Tv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/LXBiCQhBhEs/hqdefault.jpg" group-title="PALESTINE قنوات فلسطين",AR:تلفزيون السلام Tv
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.wbn.ps/assets/images/logo.png" group-title="PALESTINE قنوات فلسطين",AR: Watar tv
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wataan.com/uploads/642018-120523PM.jpg" group-title="PALESTINE قنوات فلسطين",AR:PAL-AlQuds
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv-net.co/channels-frequencys/wp-content/uploads/2014/11/al_yawm.png" group-title="PALESTINE قنوات فلسطين",AR:PAL-AL YAUM
