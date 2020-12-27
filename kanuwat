@@ -966,7 +966,7 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3
 #EXTINF:-1 tvg-id="" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-AL Mayadeen
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="LEBANON قنوات لبنان",AR:LBN-ALAAN HD
-https://stream-07.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xuwl_aEQi9qPPZL-jE0zWSE)/dm/3/x74wje5/s/live-3.m3u8
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="LEBANON قنوات لبنان",AR:3eeshalaan
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://watchfomny.tv/Video/Lebanon/Radio-moyen-orient-canada/radio.gif" group-title="LEBANON قنوات لبنان",AR:LBN-ALWIFAK TV
@@ -1820,6 +1820,8 @@ https://cdn.alarab.com/yz10777.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 https://cdn.alarab.com/yz10923.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="HD Radio  Music",▂ ▄ ▅ ▆☆ HD Radio  Music ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
+#EXTINF:0 tvg-id="ext" group-title="HD Radio  Music",Radio Sada
+http://sc8new.shoutcaststreaming.us:8032/stream.mp3
 #EXTINF:0 tvg-id="ext" group-title="HD Radio  Music",Fann FM Syria
 http://ice7.securenetsystems.net/CINA-FM?playSessionID=FECEF0EC-0EFC-10AA-E80480214456A151
 #EXTINF:0 tvg-id="avi" group-title="HD Radio  Music",Fuse Fm
