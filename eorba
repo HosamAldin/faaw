@@ -8,7 +8,7 @@ https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/Fox.tr.png" group-title="TURKEY",Fox Türkiye
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="TURKEY",Kanal D
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/Kanal7.tr.png" group-title="TURKEY",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 #EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",Star TV
