@@ -1016,26 +1016,12 @@ http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8?airmaxtv.m3u8
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/saXXXEIJun0/hqdefault.jpg" group-title="قنوات السعودية Saudi-Arabia",▂ ▄ ▅ ▆☆ Saudi-Arabia tv ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/campaignme.com/wp-content/uploads/2020/04/thikrayat-logo-tv.png?fit=1024%2C586&ssl=1" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-THIKRAYAT HD
-http://185.246.210.52:2200/TR/thikrayathd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/max/660/0*OjKxlLf3wI7PeQCP." group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Beity TV HD
-http://185.246.210.50:2200/TR/beitytv-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1268240140159397888/a7_Byrg-_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",sbc
-http://89.187.169.206:2200/TR/sbc-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/889210598948577281/sdOxpgJQ_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",alamaken drama
-http://89.187.169.202:2200/TN/alamakendrama-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="قنوات السعودية Saudi-Arabia",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="قنوات السعودية Saudi-Arabia",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="قنوات السعودية Saudi-Arabia",Iqraa Europe Africa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://stream.noble.tv:9990/top4.jpg" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Noble TV HD
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/928727626998599681/ZwMaNIAd_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-22 TV
