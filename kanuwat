@@ -363,9 +363,9 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="قنوات رياضية SPORT",ALKASS 2
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="قنوات رياضية SPORT",ALKASS 3
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass44ny/master.m3u8
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/2018314320255.png" group-title="قنوات رياضية SPORT",ALKASS 4
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5pi/master.m3u8
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/C2rNnvXWQAAOHtz.jpg" group-title="قنوات رياضية SPORT",ALKASS 5
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="قنوات رياضية SPORT",Abu Dhabi Sports 1
@@ -997,7 +997,7 @@ http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wataan.com/uploads/642018-012040PM.jpg" group-title="PALESTINE قنوات فلسطين",AR:PAL-Palestine live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.wataan.com/uploads/642018-012006PM.png" group-title="PALESTINE قنوات فلسطين",AR:PAL-Palestinee TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.falastini.tv/wp-content/uploads/2018/10/logo.png" group-title="PALESTINE قنوات فلسطين",AR:PAL-Palestinee TV
 http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.nn.ps/weblog/img/logov2.png" group-title="PALESTINE قنوات فلسطين",AR:PAL-Nbc Alnajah TV
 http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
@@ -1022,8 +1022,6 @@ http://vstream3.hadara.ps:8081/hrHD_web/web1/chunks.m3u8
 http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000274512233-57pl98-t500x500.jpg" group-title="PALESTINE قنوات فلسطين",Horrya Tv 3
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PeIYCXs.jpg" group-title="PALESTINE قنوات فلسطين",Marah FM
-http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.muhtwa.com/wp-content/uploads/JRTV-logo-3d.png" group-title="JORDAN قنوات الاردن",▂ ▄ ▅ ▆☆ JORDAN قنوات الاردن ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",النسخة المدفوعة AirMax TV
