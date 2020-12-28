@@ -321,6 +321,24 @@ https://chostv.mobie.in/choos/sports1/epl3.m3u8
  https://chostv.mobie.in/choos/sports1/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",beIN Sports 2
 https://chostv.mobie.in/choos/sports1/bein2.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="قنوات رياضية SPORT",FOX SPORTS 1 
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="قنوات رياضية SPORT",FOX SPORTS 2 (MOTO GP)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="قنوات رياضية SPORT",FOX SPORT 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="قنوات رياضية SPORT",FOX SPORTS 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="قنوات رياضية SPORT",FOX SPORTS 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="قنوات رياضية SPORT",FOX SPORTS 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="قنوات رياضية SPORT",FOX SPORTS VN 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="قنوات رياضية SPORT",FOX SPORTS VN 2 (MOTO GP)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="قنوات رياضية SPORT",FOX SPORTS VN 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",FOX Sports
 https://chostv.mobie.in/choos/sports1/foxsports1.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",FOX Sports 2
