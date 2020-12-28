@@ -60,7 +60,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/alheba/28.mp4/playlist.m3u8?
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/alheba/29.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الهيبة 1+4",الهيبة S010E30
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/alheba/30.mp4/playlist.m3u8?airmaxtv.m3u8
-
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الهيبة 1+4",الهيبة S020E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/AlHaiba.2/1.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الهيبة 1+4",الهيبة S020E02
@@ -121,7 +120,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/AlHaiba.2/28.mp4/playlist
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/AlHaiba.2/29.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الهيبة 1+4",الهيبة S020E30
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/AlHaiba.2/30.mp4/playlist.m3u8?airmaxtv.m3u8
-
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الهيبة 1+4",الهيبة S030E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Alhebah.2/1.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الهيبة 1+4",الهيبة S030E02
@@ -182,8 +180,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Alhebah.2/28.mp4/playlist
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Alhebah.2/29.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الهيبة 1+4",الهيبة S030E30
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Alhebah.2/30.mp4/playlist.m3u8?airmaxtv.m3u8
-
-
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الهيبة 1+4",الهيبة 4 الرد الحلقة S04E01
 https://cdn.alarab.com/h264/160083_480p.mp4/index-v1-a1.m3u8
 http://turkish.trueiptv.re/Gulf/AlHayba/AlHayba.S04E20.mp4
@@ -245,6 +241,8 @@ https://cdn.alarab.com/h264/160953_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160978_480p.mp4/index-v1-a1.m3u8 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الهيبة 1+4",الهيبة 4 الرد الحلقة S04E30 
 https://cdn.alarab.com/h264/160989_480p.mp4/index-v1-a1.m3u8
+
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",DNA الحلقة S01E01
 https://cdn.alarab.com/h264/161360_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",DNA الحلقة S01E02
@@ -256,7 +254,7 @@ https://cdn.alarab.com/h264/161365_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",DNA الحلقة S01E05
 https://cdn.alarab.com/h264/161476_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",DNA الحلقة S01E06
-
+https://cdn.alarab.com/h264/161495_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",DNA الحلقة S01E07
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",DNA الحلقة S01E08
@@ -381,7 +379,7 @@ https://cdn.alarab.com/h264/161410_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E55
 https://cdn.alarab.com/h264/161423_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E56
-
+https://cdn.alarab.com/h264/161475_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E57
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",عروس بيروت 2 الحلقة S02E58
