@@ -1,3 +1,34 @@
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",Bein Sport News
+http://89.187.169.206:2200/TN/beinsportsnewshd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",Bein Sport HD
+http://195.181.172.83:2200/TN/beinsportshd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 1 HD+
+http://185.246.210.55:2200/EX/bein1hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 2 HD+
+http://185.246.210.55:2200/EX/bein2hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 3 HD+
+http://185.246.210.55:2200/EX/bein3hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 4 HD+
+http://185.246.210.55:2200/EX/bein4hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 5 HD+
+http://185.246.210.55:2200/EX/bein5hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 6 HD+
+http://185.246.210.55:2200/EX/bein6hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 7 HD+
+http://185.246.210.55:2200/EX/bein7hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 8 HD+
+http://185.246.210.55:2200/EX/bein8hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 9 HD+
+http://185.246.210.55:2200/EX/bein9hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 10 HD+
+http://185.246.210.55:2200/EX/bein10hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 11 HD+
+http://185.246.210.55:2200/EX/bein11hd-ar/index.m3u8?token=xrstalker
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 12 HD+
+http://185.246.210.55:2200/EX/bein12hd-ar/index.m3u8?token=xrstalker
+
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
@@ -72,89 +103,6 @@ http://185.246.210.53:2200/NL/dmax-uk/tracks-v1a1/mono.m3u8?token=xrstalker
 http://89.187.169.202:2200/EX/Crime_and_Investigation_HD-uk/tracks-v1a1/mono.m3u8?token=xrstalker
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_BabyTV
-http://streamer1.furrera.ps:80/OSN_BabyTV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_DisneyXD
-http://streamer1.furrera.ps:80/OSN_DisneyXD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_Disney
-http://streamer1.furrera.ps:80/OSN_Disney/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSNMoviesKids
-http://streamer1.furrera.ps:80/OSNMoviesKids/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_DJCema
-http://streamer1.furrera.ps:80/OSN_DJCema/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_NickJr
-http://streamer1.furrera.ps:80/OSN_NickJr/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",NickToons
-http://streamer1.furrera.ps:80/NickToons/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_History2HD
-http://streamer1.furrera.ps:80/OSN_History2HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_HistoryHD
-http://streamer1.furrera.ps:80/OSN_HistoryHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSNMoviesDisney
-http://streamer1.furrera.ps:80/OSNMoviesDisney/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",NickelodeonHD
-http://streamer1.furrera.ps:80/NickelodeonHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_DiscoveryScience
-http://streamer1.furrera.ps:80/OSN_DiscoveryScience/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",almajd
-http://streamer1.furrera.ps:80/almajd/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",TLCHD
-http://streamer1.furrera.ps:80/TLCHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",StarMoviesHD
-http://streamer1.furrera.ps:80/StarMoviesHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",AlphaCinema1
-http://streamer1.furrera.ps:80/AlphaCinema1/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",AlphaCinema2
-http://streamer1.furrera.ps:80/AlphaCinema2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",ARTAflam1
-http://streamer1.furrera.ps:80/ARTAflam1/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",ARTAflam2
-http://streamer1.furrera.ps:80/ARTAflam2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",AlphaAlsafwa
-http://streamer1.furrera.ps:80/AlphaAlsafwa/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",AlphaAlyawmHD
-http://streamer1.furrera.ps:80/AlphaAlyawmHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",KSASPORTS1HD
-http://streamer1.furrera.ps:80/KSASPORTS1HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",KSASPORTS2HD
-http://streamer1.furrera.ps:80/KSASPORTS2HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_NatGeoHD
-http://streamer1.furrera.ps:80/OSN_NatGeoHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",NatGeoWildHD
-http://streamer1.furrera.ps:80/NatGeoWildHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",OSN_DiscoveryScience
-http://streamer1.furrera.ps:80/OSN_DiscoveryScience/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="او اس انOSN",AlPrinceDrama
-http://streamer1.furrera.ps:80/AlPrinceDrama/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNMovies" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSNMovies
-http://streamer1.furrera.ps:80/OSNMovies/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesFirst" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSNMoviesFirst
-http://streamer1.furrera.ps:80/OSNMoviesFirst/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesFirst2" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSNMoviesFirst2
-http://streamer1.furrera.ps:80/OSNMoviesFirst2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesAction" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSNMoviesAction
-http://streamer1.furrera.ps:80/OSNMoviesAction/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSN_Enigma" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSN_Enigma
-http://streamer1.furrera.ps:80/OSN_Enigma/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNSeriesFirst" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSNSeriesFirst
-http://streamer1.furrera.ps:80/OSNSeriesFirst/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNSeriesCom" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSNSeriesCom
-http://streamer1.furrera.ps:80/OSNSeriesCom/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNYaHala" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSNYaHala
-http://streamer1.furrera.ps:80/OSNYaHala/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNYahalaOula" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSNYahalaOula
-http://streamer1.furrera.ps:80/OSNYahalaOula/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNYHCinema" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",OSNYHCinema
-http://streamer1.furrera.ps:80/OSNYHCinema/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="AlphaMusalsalat+2HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",AlphaMusalsalat+2HD
-http://streamer1.furrera.ps:80/AlphaMusalsalat+2HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="AlphaSeriesHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",AlphaSeriesHD
-http://streamer1.furrera.ps:80/AlphaSeriesHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="AlphaAlyawmHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",AlphaAlyawmHD
-http://streamer1.furrera.ps:80/AlphaAlyawmHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="AlphaAlsafwa" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="او اس انOSN",AlphaAlsafwa
-http://streamer1.furrera.ps:80/AlphaAlsafwa/tracks-v1a1/mono.m3u8?token=test
-
 
 
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",▂ ▄ ▅ ▆☆ NETFLIX افلام ☆▆ ▅ ▄ ▂ ▁
@@ -164,7 +112,7 @@ https://bit.ly/34ooolI
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 1 AR
 http://185.246.210.38:2200/VOD/redcinema-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 2 AR
-http://185.246.210.38:2200/VOD/redaction3-ar/tracks-v1a1/mono.m3u8?token=xrstalkerairmaxtv
+http://185.246.210.38:2200/VOD/redaction3-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 3 AR
 http://185.246.210.38:2200/VOD/redaction2-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Action 4 AR
@@ -312,6 +260,7 @@ http://185.246.210.38:2200/VOD/reddrama4-en/tracks-v1a1/mono.m3u8?token=xrstalke
 http://185.246.210.38:2200/VOD/reddrama5-en/tracks-v1a1/mono.m3u8?token=xrstalker
 
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 1 HD
 http://89.187.169.203:2200/TR/ksasports1hd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 2 HD
@@ -358,6 +307,8 @@ http://185.246.210.38:2200/VOD/reddocumentary8-ar/tracks-v1a1/mono.m3u8?token=xr
 http://185.246.210.38:2200/VOD/reddocumentary9-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="قنوات أطفال Children",Ar:TOYOR-طيور الجنة
 http://185.246.210.50:2200/TR/toyoraljanah-ar/tracks-v1a1/mono.m3u8?token=xrstalker  
 #EXTINF:-1 tvg-id="" tvg-logo="http://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="قنوات أطفال Children",C  أطفال و مواهب
@@ -374,7 +325,6 @@ http://89.187.169.206:2200/OSN-EX/OSN_DISNEY_XD-ar/tracks-v1a1/mono.m3u8?token=x
 http://89.187.169.206:2200/OSN-EX/OSN_KIDS-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",OSN_KIDS_ZONE
 http://89.187.169.204:2200/OSN-EX/OSN_KIDS_ZONE-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 1
 http://185.246.210.38:2200/VOD/redkids-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات أطفال Children",Kids 2
@@ -401,6 +351,47 @@ http://195.181.172.83:2200/EX/beINJeem-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 http://185.93.2.153:2200/EX/beIN_Junior_HD-ar/index.m3u8?token=xrstalker
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MBC Variety 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png" group-title="قنوات أم بي سيMBC",MBC Variety FHD
+http://185.59.222.171:2200/EX/MBC_Variety_HD-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR:MY-ZEE ALWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Zee_Alwan_logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-ZEE ALWAN
+http://89.187.169.206:2200/TN/zeealwan-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/ZeeAflam.png" group-title="قنوات أم بي سيMBC",AR:MY-ZEE AFLAM +
+http://185.246.210.53:2200/TN/zeeaflam-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/f3/B4U_Aflam_Logo.png" group-title="قنوات أم بي سيMBC",AR:MY-b4uaflam
+http://89.187.169.202:2200/TN/b4uaflam-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="Zee aflam" tvg-name="AR:MY-ZEE AFLAM" tvg-logo="https://pm1.narvii.com/7187/64bb19a19352272fb9e24d8d06d5658c0ac2de95r1-540-352v2_uhq.jpg" group-title="قنوات أم بي سيMBC",AR:MY-b4u plus
+http://89.187.169.206:2200/TN/b4uplus-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+
+#EXTINF:-1 tvg-id="قنوات روتانا ROTANA" tvg-name="قنوات روتانا ROTANA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/m-plus.png" group-title="قنوات روتانا ROTANA",RotanaM+
+http://89.187.169.205:2200/TR/rotanamplushd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="Syria قنوات سورية",AR:SYR-LANA HD+
+http://89.187.169.206:2200/TN/lana-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="Syria قنوات سورية",AR:SYR-Lana Plus+
+http://185.246.210.53:2200/TN/lanaplus-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA+
+http://185.59.222.171:2200/TN/samatv-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV+
+http://89.187.169.202:2200/TN/syriandramatv-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA+
+http://185.93.2.153:2200/TN/syriasatellitechannel-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+
+
+#EXTINF:-1 tvg-id="MTV LEBANON" tvg-logo="https://i.imgur.com/6R1jFJO.jpg" group-title="LEBANON قنوات لبنان",MTV HD+
+http://195.181.172.83:2200/TR/mtvlebanonhd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="ALJADEED" tvg-logo="https://i.imgur.com/qtQQJQc.png" group-title="LEBANON قنوات لبنان",ALJADEED+
+http://89.187.169.205:2200/TR/aljadeedhd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",AR:LBN-OTV HD
+http://185.93.2.153:2200/TR/otvhd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="" tvg-logo="https://imcdn.org/uploads/2019/09/OTV.gif" group-title="LEBANON قنوات لبنان",AR:LBN-OTV 1HD
+http://89.187.169.202:2200/TR/onetv-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+#EXTINF:-1 tvg-id="" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON قنوات لبنان",AR:LBN-NBN HD
+http://185.59.222.171:2200/TR/nbnhd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+
+
+
 #EXTINF:-1 tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" group-title="قنوات العراق IRAQ",Al Summaria
 http://89.187.169.203:2200/TN/sumaria-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",utviraqh
@@ -413,7 +404,6 @@ http://89.187.169.206:2200/TN/iraqfuture-ar/index.m3u8?token=xrstalker
 http://185.246.210.53:2200/TN/almawsleya-ar/index.m3u8?token=xrstalker
 #EXTINF:-1 tvg-logo="" group-title="قنوات العراق IRAQ",alebaatv
 http://185.246.210.52:2200/TN/alebaatv-ar/index.m3u8?token=xrstalker
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.saadownz.com/wp-content/uploads/2019/01/flag-1040586_960_720.png" group-title="قنوات المصرية Egypt",dream2
@@ -551,7 +541,6 @@ http://185.93.2.153:2200/TN/halabatv-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",elhiwarettounsi
 http://89.187.169.205:2200/TN/elhiwarettounsi-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",attasiatv
@@ -566,7 +555,6 @@ http://89.187.169.206:2200/TN/zaytounatv-ar/tracks-v1a1/mono.m3u8?token=xrstalke
 http://89.187.169.206:2200/TN/mtunisia-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",aljanoubia
 http://195.181.172.83:2200/TN/aljanoubia-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",alger 2
@@ -632,32 +620,6 @@ http://89.187.169.203:2200/TR/shamaliatv-ar/tracks-v1a1/mono.m3u8?token=xrstalke
 http://89.187.169.204:2200/TR/alqamaralhashimy-ar/tracks-v1a1/mono.m3u8?token=xrstalker
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",sudanmusic
 http://89.187.169.202:2200/TR/sudanmusic-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait alshahedhd
-http://89.187.169.203:2200/TR/alshahedhd-ar/index.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait scopehd
-http://89.187.169.203:2200/TR/scopehd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait atvaladalahhd
-http://89.187.169.205:2200/TR/atvaladalahhd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait alsabah
-http://185.246.210.50:2200/TR/alsabah-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait marinatvhd
-http://185.246.210.50:2200/TR/marinatvhd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/campaignme.com/wp-content/uploads/2020/04/thikrayat-logo-tv.png?fit=1024%2C586&ssl=1" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-THIKRAYAT HD
-http://185.246.210.52:2200/TR/thikrayathd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="https://miro.medium.com/max/660/0*OjKxlLf3wI7PeQCP." group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Beity TV HD
-http://185.246.210.50:2200/TR/beitytv-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1268240140159397888/a7_Byrg-_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",sbc
-http://89.187.169.206:2200/TR/sbc-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/889210598948577281/sdOxpgJQ_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",alamaken drama
-http://89.187.169.202:2200/TN/alamakendrama-ar/tracks-v1a1/mono.m3u8?token=xrstalker
-
-
 
 
 
