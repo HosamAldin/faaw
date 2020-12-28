@@ -362,9 +362,9 @@ https://cdn.alarab.com/h264/160889_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اللهيب",اللهيب  S01E06
 https://cdn.alarab.com/h264/161004_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اللهيب",اللهيب  S01E07
-
+https://cdn.alarab.com/h264/161224_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اللهيب",اللهيب  S01E08
-
+https://cdn.alarab.com/h264/161497_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اللهيب",اللهيب  S01E09
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اللهيب",اللهيب  S01E10
@@ -662,7 +662,7 @@ https://cdn.alarab.com/h264/161087_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E44
 https://cdn.alarab.com/h264/161307_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E45
-
+https://cdn.alarab.com/h264/161507_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E46
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E47
@@ -933,7 +933,7 @@ https://cdn.alarab.com/h264/161013_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E16
 https://cdn.alarab.com/h264/161273_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E17
-
+https://cdn.alarab.com/h264/161501_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E18
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E19
@@ -1088,7 +1088,7 @@ https://cdn.alarab.com/h264/161045_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E23
 https://cdn.alarab.com/h264/161306_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E24
-
+https://cdn.alarab.com/h264/161508_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E25
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E26
@@ -1561,9 +1561,9 @@ https://cdn.alarab.com/h264/160904_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامو",رامو 24
 https://cdn.alarab.com/h264/161012_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامو",رامو 25
-
+https://cdn.alarab.com/h264/161249_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامو",رامو 26
-
+https://cdn.alarab.com/h264/161498_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامو",رامو 27
 #EXTINF:0 tvg-id="avi" group-title="الحمامة",الحمامة 1
 https://cdn.alarab.com/480/151032_480p.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
@@ -1845,6 +1845,8 @@ https://cdn.alarab.com/h264/160888_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161003_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E42 الطبيب المعجزة
 https://cdn.alarab.com/h264/161223_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E43 الطبيب المعجزة
+https://cdn.alarab.com/h264/161499_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 1
 https://cdn.alarab.com/151442.mp4/index-v1-a1.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 2
