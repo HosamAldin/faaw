@@ -1648,6 +1648,22 @@ http://cdn.mediavisionuae.com:1935/live/sbctv.stream/chunklist.m3u8
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/GLfhYSH.png" tvg-country="IQ" tvg-url="" group-title="KURDISH ",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/srOJGEF.png" tvg-country="IQ" tvg-url="" group-title="KURDISH ",KurdMax
+http://31.14.40.139:1935/liveTrans/ngrp:myStream_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/IIfqqD2.png" tvg-country="IQ" tvg-url="" group-title="KURDISH ",KurdMax Music
+http://31.14.40.139:1935/music/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/xVan7NJ.png" tvg-country="IQ" tvg-url="" group-title="KURDISH ",KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/gNCSYvG.png" tvg-country="IQ" tvg-url="" group-title="KURDISH ",KurdMax Show
+http://31.14.40.139:1935/liveTrans/ngrp:SHOW1_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/XFbwbi4.png" tvg-country="IQ" tvg-url="" group-title="KURDISH ",Kurdsat
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" tvg-country="IQ" tvg-url="" group-title="KURDISH ",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",Ronahi tv
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/26.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="KURDISH ",KurdsatNews TV
