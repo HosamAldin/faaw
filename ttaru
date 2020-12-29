@@ -2037,89 +2037,263 @@ https://cdn.alarab.com/h264/157945_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158122_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 33
 https://cdn.alarab.com/h264/158241_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E01
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/1.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E02
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/2.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E03
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/3.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04004
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/4.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E05
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/5.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E06
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/6.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E07
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/7.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E08
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/8.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E09
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/9.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E010
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/10.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E011
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/11.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E012
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/12.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E013
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/13.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E014
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/14.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E015
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/15.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E016
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/16.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E017
-https://cdn.alarab.com/h264/152323_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E018
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/18.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E019
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/19.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E020
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/20.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E021
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/21.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS040022
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/22.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E023
-https://cdn.alarab.com/h264/153220_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E024
-https://cdn.alarab.com/h264/153381_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E025
-https://cdn.alarab.com/h264/153539_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E026
-https://cdn.alarab.com/h264/153683_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E027
-https://cdn.alarab.com/h264/153887_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E028
-https://cdn.alarab.com/h264/154112_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E029
-https://cdn.alarab.com/h264/157139_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E030
-https://cdn.alarab.com/h264/157320_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الرابع",مسلسل عبدالحميدS04E031
-https://cdn.alarab.com/h264/157883_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E01
-https://cdn.alarab.com/h264/159651_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E02
-https://cdn.alarab.com/h264/159786_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E03
-https://cdn.alarab.com/h264/159976_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E04
-https://cdn.alarab.com/h264/160089_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E05
-https://cdn.alarab.com/h264/160226_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E06
-https://cdn.alarab.com/h264/160360_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E07
-https://cdn.alarab.com/h264/160477_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E08
-https://cdn.alarab.com/h264/160678_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E09
-https://cdn.alarab.com/h264/160914_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E10
 
-#EXTINF:0 tvg-id="avi" group-title="عبدالحميد الموسم الخامس",مسلسل عبدالحميدS05E11
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/3.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/4.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/5.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/6.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/7.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/8.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/9.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/10.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/11.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/12.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/13.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/14.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/15.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/16.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميدS01E17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/hamid/17.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/3.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/4.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/5.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/6.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/7.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/8.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/9.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/10.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/11.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/12.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/13.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/14.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/15.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/16.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/17.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/18.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/19.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/20.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/21.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/22.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/23.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/24.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/25.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/26.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/27.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E28
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/28.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/29.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/30.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E31
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/31.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E32
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/32.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E33
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/33.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E34
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/34.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E35
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/35.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E36
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/36.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S02E37
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan2/37.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/3.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E04
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/4.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/5.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/6.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/7.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/8.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/9.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E10
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/10.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E11
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/11.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E12
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/12.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E13
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/13.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E14
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/14.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E15
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/15.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E16
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/16.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E17
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/17.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E18
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/18.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E19
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/19.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E20
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/20.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E21
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/21.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E22
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/22.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/23.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/24.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/25.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/26.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E27
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/27.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E28
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/28.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E29
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/29.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E30
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/30.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E31
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/31.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E32
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/32.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E33
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/33.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل السلطان عبد الحميد S03E34
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/sultan3/34.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E01
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/1.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E02
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/2.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E03
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/3.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04004
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/4.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E05
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/5.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E06
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/6.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E07
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/7.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E08
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/8.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E09
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/9.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E010
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/10.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E011
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/11.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E012
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/12.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E013
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/13.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E014
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/14.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E015
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/15.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E016
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/16.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E017
+https://cdn.alarab.com/h264/152323_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E018
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/18.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E019
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/19.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E020
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/20.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E021
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/21.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS040022
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Abd.4/22.mp4/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E023
+https://cdn.alarab.com/h264/153220_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E024
+https://cdn.alarab.com/h264/153381_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E025
+https://cdn.alarab.com/h264/153539_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E026
+https://cdn.alarab.com/h264/153683_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E027
+https://cdn.alarab.com/h264/153887_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E028
+https://cdn.alarab.com/h264/154112_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E029
+https://cdn.alarab.com/h264/157139_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E030
+https://cdn.alarab.com/h264/157320_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS04E031
+https://cdn.alarab.com/h264/157883_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E01
+https://cdn.alarab.com/h264/159651_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E02
+https://cdn.alarab.com/h264/159786_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E03
+https://cdn.alarab.com/h264/159976_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E04
+https://cdn.alarab.com/h264/160089_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E05
+https://cdn.alarab.com/h264/160226_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E06
+https://cdn.alarab.com/h264/160360_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E07
+https://cdn.alarab.com/h264/160477_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E08
+https://cdn.alarab.com/h264/160678_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E09
+https://cdn.alarab.com/h264/160914_480p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ابناء الاخوة",ابناء الاخوة الحلقة 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/Abnaa.Alekhwa/1.mp4/playlist.m3u8?airmaxtv.m3u8
