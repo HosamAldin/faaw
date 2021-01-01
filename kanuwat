@@ -780,15 +780,6 @@ https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="" tvg-name="AlFajer 2" tvg-logo="https://gulf365.co/content/uploads/2019/09/26/c524a38aa6.jpg" group-title="PALESTINE قنوات فلسطين",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8?airmaxtv.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="PALESTINE قنوات فلسطين", |🇵🇸| Raya tv 1
-http://vstream3.hadara.ps:8081/RayaHD1_web/web/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="PALESTINE قنوات فلسطين", |🇵🇸| Raya tv 2
-http://vstream3.hadara.ps:8081/RayaHD_web/web1/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="PALESTINE قنوات فلسطين", |🇵🇸| Raya tv 3
-http://vstream3.hadara.ps:8081/RayaHD2_web/web/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://btv2020.com/wp-content/uploads/2020/04/Logo2020.png" group-title="PALESTINE قنوات فلسطين",AR:Bethlehem Tv
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.wbn.ps/assets/images/logo.png" group-title="PALESTINE قنوات فلسطين",AR: Watar tv
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
@@ -835,7 +826,7 @@ vstream3.hadara.ps:8081/RayaHD1_web/web/chunks.m3u8
 vstream3.hadara.ps:8081/RayaHD_web/web1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.rayatv.ps/images/logo_tv.png" group-title="PALESTINE قنوات فلسطين", |🇵🇸| Raya tv 3
 vstream3.hadara.ps:8081/RayaHD2_web/web/chunks.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://btv2020.com/wp-content/uploads/2020/04/Logo2020.png" group-title="PALESTINE قنوات فلسطين",AR:Bethlehem Tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.muhtwa.com/wp-content/uploads/JRTV-logo-3d.png" group-title="JORDAN قنوات الاردن",▂ ▄ ▅ ▆☆ JORDAN قنوات الاردن ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="JORDAN قنوات الاردن",النسخة المدفوعة AirMax TV
