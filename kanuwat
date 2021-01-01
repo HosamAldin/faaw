@@ -24,13 +24,13 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 1تعمل وقت المبارات المهمة
-https://tna5.bozztv.com/btv2020/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 2تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 3تعمل وقت المبارات المهمة
 http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 4تعمل وقت المبارات المهمة
-http://vstream3.hadara.ps:8081/RayaHD_web/web1/chunks.m3u8
+https://dmx827xu3kbuh.cloudfront.net/out/v1/91e7260773b64e2d9f36c2cd93b1bc6c/yalla_3.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 2HD
