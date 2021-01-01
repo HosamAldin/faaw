@@ -854,11 +854,13 @@ https://bit.ly/34ooolI
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iraq24hd.com/wp-content/uploads/2020/07/iq24hd.png" group-title="قنوات العراق IRAQ",AR:IRQ-iraq24HD
-https://n-akamai-fastly.castr.com/edge/live_31b220e0e20611eab1b9cfce247e5d5f/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Alfallujah_tv.png" group-title="قنوات العراق IRAQ",AR:IRQ-Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV (Backup)
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/BfsJ7ttKI3s/hqdefault.jpg" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rafidain FHD
 http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-9PgQ5-QkAWM/W28CCThPTrI/AAAAAAAAAj0/Hct_RdDnuiUgZfW10obh2YBZpvBulbEEwCLcBGAs/s1600/Alsharqiyahd_UNI-versityTV.png" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV HD
@@ -1099,7 +1101,7 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://stream.noble.tv:9990/top4.jpg" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Noble TV HD
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/928727626998599681/ZwMaNIAd_400x400.jpg" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-22 TV
-http://82.212.74.99:8000/live/8117.m3u8?airmaxtv.m3u8
+http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.satfrequency.com/wp-content/uploads/ktz/Saudi-Quran-Tv-Frequency-2yhl8od1usadqgkqyd0rgq.png" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi Quran HD
 https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="قنوات السعودية Saudi-Arabia",مكة TV
