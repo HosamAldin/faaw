@@ -590,697 +590,638 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Abducted.on.Air.20
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 1
+#EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPPkJ4Nql_Tx8eEVCNwGSFC5MtR83wlXDKWEPWmB3LTIeWHDnw" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",When the Streetlights Go On 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/when-the-streetlights-go-on/10.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZkK2vgRAbfYMu_blKYDKrOw3bICAj3aXNJT6xtRz8_p7i5hye" group-title="مسلسلات نتفلکس 2019/2020",FreeRayshawn 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",FreeRayshawn 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Freerayshawn/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZkK2vgRAbfYMu_blKYDKrOw3bICAj3aXNJT6xtRz8_p7i5hye" group-title="مسلسلات نتفلکس 2019/2020",FreeRayshawn 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",FreeRayshawn 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Freerayshawn/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZkK2vgRAbfYMu_blKYDKrOw3bICAj3aXNJT6xtRz8_p7i5hye" group-title="مسلسلات نتفلکس 2019/2020",FreeRayshawn 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",FreeRayshawn 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Freerayshawn/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZkK2vgRAbfYMu_blKYDKrOw3bICAj3aXNJT6xtRz8_p7i5hye" group-title="مسلسلات نتفلکس 2019/2020",FreeRayshawn 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",FreeRayshawn 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Freerayshawn/4.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKKn9ftbhxcRQf0NSSW4YfXPex6eyY95FrhEfU7OoTiDYRpky" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Letter.for.the.King/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKKn9ftbhxcRQf0NSSW4YfXPex6eyY95FrhEfU7OoTiDYRpky" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Letter.for.the.King/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKKn9ftbhxcRQf0NSSW4YfXPex6eyY95FrhEfU7OoTiDYRpky" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Letter.for.the.King/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKKn9ftbhxcRQf0NSSW4YfXPex6eyY95FrhEfU7OoTiDYRpky" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Letter.for.the.King/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKKn9ftbhxcRQf0NSSW4YfXPex6eyY95FrhEfU7OoTiDYRpky" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Letter.for.the.King/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKKn9ftbhxcRQf0NSSW4YfXPex6eyY95FrhEfU7OoTiDYRpky" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Letter for the King 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Letter.for.the.King/1.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://deadline.com/wp-content/uploads/2020/07/katy-keene.png" group-title="مسلسلات نتفلکس 2019/2020",Katy Keene 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Katy Keene 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Katy.Keene/1.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT61RG5LAGcy-zmQ6IBnIWA-Bmlink9Q9CuIuM_udXWdGBadTO7" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Locke & Key 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Locke.and.Key/10.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuM8g58R6URADMi39fxl9sLpoopXCCgHRUBWyI3GOdQR31ud00" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Stranger/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuM8g58R6URADMi39fxl9sLpoopXCCgHRUBWyI3GOdQR31ud00" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Stranger/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuM8g58R6URADMi39fxl9sLpoopXCCgHRUBWyI3GOdQR31ud00" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Stranger/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuM8g58R6URADMi39fxl9sLpoopXCCgHRUBWyI3GOdQR31ud00" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Stranger/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuM8g58R6URADMi39fxl9sLpoopXCCgHRUBWyI3GOdQR31ud00" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Stranger/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuM8g58R6URADMi39fxl9sLpoopXCCgHRUBWyI3GOdQR31ud00" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Stranger/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuM8g58R6URADMi39fxl9sLpoopXCCgHRUBWyI3GOdQR31ud00" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Stranger/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuM8g58R6URADMi39fxl9sLpoopXCCgHRUBWyI3GOdQR31ud00" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Stranger 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Stranger/8.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdABJ6U_IJjzOkIz5QurMxpRjqU61U4ppgfywKPFY0d0q8-e9u" group-title="مسلسلات نتفلکس 2019/2020",Little America 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Little America 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Little.America/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdABJ6U_IJjzOkIz5QurMxpRjqU61U4ppgfywKPFY0d0q8-e9u" group-title="مسلسلات نتفلکس 2019/2020",Little America 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Little America 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Little.America/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdABJ6U_IJjzOkIz5QurMxpRjqU61U4ppgfywKPFY0d0q8-e9u" group-title="مسلسلات نتفلکس 2019/2020",Little America 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Little America 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Little.America/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdABJ6U_IJjzOkIz5QurMxpRjqU61U4ppgfywKPFY0d0q8-e9u" group-title="مسلسلات نتفلکس 2019/2020",Little America 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Little America 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Little.America/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdABJ6U_IJjzOkIz5QurMxpRjqU61U4ppgfywKPFY0d0q8-e9u" group-title="مسلسلات نتفلکس 2019/2020",Little America 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Little America 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Little.America/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdABJ6U_IJjzOkIz5QurMxpRjqU61U4ppgfywKPFY0d0q8-e9u" group-title="مسلسلات نتفلکس 2019/2020",Little America 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Little America 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Little.America/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdABJ6U_IJjzOkIz5QurMxpRjqU61U4ppgfywKPFY0d0q8-e9u" group-title="مسلسلات نتفلکس 2019/2020",Little America 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Little America 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Little.America/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdABJ6U_IJjzOkIz5QurMxpRjqU61U4ppgfywKPFY0d0q8-e9u" group-title="مسلسلات نتفلکس 2019/2020",Little America 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Little America 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Little.America/8.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjNiNjg3YmEtODU5YS00YWRlLWJkZTUtMTYzN2ZmNjFlNGYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_." group-title="مسلسلات نتفلکس 2019/2020",Medical Police 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Medical Police 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Medical.Police/10.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E02
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E03
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E04
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E05
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S10E08
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian/1.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian.2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E02
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian.2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E03
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian.2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E04
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian.2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E05
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian.2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian.2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.falsoo.com/ArticleImgs/2019/12/28/76510-The-Mandalorian-2019.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Mandalorian S20E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Mandalorian.2/1.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.crew-united.com/Media/Images/1045/1045697/1045697.entity.jpg" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Kids.of.Courage/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.crew-united.com/Media/Images/1045/1045697/1045697.entity.jpg" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Kids.of.Courage/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.crew-united.com/Media/Images/1045/1045697/1045697.entity.jpg" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Kids.of.Courage/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.crew-united.com/Media/Images/1045/1045697/1045697.entity.jpg" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Kids.of.Courage/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.crew-united.com/Media/Images/1045/1045697/1045697.entity.jpg" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Kids.of.Courage/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.crew-united.com/Media/Images/1045/1045697/1045697.entity.jpg" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Kids.of.Courage/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.crew-united.com/Media/Images/1045/1045697/1045697.entity.jpg" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Kids.of.Courage/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.crew-united.com/Media/Images/1045/1045697/1045697.entity.jpg" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Kids of Courage 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Kids.of.Courage/8.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2019/05/high-seas-season-2-netflix.jpg" group-title="مسلسلات نتفلکس 2019/2020",High Seas 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",High Seas 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/High.Seas/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2019/05/high-seas-season-2-netflix.jpg" group-title="مسلسلات نتفلکس 2019/2020",High Seas 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",High Seas 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/High.Seas/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2019/05/high-seas-season-2-netflix.jpg" group-title="مسلسلات نتفلکس 2019/2020",High Seas 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",High Seas 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/High.Seas/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2019/05/high-seas-season-2-netflix.jpg" group-title="مسلسلات نتفلکس 2019/2020",High Seas 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",High Seas 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/High.Seas/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2019/05/high-seas-season-2-netflix.jpg" group-title="مسلسلات نتفلکس 2019/2020",High Seas 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",High Seas 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/High.Seas/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2019/05/high-seas-season-2-netflix.jpg" group-title="مسلسلات نتفلکس 2019/2020",High Seas 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",High Seas 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/High.Seas/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2019/05/high-seas-season-2-netflix.jpg" group-title="مسلسلات نتفلکس 2019/2020",High Seas 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",High Seas 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/High.Seas/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2019/05/high-seas-season-2-netflix.jpg" group-title="مسلسلات نتفلکس 2019/2020",High Seas 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",High Seas 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/High.Seas/8.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E02
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E03
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E04
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E05
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E08
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E09
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E09
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E11
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E12
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E13
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/13.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E14
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E14
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/14.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E15
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E15
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/15.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E16
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E16
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/16.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E17
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E17
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/17.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E18
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E18
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/18.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E19
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E19
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/19.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E20
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E20
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/20.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E21
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E21
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/21.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E22
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S10E22
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/New.Amsterdam.2019/22.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E02
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E03
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E04
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E05
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E08
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E09
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E09
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E11
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E12
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E13
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/13.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E14
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E14
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/14.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.web.img3.acsta.net/pictures/18/08/27/11/22/4429377.jpg" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E15
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",New Amsterdam S20E15
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/New.Amsterdam.2/15.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM4BPRqgden4j6OvxIMZwUIGbFCjlH20u--1norgkIAMe2hsZY" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Lost in Space 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Lost.in.Space.S2/10.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxuzt7kBuPupDdxG8brOwgIKbYHjzmI0GAmvxELavNROuhHLaY" group-title="مسلسلات نتفلکس 2019/2020",Gold Digger 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Gold Digger 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Gold.Digger/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxuzt7kBuPupDdxG8brOwgIKbYHjzmI0GAmvxELavNROuhHLaY" group-title="مسلسلات نتفلکس 2019/2020",Gold Digger 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Gold Digger 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Gold.Digger/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxuzt7kBuPupDdxG8brOwgIKbYHjzmI0GAmvxELavNROuhHLaY" group-title="مسلسلات نتفلکس 2019/2020",Gold Digger 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Gold Digger 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Gold.Digger/3.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Witcher/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Witcher/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Witcher/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Witcher/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Witcher/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Witcher/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Witcher/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Witcher 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Witcher/8.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E02
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse1/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E03
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse1/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E04
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse1/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E05
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse1/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse1/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse1/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E08
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse1/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E09
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S10E09
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse1/9.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E02
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E03
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E04
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E05
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E08
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E09
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E09
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E11
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E12
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E13
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S20E13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse2/13.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E02
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E03
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E04
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E05
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E08
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E09
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E09
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E11
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E12
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E13
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse3/13.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E02
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E03
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E04
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E05
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E06
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E07
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E08
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E09
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E09
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM4ZTVkODctNGZhNC00NWY5LWJkMjEtYmI1ZDg2Yjg2NDQzXkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Expanse1 S30E10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Expanse.S04/10.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Watchmen/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Watchmen/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Watchmen/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Watchmen/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Watchmen/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Watchmen/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Watchmen/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Watchmen/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Watchmen 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Watchmen/9.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg1NjhhM2UtMjFkZi00YTU5LThiN2YtYmFhYThiMTJjNGJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Holiday.Secrets 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Holiday.Secrets 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Holiday.Secrets/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg1NjhhM2UtMjFkZi00YTU5LThiN2YtYmFhYThiMTJjNGJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Holiday.Secrets 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Holiday.Secrets 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Holiday.Secrets/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg1NjhhM2UtMjFkZi00YTU5LThiN2YtYmFhYThiMTJjNGJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Holiday.Secrets 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Holiday.Secrets 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Holiday.Secrets/3.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRPSefLYLzdDHurpzh1O7WsN3GYP4DrlVUdTDXRmSm62ifJY6NVvOshFMGcH9gLwtz65XhJWE1vSB1Xc-LAqds_eDjES.jpg" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Brotherhood/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRPSefLYLzdDHurpzh1O7WsN3GYP4DrlVUdTDXRmSm62ifJY6NVvOshFMGcH9gLwtz65XhJWE1vSB1Xc-LAqds_eDjES.jpg" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Brotherhood/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRPSefLYLzdDHurpzh1O7WsN3GYP4DrlVUdTDXRmSm62ifJY6NVvOshFMGcH9gLwtz65XhJWE1vSB1Xc-LAqds_eDjES.jpg" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Brotherhood/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRPSefLYLzdDHurpzh1O7WsN3GYP4DrlVUdTDXRmSm62ifJY6NVvOshFMGcH9gLwtz65XhJWE1vSB1Xc-LAqds_eDjES.jpg" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Brotherhood/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRPSefLYLzdDHurpzh1O7WsN3GYP4DrlVUdTDXRmSm62ifJY6NVvOshFMGcH9gLwtz65XhJWE1vSB1Xc-LAqds_eDjES.jpg" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Brotherhood/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRPSefLYLzdDHurpzh1O7WsN3GYP4DrlVUdTDXRmSm62ifJY6NVvOshFMGcH9gLwtz65XhJWE1vSB1Xc-LAqds_eDjES.jpg" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Brotherhood/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRPSefLYLzdDHurpzh1O7WsN3GYP4DrlVUdTDXRmSm62ifJY6NVvOshFMGcH9gLwtz65XhJWE1vSB1Xc-LAqds_eDjES.jpg" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Brotherhood/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRPSefLYLzdDHurpzh1O7WsN3GYP4DrlVUdTDXRmSm62ifJY6NVvOshFMGcH9gLwtz65XhJWE1vSB1Xc-LAqds_eDjES.jpg" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Brotherhood 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Brotherhood/8.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 11
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWUxZWY0NzgtNmQ1Ny00ZjFjLThkNTEtNGRhNmRiNTlhZjYyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 12
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Blood.and.Treasure 12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Blood.and.Treasure.s1/1.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515036_7853.jpg" group-title="مسلسلات نتفلکس 2019/2020",The Passage 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The Passage 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/the-passage/10.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGX9ct7yVAMd4PZlQTvzW2qM4MOXWFzwAgnJDeIgKbDb9qC3pS" group-title="مسلسلات نتفلکس 2019/2020",Another Life 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Another Life 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/another.life.s1/10.mp4/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Typewriter_Webseries.jpg" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Typewriter/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Typewriter_Webseries.jpg" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Typewriter/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Typewriter_Webseries.jpg" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Typewriter/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Typewriter_Webseries.jpg" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Typewriter/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Typewriter_Webseries.jpg" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Typewriter 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Typewriter/5.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyZDY5NjktOTYxYS00YzlhLTllOTAtNGE3MDMxNmVhMjRmXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Act 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Act 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Act/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyZDY5NjktOTYxYS00YzlhLTllOTAtNGE3MDMxNmVhMjRmXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Act 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Act 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Act/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyZDY5NjktOTYxYS00YzlhLTllOTAtNGE3MDMxNmVhMjRmXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Act 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Act 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Act/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyZDY5NjktOTYxYS00YzlhLTllOTAtNGE3MDMxNmVhMjRmXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Act 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Act 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Act/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyZDY5NjktOTYxYS00YzlhLTllOTAtNGE3MDMxNmVhMjRmXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Act 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Act 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Act/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyZDY5NjktOTYxYS00YzlhLTllOTAtNGE3MDMxNmVhMjRmXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Act 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Act 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Act/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyZDY5NjktOTYxYS00YzlhLTllOTAtNGE3MDMxNmVhMjRmXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Act 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Act 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Act/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyZDY5NjktOTYxYS00YzlhLTllOTAtNGE3MDMxNmVhMjRmXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Act 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Act 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Act/8.mp4/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTcyOTA3ZWUtOWEwMy00YjI5LWIyNjctNTAyYjI5ZmE0NGI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Dead.To.Me 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dead.To.Me/10.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Umbrella.Academy 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/The.Umbrella.Academy/10.mp4/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020"Russian.Dolly 2019",Russian.Doll 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Russian.Doll 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Russian.Doll.2019/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020"Russian.Dolly 2019",Russian.Doll 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Russian.Doll 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Russian.Doll.2019/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020"Russian.Dolly 2019",Russian.Doll 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Russian.Doll 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Russian.Doll.2019/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020"Russian.Dolly 2019",Russian.Doll 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Russian.Doll 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Russian.Doll.2019/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020"Russian.Dolly 2019",Russian.Doll 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Russian.Doll 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Russian.Doll.2019/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020"Russian.Dolly 2019",Russian.Doll 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Russian.Doll 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Russian.Doll.2019/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020"Russian.Dolly 2019",Russian.Doll 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Russian.Doll 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Russian.Doll.2019/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pics.filmaffinity.com/The_Umbrella_Academy_TV_Series-422973449-large.jpg" group-title="مسلسلات نتفلکس 2019/2020"Russian.Dolly 2019",Russian.Doll 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Russian.Doll 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Russian.Doll.2019/8.mp4/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="مسلسلات نتفلکس 2019/2020"Chernobyl 2019",Chernobyl 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Chernobyl 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Chernobyl/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="مسلسلات نتفلکس 2019/2020"Chernobyl 2019",Chernobyl 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Chernobyl 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Chernobyl/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="مسلسلات نتفلکس 2019/2020"Chernobyl 2019",Chernobyl 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Chernobyl 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Chernobyl/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="مسلسلات نتفلکس 2019/2020"Chernobyl 2019",Chernobyl 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Chernobyl 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Chernobyl/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="مسلسلات نتفلکس 2019/2020"Chernobyl 2019",Chernobyl 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",Chernobyl 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Chernobyl/5.mp4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 11
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 12
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 13
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/13.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 14
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 14
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/14.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc1MmE1NGYtMzFlYS00YTNmLThjNmEtMjQ5NzY4NmJkZTIwXkEyXkFqcGdeQXVyODkxMzcxOTY@._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.resident 2019",The.resident 15
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.resident 15
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/the.resident/15.mp4/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 1
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/1.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 2
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/2.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 3
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/3.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 4
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 4
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/4.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/5.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 6
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/6.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 7
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 7
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/7.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/8.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 9
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 9
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/9.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 10
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 10
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/10.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 11
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 11
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 12
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 12
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/12.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_.jpg" group-title="مسلسلات نتفلکس 2019/2020"The.Punisher 2019",The.Punisher 13
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات نتفلکس 2019/2020",The.Punisher 13
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/The.Punisher.S2/13.mp4/playlist.m3u8
