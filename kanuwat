@@ -49,6 +49,9 @@ http://194.32.79.172/bein7/tracks-v1a1/mono.m3u8
 http://194.32.79.172/bein8s/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="bein10hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 10HD
 http://194.32.79.172/bein10/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 10HD+
+http://46.105.114.82/entv.m3u8
+
 
 
 
