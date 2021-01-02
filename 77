@@ -1,3 +1,53 @@
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="" group-title="قنوات بين سبور BEIN SPORT",beIN Sport 9 HD+
-http://185.246.210.53:2200/EX/MBC_Variety_HD-ar/tracks-v1a1/mono.m3u8?token=
-
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: TV 5
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/27
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: EL HAYAT TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/28
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: Al Anis TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/29
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: AR: Nat Geo AD
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/30
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat:  EL Djazairia
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/31
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: Numidia TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/32
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: TUN: Nessma TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/33
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: bahia
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/34
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: adjwaia
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/36
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: EL FADJR TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/37
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: El Haddaf
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/38
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: Beur TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/39
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: Berbere TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/40
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: Samira TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/41
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: Ennahar TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/42
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: PROGRAME NATIONAL
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/43
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: Canal Algerie
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/44
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: TV 4
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/45
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: Echorouk TV
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/46
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: Echourouk News
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/47
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: ALG: El Biled News
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/48
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",nat: AR: ALGERIE 3
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/49
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",Algeria6sd
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/57
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",Programe Nat
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/60
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",Nessma dz
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/61
+#EXTINF:0 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",DZAIR1SD
+http://62.171.175.99:25461/bTciwP8AxH/918MaaTIP4/62
