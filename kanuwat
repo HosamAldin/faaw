@@ -110,6 +110,25 @@ http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6131/index.m3u8
 http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6132/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_12_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport12
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport3 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6124/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_04_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport4 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6125/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport5 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6126/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_06_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport6 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6127/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_07_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport7 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6128/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_08_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport8 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6129/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_09_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport9 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6130/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_10_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport10 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6131/index.m3u8 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport11 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",▂ ▄ ▅ ▆☆ OSN ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="او اس انOSN",النسخة المدفوعة AirMax TV
@@ -362,28 +381,6 @@ http://185.93.2.153:2200/TR/neelainsport-ar/tracks-v1a1/mono.m3u8?token=123zzzaa
 http://185.246.210.53:2200/TN/libyasports-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",zamaleksports
 http://185.246.210.50:2200/TN/zamaleksports-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",OSN_DISCOVERY
-http://185.246.210.50:2200/OSN-EX/OSN_DISCOVERY-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 1
-http://185.246.210.38:2200/VOD/reddocumentary-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 2
-http://185.246.210.38:2200/VOD/reddocumentary2-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 3
-http://185.246.210.38:2200/VOD/reddocumentary3-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 4
-http://185.246.210.38:2200/VOD/reddocumentary4-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 5
-http://185.246.210.38:2200/VOD/reddocumentary5-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 6
-http://185.246.210.38:2200/VOD/reddocumentary6-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 7
-http://185.246.210.38:2200/VOD/reddocumentary7-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 8
-http://185.246.210.38:2200/VOD/reddocumentary8-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 9
-http://185.246.210.38:2200/VOD/reddocumentary9-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 
 #EXTINF:0 tvg-id="ext" group-title="باقة مدفوعه للافلام",▂ ▄ ▅ ▆☆ باقة مدفوعه للافلام ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -938,6 +935,28 @@ http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8?airmaxtv.m
 http://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nilesat7.com/wp-content/uploads/2019/08/%D9%82%D9%86%D8%A7%D8%A9-%D9%83%D9%8A%D9%81.jpg" group-title="قنوات الوثائقية",Kaifa TV
 http://82.212.74.2:8000/live/hls/7311.m3u8?airmaxtv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",OSN_DISCOVERY
+http://185.246.210.50:2200/OSN-EX/OSN_DISCOVERY-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 1
+http://185.246.210.38:2200/VOD/reddocumentary-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 2
+http://185.246.210.38:2200/VOD/reddocumentary2-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 3
+http://185.246.210.38:2200/VOD/reddocumentary3-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 4
+http://185.246.210.38:2200/VOD/reddocumentary4-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 5
+http://185.246.210.38:2200/VOD/reddocumentary5-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 6
+http://185.246.210.38:2200/VOD/reddocumentary6-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 7
+http://185.246.210.38:2200/VOD/reddocumentary7-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 8
+http://185.246.210.38:2200/VOD/reddocumentary8-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الوثائقية",Documentary 9
+http://185.246.210.38:2200/VOD/reddocumentary9-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/reSXEKO.jpg" group-title="قنوات الوثائقية",NATGEO HD
