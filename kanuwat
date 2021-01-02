@@ -32,14 +32,14 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 4تعمل وقت المبارات المهمة
 https://dmx827xu3kbuh.cloudfront.net/out/v1/91e7260773b64e2d9f36c2cd93b1bc6c/yalla_3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIGEOAgigUbwV59nPEhLDVghJ7ycyLZzoEw&usqp=CAU" group-title="قنوات بين سبور BEIN SPORT",BEIN​ SPORT​1
+https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp5PkqEXlD_IdlVRrOkGe-WLH8WAomuI4oQ&usqp=CAU" group-title="قنوات بين سبور BEIN SPORT",BEIN​ SPORT​2
+https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 1HD+
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 2HD
 http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 2HD+
-https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:0 tvg-id="bein3hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 3HD
 http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="bein4hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 4HD
