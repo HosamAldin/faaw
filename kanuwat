@@ -357,31 +357,6 @@ http://185.246.210.38:2200/VOD/reddrama4-en/tracks-v1a1/mono.m3u8?token=123zzzaa
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX افلام",Drama-EN 5
 http://185.246.210.38:2200/VOD/reddrama5-en/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 1 HD
-http://89.187.169.203:2200/TR/ksasports1hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 2 HD
-http://185.93.2.153:2200/TR/ksasport2hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 3 HD
-http://89.187.169.203:2200/TR/ksasports3hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 4 HD
-http://185.93.2.153:2200/TR/ksasports4hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Saudi24 Sport
-http://89.187.169.202:2200/TR/saudi24sport-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",ON sporthd2
-http://185.246.210.52:2200/TN/onsporthd2-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",OPN sportv
-http://89.187.169.203:2200/TN/onsportv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",alahlyclubtv
-http://89.187.169.202:2200/TN/alahlyclubtv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",neelainsport
-http://185.93.2.153:2200/TR/neelainsport-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",libyasports
-http://185.246.210.53:2200/TN/libyasports-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",zamaleksports
-http://185.246.210.50:2200/TN/zamaleksports-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
-
 #EXTINF:0 tvg-id="ext" group-title="باقة مدفوعه للافلام",▂ ▄ ▅ ▆☆ باقة مدفوعه للافلام ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة مدفوعه للافلام",النسخة المدفوعة AirMax TV
@@ -525,6 +500,31 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="قنوات رياضية SPORT",DubaiRacing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?airmaxtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 1 HD
+http://89.187.169.203:2200/TR/ksasports1hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 2 HD
+http://185.93.2.153:2200/TR/ksasport2hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 3 HD
+http://89.187.169.203:2200/TR/ksasports3hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Ksa Sport 4 HD
+http://185.93.2.153:2200/TR/ksasports4hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",Saudi24 Sport
+http://89.187.169.202:2200/TR/saudi24sport-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",ON sporthd2
+http://185.246.210.52:2200/TN/onsporthd2-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",OPN sportv
+http://89.187.169.203:2200/TN/onsportv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",alahlyclubtv
+http://89.187.169.202:2200/TN/alahlyclubtv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",neelainsport
+http://185.93.2.153:2200/TR/neelainsport-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",libyasports
+http://185.246.210.53:2200/TN/libyasports-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات رياضية SPORT",zamaleksports
+http://185.246.210.50:2200/TN/zamaleksports-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-6y4ZhReAn6s/XU0MXE7Q06I/AAAAAAAAMIM/zWkA2g5PI7QCm6gWEJbS4He9PbACJLjJgCLcBGAs/s1600/dubai-racing-3.jpg" group-title="قنوات رياضية SPORT",DubaiRacing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/925452512408293376/xHZe-67F_400x400.jpg" group-title="قنوات رياضية SPORT",البحرين الرياضية
