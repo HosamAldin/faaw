@@ -74,7 +74,7 @@ http://185.246.210.55:2200/EX/bein12hd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx98
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 1 SD
 http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 2 SD
-http://194.32.79.172/bein2/tracks-v1a1/mono.m3u8
+http://194.32.79.172/bein2s/tracks-v1a1/mono.m3u8 
 #EXTINF:0 tvg-id="bein3hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 3 SD
 http://194.32.79.172/beins3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="bein4hd.jsc" group-title="قنوات بين سبور BEIN SPORT",bein sport 4 SD
