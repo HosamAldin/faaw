@@ -11,6 +11,8 @@ https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/Kanal7.tr.png" group-title="TURKEY",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TURKEY",TV8
+https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/chunklist_w1921727889.m3u8
 #EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",Star TV
 https://lcgid8xu.rocketcdn.com/startvhd.stream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",YOL TV
