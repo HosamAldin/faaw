@@ -12,9 +12,9 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/Kanal7.tr.png" group-title="TURKEY",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TURKEY",TV8
-https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/chunklist_w1921727889.m3u8
+https://stream.hdtvizlecanli.com/tv8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/3/38/20150205183811%21Yabantv_logo.png" group-title="TURKEY",Yaban TV
-https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w1582637334.m3u8
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",Star TV
 https://lcgid8xu.rocketcdn.com/startvhd.stream/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",YOL TV
@@ -6753,20 +6753,4 @@ http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://hanamtv.vn/template/default/images/logo.png" tvg-country="VN" tvg-url="" group-title="Vietnam",THHN
 http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tv.vnn.vn/Images/tv/tiengiang%20.png" tvg-country="VN" tvg-url="" group-title="Vietnam",Tien Giang
-http://thtg.vn:8001/thtg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="" tvg-country="VN" tvg-url="" group-title="Vietnam",TOTALLY SPIES
-http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png" tvg-country="VN" tvg-url="" group-title="Vietnam",TTXVN
-http://live.vnanet.vn/VnewsLive_Android.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TTXVN" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/ttxvn.png" tvg-country="VN" tvg-url="" group-title="Vietnam",TTXVN HD
-http://live.vnanet.vn/720P/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VITV" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/vitv.png" tvg-country="VN" tvg-url="" group-title="Vietnam",VITV
-http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://s30.postimg.org/s0aco3hzl/VIET_MY.png" tvg-country="VN" tvg-url="" group-title="Vietnam",Việt Mỹ TV
-http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png" tvg-country="VN" tvg-url="" group-title="Vietnam",Việt News TV
-http://vietnews.saigon.ns01.us:1935/VietNews/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png" tvg-country="VN" tvg-url="" group-title="Vietnam",VNA TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk" tvg-country="VN" tvg-url="" group-title="Vietnam",VNA TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8
+http://thtg.vn:8001/th
