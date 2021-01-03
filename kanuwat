@@ -1581,17 +1581,17 @@ http://www.radiomarina.tn:8080/media/live.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",elhiwarettounsi
-http://89.187.169.205:2200/TN/elhiwarettounsi-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/elhiwarettounsi-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",attasiatv
-http://89.187.169.202:2200/TN/attasiatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/attasiatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",nessma
-http://89.187.169.203:2200/TN/nessma-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/nessma-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",hannibal
-http://185.93.2.153:2200/TN/hannibal-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/hannibal-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",zaytounatv
-http://89.187.169.206:2200/TN/zaytounatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/zaytounatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",mtunisia
-http://89.187.169.206:2200/TN/mtunisia-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/mtunisia-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.jbcgroup.com/amd/pictures/8a10484c1a005512d8a65f88ab0d7a2e.jpg" group-title="TUNISIE قنوات تونس",aljanoubia
 http://195.181.172.83:2200/TN/aljanoubia-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 
@@ -1615,48 +1615,47 @@ http://46.105.114.82/beurtv.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",alger 2
-http://185.246.210.52:2200/TN/ennahartv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/ennahartv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",sahratvalgeria
-http://89.187.169.206:2200/TN/sahratvalgeria-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/sahratvalgeria-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",samira
-http://89.187.169.203:2200/TN/samira-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/samira-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",tvcoran
-http://89.187.169.204:2200/TN/tvcoran-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/tvcoran-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",echourouknews
 http://195.181.172.83:2200/TN/echourouknews-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",tv7elmaarifa
-http://185.246.210.52:2200/TN/tv7elmaarifa-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/tv7elmaarifa-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",numidianewstv
-http://89.187.169.206:2200/TN/numidianewstv-ar/tracks-v1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/numidianewstv-ar/tracks-v1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",elbiladtv
-http://89.187.169.202:2200/TN/elbiladtv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/elbiladtv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",
-http://89.187.169.204:2200/TN/berberetv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/berberetv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",awraastv
-http://89.187.169.203:2200/TN/awraastv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/awraastv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",elbadiltv
 http://185.93.2.153:2200/TN/elbadiltv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",a3hd
-http://89.187.169.202:2200/TN/a3hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/a3hd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",canalalgeria
-http://89.187.169.202:2200/TN/canalalgeria-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/canalalgeria-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",eldjuzairia
-http://89.187.169.202:2200/TN/eldjuzairia-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/eldjuzairia-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",tv4
-http://185.246.210.50:2200/TN/tv4-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/tv4-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",eldjazairn1
 http://195.181.172.83:2200/TN/eldjazairn1-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",bahiatv
 http://195.181.172.83:2200/TN/bahiatv-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",linatv
-http://185.246.210.50:2200/TN/linatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/linatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",hayattvalgeria
-http://89.187.169.206:2200/TN/hayattvalgeria-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/hayattvalgeria-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",eladjwaa
-http://89.187.169.205:2200/TN/eladjwaa-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
+http://195.181.172.83:2200/TN/eladjwaa-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.marefa.org/images/thumb/7/77/Flag_of_Algeria.svg/250px-Flag_of_Algeria.svg.png" group-title="ALGERIEN قنوات الجزائر",programmenational
-http://185.246.210.52:2200/TN/programmenational-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
-
+http://195.181.172.83:2200/TN/programmenational-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://alandroidnet.com/thumbnail?src=images/appsimages/appimg-ramTnpaf.jpg" group-title="LIBYA قنوات ليبيا",▂ ▄ ▅ ▆☆ LIBYA قنوات ليبيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/218_TV_Channel_Logo.jpg/800px-218_TV_Channel_Logo.jpg" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya 218
@@ -1700,23 +1699,23 @@ http://africatv.live.net.sa:1935/live/africatv3/chunklist.m3u8?airmaxtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/BNTV_logo.png" group-title="SUDAN قنوات السودان",SUDAN-Blue.Nile-TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",tayba
-http://185.246.210.53:2200/TN/tayba-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/tayba-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",alhilaltv
 http://89.187.169.202:2200/TN/alhilaltv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",ashorooq
-http://89.187.169.203:2200/TN/ashorooq-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TN/ashorooq-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",bntv
-http://185.93.2.153:2200/TR/bntv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/bntv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",khartoumhd
-http://89.187.169.203:2200/TR/khartoumhd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/khartoumhd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",almarikhtv
-http://89.187.169.203:2200/TR/almarikhtv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/almarikhtv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",shamaliatv
-http://89.187.169.203:2200/TR/shamaliatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/shamaliatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",alqamaralhashimy
-http://89.187.169.204:2200/TR/alqamaralhashimy-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/alqamaralhashimy-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SUDAN قنوات السودان",sudanmusic
-http://89.187.169.202:2200/TR/sudanmusic-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/sudanmusic-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 
 #EXTINF:-1 tvg-id="" tvg-name="AR:Qatar TV HD" tvg-logo="hhttps://live-tv-channels.org/pt-data/uploads/logo/qa-qatar-tv-3389.jpg" group-title="قنوات قطر Qatar",▂ ▄ ▅ ▆☆ Qatar TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -1763,15 +1762,15 @@ http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait alshahedhd
-http://89.187.169.203:2200/TR/alshahedhd-ar/index.m3u8?token=xrstalker
+http://195.181.172.83:2200/TR/alshahedhd-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait scopehd
-http://89.187.169.203:2200/TR/scopehd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+http://195.181.172.83:2200/TR/scopehd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait atvaladalahhd
-http://89.187.169.205:2200/TR/atvaladalahhd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+http://195.181.172.83:2200/TR/atvaladalahhd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait alsabah
-http://185.246.210.50:2200/TR/alsabah-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+http://195.181.172.83:2200/TR/alsabah-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات الكويت Kuwait",Kuwait marinatvhd
-http://185.246.210.50:2200/TR/marinatvhd-ar/tracks-v1a1/mono.m3u8?token=xrstalker
+http://195.181.172.83:2200/TR/marinatvhd-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2020/01/JzMM5KDx_400x400.jpg" group-title="قنوات البحرين Bahrain",▂ ▄ ▅ ▆☆ Bahrain TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
@@ -1914,23 +1913,23 @@ http://cdn.mediavisionuae.com:1935/live/sbctv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",▂ ▄ ▅ ▆☆ Mouritaniya موريتانيا ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elmouritaniya
-http://185.93.2.153:2200/TR/elmouritaniya-af/index.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/elmouritaniya-af/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elmouritania2
-http://185.59.222.171:2200/TR/elmouritania2-af/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/elmouritania2-af/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elmahadra
-http://185.246.210.53:2200/TR/elmahadra-af/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/elmahadra-af/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",chinguittv
-http://185.246.210.52:2200/TR/chinguittv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/chinguittv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",almourabitoune
-http://185.93.2.153:2200/TR/almourabitoune-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/almourabitoune-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elwataniatv
-http://185.246.210.53:2200/TR/elwataniatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/elwataniatv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",saheltv
-http://185.246.210.54:2200/TR/saheltv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/saheltv-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",tdmpromotionalchannel
-http://89.187.169.204:2200/TR/tdmpromotionalchannel-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/tdmpromotionalchannel-ar/index.m3u8?token=123zzzaaaxxaazzzxxx987
 #EXTINF:-1 tvg-id="" tvg-logo="https://e1.elaphjournal.com/resources/images/Politics/2017/11/week4/alam.png" group-title="Mouritaniya موريتانيا‎",elbarlemania
-http://185.93.2.153:2200/TR/elbarlemania-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
+http://195.181.172.83:2200/TR/elbarlemania-ar/tracks-v1a1/mono.m3u8?token=123zzzaaaxxaazzzxxx987
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/TIOMNuOzknM/maxresdefault.jpg" group-title="KURDISH ",▂ ▄ ▅ ▆☆ KURDISH  ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
