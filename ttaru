@@ -25,7 +25,7 @@ https://cdn.alarab.com/h264/161123_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E13
 https://cdn.alarab.com/h264/161400_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E14
-
+https://cdn.alarab.com/h264/161551_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E15
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E16
@@ -342,7 +342,7 @@ https://cdn.alarab.com/h264/161382_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E17
 https://cdn.alarab.com/h264/161543_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E18
-
+https://cdn.alarab.com/h264/161647_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E19
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E20
@@ -767,11 +767,11 @@ https://cdn.alarab.com/h264/161088_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E01
 https://cdn.alarab.com/h264/161086_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E02
-
+https://cdn.alarab.com/h264/161516_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E03
-
+https://cdn.alarab.com/h264/161618_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E04
-
+https://cdn.alarab.com/h264/161636_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E05
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E06
@@ -1345,6 +1345,23 @@ https://cdn.alarab.com/h264/161142_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161408_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E20
 https://cdn.alarab.com/h264/161568_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E21
+https://cdn.alarab.com/h264/161665_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E22
+
+#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E23
+
+#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E24
+
+#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E25
+
+#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E26
+
+#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E27
+
+#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E28
+
+#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E01
 https://cdn.alarab.com/h264/158544_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E02
@@ -1393,7 +1410,7 @@ https://cdn.alarab.com/h264/161273_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E17
 https://cdn.alarab.com/h264/161501_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E18
-
+https://cdn.alarab.com/h264/161609_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E19
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E20
@@ -1548,7 +1565,7 @@ https://cdn.alarab.com/h264/161306_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E24
 https://cdn.alarab.com/h264/161508_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E25
-
+https://cdn.alarab.com/h264/161632_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E26
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E27
@@ -1800,9 +1817,9 @@ https://cdn.alarab.com/h264/161120_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E16
 https://cdn.alarab.com/h264/161396_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E17
-
+https://cdn.alarab.com/h264/161676_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E18
-
+https://cdn.alarab.com/h264/161659_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E19
 
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E20
