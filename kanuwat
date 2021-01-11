@@ -22,6 +22,8 @@ https://bit.ly/34udaMv
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
+#EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/beinsportsxtra.png" group-title="قنوات بين سبور BEIN SPORT", beIN Sport Extra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 1تعمل وقت المبارات المهمة
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 2تعمل وقت المبارات المهمة
@@ -288,7 +290,6 @@ https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="قنوات رياضية SPORT",True Sport HD4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="قنوات رياضية SPORT",DIGI SPORT1
 http://tv.protvmm.live:5080/LiveApp/streams/325007722519183089313921.m3u8
