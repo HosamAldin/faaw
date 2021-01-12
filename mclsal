@@ -617,8 +617,14 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dofaat.Bairout/21.mp4/pl
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dofaat.Bairout/22.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دفعة بيروت الحلقة S01E23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dofaat.Bairout/23.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دفعة بيروت الحلقة S01E24
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dofaat.Bairout/24.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دفعة بيروت الحلقة S01E25
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dofaat.Bairout/25.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",دفعة بيروت الحلقة S01E26
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dofaat.Bairout/26.mp4/playlist.m3u8
 
-
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Dofaat.Bairout/27.mp4/playlist.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسلات جديده عربية",DNA الحلقة S01E01
 https://cdn.alarab.com/h264/161360_480p.mp4/index-v1-a1.m3u8
