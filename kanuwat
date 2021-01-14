@@ -116,7 +116,7 @@ https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Movie Kingdom HD" tvg-logo="https://image.roku.com/developer_channels/prod/eec31809f3d6d71fced82e9d9143a57637a6b9b80f5474e67feb1d5ffc482884.png" group-title="باقة مدفوعه للافلام",Movie Kingdom (No Break)
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Kingdom" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="باقة مدفوعه للافلام",Movie Kingdom
+#EXTINF:-1 tvg-id="" tvg-name="Movie Kingdom" tvg-logo="https://i.imgur.com/pIuJqYk.png group-title="باقة مدفوعه للافلام",Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="باقة مدفوعه للافلام",HBO (East)
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
