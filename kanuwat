@@ -95,8 +95,6 @@ http://136.243.177.164/HBO3/playlist.m3u8
 http://136.243.177.164/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-id=" " group-title="باقة مدفوعه للافلام",Cinemax 2 HD
 http://136.243.177.164/CINEMAX2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pIuJqYk.png="باقة مدفوعه للافلام",Movie Kingdom HD
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" group-title="باقة مدفوعه للافلام",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" group-title="باقة مدفوعه للافلام",Romedy Now
