@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E01
 https://cdn.alarab.com/h264/159446_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E02
@@ -28,15 +29,7 @@ https://cdn.alarab.com/h264/161400_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161551_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E15
 https://cdn.alarab.com/h264/161679_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E16
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E17
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E18
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل نهضة السلاجقة العظمى",نهضة السلاجقة العظمى  S01E20
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 1
 https://cdn.alarab.com/hdiphone/150792.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 2
@@ -81,7 +74,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/19.mp4/pla
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/20.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 21 HD
 https://cdn.alarab.com/h264/155957_,72,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 22 
+#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 22
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/22.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 23
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Othman/New.EP/23.mp4/playlist.m3u8
@@ -123,23 +116,6 @@ https://cdn.alarab.com/h264/161425_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161577_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 41 HD
 https://cdn.alarab.com/h264/161707_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 42 HD
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 43 HD
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 44 HD
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 45 HD
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 46 HD
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 47 HD
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 48 HD
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 49 HD
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المؤسس عثمان",مسلسل المؤسس عثمان 50 HD
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/hole/1.mp4/playlist.m3u8
@@ -365,13 +341,6 @@ https://cdn.alarab.com/h264/161543_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161647_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E19
 https://cdn.alarab.com/h264/161807_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E20
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E21
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الحفرة",الحفرة  S04E22
-
-
 
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/qota1/1.mp4/playlist.m3u8
@@ -461,9 +430,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/qota1/42.mp4/playlist.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/qota1/43.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S01E44
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/qota1/44.mp4/playlist.m3u8
-
-
-
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S02E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-9/qttaa2/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S02E02
@@ -526,8 +492,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-9/qttaa2/29.mp4/playlist.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-9/qttaa2/30.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S02E31
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-9/qttaa2/31.mp4/playlist.m3u8
-
-
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S03E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/qtta3/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S03E02
@@ -600,7 +564,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/qtta3/34.mp4/playlist.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/qtta3/35.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S03E36
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/qtta3/36.mp4/playlist.m3u8
-
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S04E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/qtta4/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S04E02
@@ -665,7 +628,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/qtta4/30.mp4/playlist.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/qtta4/31.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S04E32
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-15/qtta4/32.mp4/playlist.m3u8
-
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S05E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Qotaa.5/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S05E02
@@ -718,7 +680,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Qotaa.5/24.mp4/playlist.
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Qotaa.5/25.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S05E26
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Qotaa.5/26.mp4/playlist.m3u8
-
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S06E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Qotaa.6/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S06E02
@@ -745,6 +706,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Qotaa.6/11.mp4/playlist.
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Qotaa.6/12.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="قطاع الطرق لن يحكموا العالم",قطاع الطرق لن يحكموا العالم  S06E13
 https://cdn.alarab.com/h264/161567_480p.mp4/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اللهيب",اللهيب  S01E01
 https://cdn.alarab.com/h264/160211_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اللهيب",اللهيب  S01E02
@@ -763,8 +725,6 @@ https://cdn.alarab.com/h264/161224_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161497_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اللهيب",اللهيب  S01E09
 https://cdn.alarab.com/h264/161737_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل اللهيب",اللهيب  S01E10
-
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E01
 https://cdn.alarab.com/h264/160679_480p.mp4/index-v1-a1.m3u8
@@ -772,17 +732,6 @@ https://cdn.alarab.com/h264/160679_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160679_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E03
 https://cdn.alarab.com/h264/161088_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E04
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E05
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E06
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E07
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E08
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جانبي الايسر",جانبي الايسر  S01E09
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E01
 https://cdn.alarab.com/h264/161086_480p.mp4/index-v1-a1.m3u8
@@ -792,15 +741,6 @@ https://cdn.alarab.com/h264/161516_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161618_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E04
 https://cdn.alarab.com/h264/161636_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E05
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E06
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E07
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل العقرب",العقرب  S01E08
-
-
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المحارب 4",المحارب 4  S04E21
 https://cdn.alarab.com/h264/159089_,72,48,24,0p.mp4.urlset/playlist.m3u8
@@ -808,48 +748,42 @@ https://cdn.alarab.com/h264/159089_,72,48,24,0p.mp4.urlset/playlist.m3u8
 https://cdn.alarab.com/h264/159290_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المحارب 4",المحارب 4  S04E23
 https://cdn.alarab.com/h264/159384_,72,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المحارب 4",المحارب 4  S04E24
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المحارب 4",المحارب 4  S04E25
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E01
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E01
 https://cdn.alarab.com/h264/159188_,72,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E02
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E02
 https://cdn.alarab.com/h264/159291_,72,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E03
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E03
 https://cdn.alarab.com/h264/159438_,72,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E04
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E04
 https://cdn.alarab.com/h264/159735_,72,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E05
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E05
 https://cdn.alarab.com/h264/159716_,72,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E06
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E06
 https://cdn.alarab.com/h264/159868_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E07
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E07
 https://cdn.alarab.com/h264/160017_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E08
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E08
 https://cdn.alarab.com/h264/160163_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E09
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E09
 https://cdn.alarab.com/h264/160291_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E10
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E10
 https://cdn.alarab.com/h264/160420_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E11
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E11
 https://cdn.alarab.com/h264/160550_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E12
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E12
 https://cdn.alarab.com/h264/160845_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E13
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E13
 https://cdn.alarab.com/h264/160979_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E14
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E14
 https://cdn.alarab.com/h264/161145_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E15
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E15
 https://cdn.alarab.com/h264/161411_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E16
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E16
 https://cdn.alarab.com/h264/161570_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E17
+#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء",شقة الأبرياء  S01E17
 https://cdn.alarab.com/h264/161821_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E18
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل شقة الأبرياء", شقة الأبرياء  S01E20
 #EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 1
 https://cdn.alarab.com/hdiphone/127884.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 2
@@ -858,7 +792,7 @@ https://cdn.alarab.com/hdiphone/128060.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/hdiphone/128134.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 4
 https://cdn.alarab.com/hdiphone/128209.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 5
+#EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 5
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Istanbul/5.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 6
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Istanbul/6.mp4/playlist.m3u8
@@ -928,6 +862,7 @@ https://cdn.alarab.com/h264/156882_,72,48,24,0p.mp4.urlset/playlist.m3u8
 https://cdn.alarab.com/h264/157045_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل إسطنبول الظالمة",TR إسطنبول الظالمة 39
 https://cdn.alarab.com/h264/157158_480p.mp4/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E01
 https://cdn.alarab.com/h264/158694_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E02
@@ -968,17 +903,7 @@ https://cdn.alarab.com/h264/161529_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161635_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E20
 https://cdn.alarab.com/h264/161782_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E20
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E20
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E20
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E20
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E20
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل اتصل بمدير أعمالي",اتصل بمدير أعماليS01E20
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E01
 https://cdn.alarab.com/480/132139_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E02
@@ -1073,13 +998,7 @@ https://cdn.alarab.com/h264/161307_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161507_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E46
 https://cdn.alarab.com/h264/161906_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E47
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E48
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E49
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل نجمة الشمال",نجمة الشمالS01E42
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E01
 https://cdn.alarab.com/h264/158911_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E02
@@ -1114,11 +1033,6 @@ https://cdn.alarab.com/h264/161101_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161355_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E17
 https://cdn.alarab.com/h264/161528_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E18
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ماريا ومصطفى",ماريا ومصطفىS01E20
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E01
 https://cdn.alarab.com/h264/157168_,72,48,24,0p.mp4.urlset/playlist.m3u8
@@ -1154,90 +1068,84 @@ https://cdn.alarab.com/h264/159270_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/159434_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E17
 https://cdn.alarab.com/h264/159572_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E18
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل أسفي على شبابي",أسفي على شبابيS01E20
-
-
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 01
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 01
 https://cdn.alarab.com/textfilenames/testkhil1.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 02
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 02
 https://cdn.alarab.com/textfilenames/testkhil2.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 03
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 03
 https://cdn.alarab.com/textfilenames/testkhil3.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 04
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 04
 https://cdn.alarab.com/textfilenames/testkhil4.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 05
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 05
 https://cdn.alarab.com/textfilenames/testkhil5.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 06
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 06
 https://cdn.alarab.com/textfilenames/testkhil6.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 07
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 07
 https://cdn.alarab.com/textfilenames/testkhil7.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 08
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 08
 https://cdn.alarab.com/h264/159313_720p.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 09
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 09
 https://cdn.alarab.com/h264/159311_720p.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 10
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 10
 https://cdn.alarab.com/textfilenames/testkhil10.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 11
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 11
 https://cdn.alarab.com/textfilenames/testkhil11.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 12
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 12
 https://cdn.alarab.com/textfilenames/testkhil12.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 13
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 13
 https://cdn.alarab.com/textfilenames/testkhil13.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 14
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 14
 https://cdn.alarab.com/textfilenames/testkhil14.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 15
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 15
 https://cdn.alarab.com/textfilenames/testkhil15.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 16
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 16
 https://cdn.alarab.com/textfilenames/testkhil16.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 17
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 17
 https://cdn.alarab.com/textfilenames/testkhil17.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 18
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 18
 https://cdn.alarab.com/textfilenames/testkhil18.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 19
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 19
 https://cdn.alarab.com/textfilenames/testkhil19.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 20
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 20
 https://cdn.alarab.com/textfilenames/testkhil20.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 21
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 21
 https://cdn.alarab.com/textfilenames/testkhil21.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 22
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 22
 https://cdn.alarab.com/textfilenames/testkhil22.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 23
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 23
 https://cdn.alarab.com/textfilenames/testkhil23.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 24
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 24
 https://cdn.alarab.com/textfilenames/testkhil24.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 25
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 25
 https://cdn.alarab.com/textfilenames/testkhil25.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 26
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 26
 https://cdn.alarab.com/textfilenames/testkhil26.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 27
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 27
 https://cdn.alarab.com/textfilenames/testkhil27.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 28
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 28
 https://cdn.alarab.com/textfilenames/testkhil28.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 29
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 29
 https://cdn.alarab.com/textfilenames/testkhil29.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 30
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 30
 https://cdn.alarab.com/textfilenames/testkhil30.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 31
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 31
 https://cdn.alarab.com/textfilenames/testkhil31.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 32
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 32
 https://cdn.alarab.com/textfilenames/testkhil32.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 33
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 33
 https://cdn.alarab.com/textfilenames/testkhil33.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 34
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 34
 https://cdn.alarab.com/textfilenames/testkhil34.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 35
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 35
 https://cdn.alarab.com/textfilenames/testkhil35.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 36
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 36
 https://cdn.alarab.com/textfilenames/testkhil36.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 37
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 37
 https://cdn.alarab.com/textfilenames/testkhil37.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 38
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 38
 https://cdn.alarab.com/textfilenames/testkhil38.mp4/index.m3u8
-#EXTINF:-1 group-title="في الداخل  🇹🇷" tvg-logo="",الحلقة 39
+#EXTINF:0 tvg-id="avi" group-title="في الداخل  🇹🇷",الحلقة 39
 https://cdn.alarab.com/textfilenames/testkhil39.mp4/index.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المعالج النفسي",المعالج النفسيS01E01
@@ -1246,17 +1154,6 @@ https://cdn.alarab.com/h264/161662_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161704_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل المعالج النفسي",المعالج النفسيS01E03
 https://cdn.alarab.com/h264/161729_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المعالج النفسي",المعالج النفسيS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المعالج النفسي",المعالج النفسيS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المعالج النفسي",المعالج النفسيS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المعالج النفسي",المعالج النفسيS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المعالج النفسي",المعالج النفسيS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل المعالج النفسي",المعالج النفسيS01E0
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الصيف الأخير",الصيف الأخيرS01E01
 https://cdn.alarab.com/h264/161601_480p.mp4/index-v1-a1.m3u8
@@ -1264,34 +1161,9 @@ https://cdn.alarab.com/h264/161601_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161739_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الصيف الأخير",الصيف الأخيرS01E03
 https://cdn.alarab.com/h264/161904_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الصيف الأخير",الصيف الأخيرS01E04
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الصيف الأخير",الصيف الأخيرS01E05
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الصيف الأخير",الصيف الأخيرS01E06
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الصيف الأخير",الصيف الأخيرS01E07
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الصيف الأخير",الصيف الأخيرS01E08
-
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل بدون حكم",بدون حكمS01E01
 https://cdn.alarab.com/h264/161603_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل بدون حكم",بدون حكمS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل بدون حكم",بدون حكمS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل بدون حكم",بدون حكمS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل بدون حكم",بدون حكمS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل بدون حكم",بدون حكمS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل بدون حكم",بدون حكمS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل بدون حكم",بدون حكمS01E0
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل بدون حكم",بدون حكمS01E0
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل هذه هي قصتي",هذه هي قصتيS01E01
 https://cdn.alarab.com/h264/161602_480p.mp4/index-v1-a1.m3u8
@@ -1308,6 +1180,7 @@ https://cdn.alarab.com/h264/159507_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/159659_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل في السراء و الضراء",في السراء و الضراءS01E06
 https://cdn.alarab.com/h264/159796_480p.mp4/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E01
 https://cdn.alarab.com/h264/159079_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E02
@@ -1342,11 +1215,6 @@ https://cdn.alarab.com/h264/161356_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161526_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E17
 https://cdn.alarab.com/h264/161778_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E18
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل علي رضا",علي رضاS01E20
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E01
 https://cdn.alarab.com/h264/159631_480p.mp4/index-v1-a1.m3u8
@@ -1374,23 +1242,10 @@ https://cdn.alarab.com/h264/161443_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161582_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E13
 https://cdn.alarab.com/h264/161857_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E14
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E15
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E16
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E17
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E18
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الخائن",الخائنS01E20
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E01
 https://cdn.alarab.com/h264/154125_,72,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ألف",ألفS01E07
+
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E01
 https://cdn.alarab.com/h264/153485_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E02
@@ -1435,32 +1290,12 @@ https://cdn.alarab.com/h264/161568_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161665_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="السد",السدS01E22
 https://cdn.alarab.com/h264/161818_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E23
 
-#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E24
-
-#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E25
-
-#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E26
-
-#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E27
-
-#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E28
-
-#EXTINF:0 tvg-id="avi" group-title="السد",السدS01E29
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E01
 https://cdn.alarab.com/h264/158544_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E02
 https://cdn.alarab.com/h264/158550_,72,48,24,0p.mp4.urlset/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E03
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E04
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E05
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E06
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل التوبة",التوبةS01E07
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E01
 https://cdn.alarab.com/h264/158894_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E02
@@ -1497,18 +1332,6 @@ https://cdn.alarab.com/h264/161273_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161501_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E18
 https://cdn.alarab.com/h264/161609_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E20
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E21
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E22
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E23
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الغرفة الحمراء",الغرفة الحمراءS01E24
-
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E01
 https://cdn.alarab.com/h264/153163_,72,48,24,0p.mp4.urlset/playlist.m3u8
@@ -1526,9 +1349,6 @@ https://cdn.alarab.com/h264/159821_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/159953_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E08
 https://cdn.alarab.com/h264/160251_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E09
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل التركي المعلم",مسلسل التركي المعلمS01E10
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E01
 https://cdn.alarab.com/h264/157645_,72,48,24,0p.mp4.urlset/playlist.m3u8
@@ -1566,13 +1386,6 @@ https://cdn.alarab.com/h264/159660_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/159798_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E16
 https://cdn.alarab.com/h264/159934_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E17
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E18
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حب في العلّية",مسلسل حب في العلّيةS01E20
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E01
 https://cdn.alarab.com/h264/156883_,72,48,24,0p.mp4.urlset/playlist.m3u8
@@ -1602,6 +1415,7 @@ https://cdn.alarab.com/h264/159200_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/159346_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الرجل الخطأ",مسلسل الرجل الخطأS01E14
 https://cdn.alarab.com/h264/159493_480p.mp4/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E01
 https://cdn.alarab.com/h264/157628_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E02
@@ -1654,13 +1468,7 @@ https://cdn.alarab.com/h264/161508_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161632_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E26
 https://cdn.alarab.com/h264/161762_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E27
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E28
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E29
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل انت اطرق بابي",مسلسل انت اطرق بابيS01E30
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E01
 https://cdn.alarab.com/h264/158855_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E02
@@ -1679,17 +1487,6 @@ https://cdn.alarab.com/h264/159773_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/159911_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E09
 https://cdn.alarab.com/h264/160061_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E10
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E11
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E12
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E13
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E14
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل حياة جديدة",مسلسل حياة جديدةS01E15
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E01
 https://cdn.alarab.com/h264/159760_480p.mp4/index-v1-a1.m3u8
@@ -1697,23 +1494,7 @@ https://cdn.alarab.com/h264/159760_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/159913_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E03
 https://cdn.alarab.com/h264/160075_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E04
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E05
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E06
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E07
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E08
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E09
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E10
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E11
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل وعد شرف",مسلسل وعد شرفS01E12
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E01
 https://cdn.alarab.com/h264/159901_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E02
@@ -1736,23 +1517,7 @@ https://cdn.alarab.com/h264/161368_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161574_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E11
 https://cdn.alarab.com/h264/161809_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E12
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E13
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E14
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E15
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E16
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E17
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E18
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل جبل جونول",مسلسل جبل جونولS01E20
 #EXTINF:0 tvg-id="avi" group-title="إما الإستقلال أو الموت",إما الإستقلال أو الموتS01E01
 https://cdn.alarab.com/h264/153446_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="إما الإستقلال أو الموت",إما الإستقلال أو الموتS01E02
@@ -1763,12 +1528,14 @@ https://cdn.alarab.com/h264/153742_,72,48,24,0p.mp4.urlset/playlist.m3u8
 https://cdn.alarab.com/h264/154019_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="إما الإستقلال أو الموت",إما الإستقلال أو الموتS01E05
 https://cdn.alarab.com/h264/154138_,72,48,24,0p.mp4.urlset/playlist.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="الخادمات",الخادماتS01E01
 https://cdn.alarab.com/h264/153227_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="الخادمات",الخادماتS01E02
 https://cdn.alarab.com/h264/153376_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="الخادمات",الخادماتS01E03
 https://cdn.alarab.com/h264/153536_,72,48,24,0p.mp4.urlset/playlist.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="اذا ناداك الحب",اذا ناداك الحبS01E01
 https://cdn.alarab.com/h264/153398_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="اذا ناداك الحب",اذا ناداك الحبS01E02
@@ -1830,11 +1597,7 @@ https://cdn.alarab.com/h264/161427_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161578_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E26
 https://cdn.alarab.com/h264/161706_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E27
 
-#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E28
-
-#EXTINF:0 tvg-id="avi" group-title="العنقاء",العنقاءS01E29
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E01
 https://cdn.alarab.com/h264/152001_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS03E02
@@ -1925,13 +1688,6 @@ https://cdn.alarab.com/h264/161396_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161676_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E18
 https://cdn.alarab.com/h264/161659_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E19
-
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E20
-
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E21
-
-#EXTINF:0 tvg-id="avi" group-title="التفاح الحرام",التفاح الحرامS41E22
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 1
 https://cdn.alarab.com/h264/151632_,72,48,24,0p.mp4.urlset/playlist.m3u8
@@ -1987,11 +1743,7 @@ https://cdn.alarab.com/h264/161424_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161579_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 27
 https://cdn.alarab.com/h264/161860_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 28
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 29
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل منزلي",مسلسل منزلي 30
 #EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 1
 https://cdn.alarab.com/h264/152304_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 2
@@ -2018,19 +1770,6 @@ https://cdn.alarab.com/h264/153659_,72,48,24,0p.mp4.urlset/playlist.m3u8
 https://cdn.alarab.com/h264/153753_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 13
 https://cdn.alarab.com/h264/154186_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 14
-
-#EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 15
-
-#EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 16
-
-#EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 17
-
-#EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 18
-
-#EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 19
-
-#EXTINF:0 tvg-id="avi" group-title="العاجزون عن التشبث",العاجزون عن التشبث 20
 
 #EXTINF:0 tvg-id="avi" group-title="بابل",بابل 1
 https://cdn.alarab.com/h264/152161_,72,48,24,0p.mp4.urlset/playlist.m3u8
@@ -2072,6 +1811,7 @@ https://cdn.alarab.com/h264/160231_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/160363_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="بابل",بابل 20
 https://cdn.alarab.com/h264/160487_480p.mp4/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="زمهرير",زمهرير 1
 https://cdn.alarab.com/h264/152073_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="زمهرير",زمهرير 2
@@ -2092,6 +1832,7 @@ https://cdn.alarab.com/h264/153162_,72,48,24,0p.mp4.urlset/playlist.m3u8
 https://cdn.alarab.com/h264/153311_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="زمهرير",زمهرير 10
 https://cdn.alarab.com/h264/153481_,72,48,24,0p.mp4.urlset/playlist.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="رامو",رامو 1
 https://cdn.alarab.com/h264/152041_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامو",رامو 2
@@ -2148,9 +1889,6 @@ https://cdn.alarab.com/h264/161498_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161740_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="رامو",رامو 28
 https://cdn.alarab.com/h264/161903_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="رامو",رامو 29
-
-#EXTINF:0 tvg-id="avi" group-title="رامو",رامو 30
 
 #EXTINF:0 tvg-id="avi" group-title="الحمامة",الحمامة 1
 https://cdn.alarab.com/480/151032_480p.mp4/index-v1-a1.m3u8
@@ -2184,13 +1922,6 @@ https://cdn.alarab.com/h264/159804_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/159977_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="الحمامة",الحمامة 16
 https://cdn.alarab.com/h264/160088_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="الحمامة",الحمامة 17
-
-#EXTINF:0 tvg-id="avi" group-title="الحمامة",الحمامة 18
-
-#EXTINF:0 tvg-id="avi" group-title="الحمامة",الحمامة 19
-
-#EXTINF:0 tvg-id="avi" group-title="الحمامة",الحمامة 20
 
 #EXTINF:0 tvg-id="avi" group-title="الماضي العزيز",الماضي العزيز 1
 https://cdn.alarab.com/rs103594.mp4/index-v1-a1.m3u8
@@ -2208,6 +1939,7 @@ https://cdn.alarab.com/151052.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/151224.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="الماضي العزيز",الماضي العزيز 8
 https://cdn.alarab.com/151337.mp4/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="الرصاصة",الرصاصة 1
 https://cdn.alarab.com/150163.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="الرصاصة",الرصاصة 2
@@ -2222,6 +1954,7 @@ https://cdn.alarab.com/150796.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/150992.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="الرصاصة",الرصاصة 7
 https://cdn.alarab.com/151164.mp4/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي عزيزة",مسلسل التركي عزيزة 1
 https://cdn.alarab.com/150771.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي عزيزة",مسلسل التركي عزيزة 2
@@ -2234,6 +1967,7 @@ https://cdn.alarab.com/151392.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/151505_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل التركي عزيزة",مسلسل التركي عزيزة 6
 https://cdn.alarab.com/h264/151669_,72,48,24,0p.mp4.urlset/playlist.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E01زهرة الثالوث
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Zahrat.Elthaloot/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E02 زهرة الثالوث
@@ -2342,11 +2076,6 @@ https://cdn.alarab.com/h264/161250_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161571_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E54 زهرة الثالوث
 https://cdn.alarab.com/h264/161786_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E55 زهرة الثالوث
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E56 زهرة الثالوث
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E57 زهرة الثالوث
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E01 الطبيب المعجزة
 https://cdn.alarab.com/numeric/131568.mp4/index-v1-a1.m3u8
@@ -2440,14 +2169,6 @@ https://cdn.alarab.com/h264/161499_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161738_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E45 الطبيب المعجزة
 https://cdn.alarab.com/h264/161872_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E46 الطبيب المعجزة
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E47 الطبيب المعجزة
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E48 الطبيب المعجزة
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E49 الطبيب المعجزة
-
 
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 1
 https://cdn.alarab.com/151442.mp4/index-v1-a1.m3u8
@@ -2511,6 +2232,7 @@ https://cdn.alarab.com/h264/161141_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161407_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="حكيم اوغلو",حكيم اوغلو 31
 https://cdn.alarab.com/h264/161572_480p.mp4/index-v1-a1.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 1
 https://cdn.alarab.com/h264/152182_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 2
@@ -2583,7 +2305,6 @@ https://cdn.alarab.com/h264/161392_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161544_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 35
 https://cdn.alarab.com/h264/161810_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="ابنة السفير",ابنة السفير 36
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل البطل",البطل الحلقة 1
 https://cdn.alarab.com/h264/151830_480p.mp4/index-v1-a1.m3u8
@@ -2906,19 +2627,7 @@ https://cdn.alarab.com/h264/161561_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161515_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E13
 https://cdn.alarab.com/h264/161763_480p.mp4/index-v1-a1.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E14
 
-#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E15
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E16
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E17
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E18
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E19
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسل السلطان عبد الحميد",مسلسل عبدالحميدS05E20
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ابناء الاخوة",ابناء الاخوة الحلقة 1
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/Abnaa.Alekhwa/1.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ابناء الاخوة",ابناء الاخوة الحلقة 2
@@ -2953,7 +2662,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/Abnaa.Alekhwa/15.mp4/playlis
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/Abnaa.Alekhwa/16.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ابناء الاخوة",ابناء الاخوة الحلقة 17
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/Abnaa.Alekhwa/17.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسلسل ابناء الاخوة",ابناء الاخوة الحلقة 18 
+#EXTINF:0 tvg-id="avi" group-title="مسلسل ابناء الاخوة",ابناء الاخوة الحلقة 18
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/Abnaa.Alekhwa/18.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل ابناء الاخوة",ابناء الاخوة الحلقة 19
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/Abnaa.Alekhwa/19.mp4/playlist.m3u8
@@ -3028,7 +2737,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/kot/31.mp4/playlist.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/kot/32.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل كوت العمارة",كوت العمارة  S01E33
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/kot/33.mp4/playlist.m3u8
-
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الارض الطيبة",الارض الطيبة  S01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/land1/1.mp4/playlist.m3u8
@@ -3680,6 +3388,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/land4/84.mp4/playlist.m3u8
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/land4/85.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الارض الطيبة",الارض الطيبة  S04E86
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/land4/86.mp4/playlist.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee  الجزء الاول الحلقة الاخيرة
 https://cdn.alarab.com/480/127899_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل مافيا",Mafee_1
