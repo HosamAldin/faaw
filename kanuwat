@@ -25,6 +25,8 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/beinsportsxtra.png" group-title="قنوات بين سبور BEIN SPORT", beIN Sport Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",B السعودية رياضية 1
+https://verizon-me.cdn.booyah.live/hls/113138/40687494.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 1 HD
 https://verizon-me.cdn.booyah.live/hls/113138/40662302.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 2مباراة ليفربول ومانشستر يونايتد
