@@ -285,8 +285,6 @@ https://cdn.alarab.com/h264/158093_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158097_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم ساعة رضا HD انتاج 2019
 https://cdn.alarab.com/h264/158100_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم إن بارادوكس
-https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/movies/in-baraduks/in-baraduks-h264.mp4
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم نورا تحلم HD انتاج 2019
 https://cdn.alarab.com/h264/157255_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم عودة من 2038 HD انتاج 2019
@@ -814,10 +812,6 @@ https://cdn.alarab.com/h264/158404_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxt
 https://cdn.alarab.com/h264/158417_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",Project Power
 https://cdn.alarab.com/h264/158478_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",DeepBlueSea3
-http://95.170.215.118:84/vod1/EnglishMovies/2020/DeepBlueSea3-Ar-Srt.mp4
-#EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",Before.The.Fire.2020
-http://ramdan.ipsat.me:81/Mix/Mov_4/Before.The.Fire.2020.1080p.WEB-DL.ArbLionZ.TV.BY.KOKO.mp4
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",The Tax Collector
 https://cdn.alarab.com/h264/158405_,72,48,24,0p.mp4.urlset/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",Waiting for the Barbarians
