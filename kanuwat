@@ -25,22 +25,7 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/beinsportsxtra.png" group-title="قنوات بين سبور BEIN SPORT", beIN Sport Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",B السعودية رياضية 1
-https://verizon-me.cdn.booyah.live/hls/113134/40692587.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",B السعودية رياضية 1
-http://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/RWppfJDc7JN0woKh_susobWiemVoEj4RgW2l07PchypbuxoXNz0Y6rbgYnqxZuAZMlOR9Mn-PgoWpNlHgT3dpw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",B السعودية رياضية 1
-http://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/RWppfJDc7JN0woKh_susobWiemVoEj4RgW2l07PchypbuxoXNz0Y6rbgYnqxZuAZMlOR9Mn-PgoWpNlHgT3dpw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 1 HD
-https://verizon-me.cdn.booyah.live/hls/113138/40662302.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 2مباراة ليفربول ومانشستر يونايتد
-https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 2مباراة ليفربول ومانشستر يونايتد
-https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 2مباراة ليفربول ومانشستر يونايتد
-https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 2مباراة ليفربول ومانشستر يونايتد
-https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",B
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="قنوات بين سبور BEIN SPORT",BEIN​ SPORT​1 HD
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
