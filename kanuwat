@@ -25,10 +25,6 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/beinsportsxtra.png" group-title="قنوات بين سبور BEIN SPORT", beIN Sport Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 1تعمل وقت المبارات المهمة
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 2تعمل وقت المبارات المهمة
-http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 3مباراة ليفربول ومانشستر يونايتد
 https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bein 4مباراة ليفربول ومانشستر يونايتد
