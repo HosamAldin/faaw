@@ -1403,10 +1403,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/wadsydalshaghal.mp4/pl
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/mtjwjoon.mp4/playlist.m3u8?airmaxtv.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR:alza3eem
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/movies/alza3eem.mp4/playlist.m3u8?airmaxtv.m3u8
-#EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR: مسرحية هلا الخميس
-http://kareem.ipsat.me/theater/Hala.Bil.Khamees.mp4
-#EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR: مسرحية ليلة زفتة
-https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/movies/laylat-zifat/laylat-zifat.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR: مسرحية تسجيل دخول
 https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/series/earabi/tasjil-dukhul/tasjil-dukhul.mp4
 #EXTINF:0 tvg-id="avi" group-title="مسرحيات",AR: ما في متلو - مسرحية Show
