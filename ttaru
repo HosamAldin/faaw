@@ -31,15 +31,15 @@ https://cdn.alarab.com/h264/161551_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161679_480p.mp4/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="vod مسلسل المؤسس عثمان",الحلقةS01E01
-https://cdn.alarab.com/hdiphone/150792.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/numeric/150792.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="vod مسلسل المؤسس عثمان",الحلقةS01E02
-https://cdn.alarab.com/hdiphone/150995.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/numeric/150995.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="vod مسلسل المؤسس عثمان",الحلقةS01E03
-https://cdn.alarab.com/hdiphone/151153.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/numeric/151153.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="vod مسلسل المؤسس عثمان",الحلقةS01E04
 https://cdn.alarab.com/h264/151653_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="vod مسلسل المؤسس عثمان",الحلقةS01E05
-https://cdn.alarab.com/hdiphone/151458.mp4/index-v1-a1.m3u8
+https://cdn.alarab.com/numeric/151458.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="vod مسلسل المؤسس عثمان",الحلقةS01E06
 https://cdn.alarab.com/h264/151522_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3sFl4ya" group-title="vod مسلسل المؤسس عثمان",الحلقةS01E07
@@ -898,7 +898,8 @@ https://cdn.alarab.com/h264/161529_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161635_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35Su0qy" group-title="vod مسلسل اتصل بمدير أعمالي",الحلقةS01E20
 https://cdn.alarab.com/h264/161782_480p.mp4/index-v1-a1.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35Su0qy" group-title="vod مسلسل اتصل بمدير أعمالي",الحلقةS01E21
+https://cdn.alarab.com/h264/161937_480p.mp4/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35Su0qy" group-title="vod مسلسل نجمة الشمال",الحلقةS01E01
 https://cdn.alarab.com/480/132139_480p.mp4/index-v1-a1.m3u8
@@ -994,7 +995,8 @@ https://cdn.alarab.com/h264/161307_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161507_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35Su0qy" group-title="vod مسلسل نجمة الشمال",الحلقةS01E46
 https://cdn.alarab.com/h264/161906_480p.mp4/index-v1-a1.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/35Su0qy" group-title="vod مسلسل نجمة الشمال",الحلقةS01E47
+https://cdn.alarab.com/h264/161906_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qDTQ9H" group-title="vod مسلسل ماريا ومصطفى",الحلقةS01E01
 https://cdn.alarab.com/h264/158911_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qDTQ9H" group-title="vod مسلسل ماريا ومصطفى",الحلقةS01E02
@@ -2072,6 +2074,8 @@ https://cdn.alarab.com/h264/161250_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161571_480p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E54 زهرة الثالوث
 https://cdn.alarab.com/h264/161786_480p.mp4/index-v1-a1.m3u8
+#EXTINF:0 tvg-id="avi" group-title="مسلسل زهرة الثالوث",S02E55 زهرة الثالوث
+https://cdn.alarab.com/h264/161927_480p.mp4/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-id="avi" group-title="مسلسل الطبيب المعجزة",S01E01 الطبيب المعجزة
 https://cdn.alarab.com/numeric/131568.mp4/index-v1-a1.m3u8
