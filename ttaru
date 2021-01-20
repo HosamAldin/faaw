@@ -2348,7 +2348,7 @@ https://cdn.alarab.com/h264/152766_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nZYvAP" group-title="vod مسلسل البطل",الحلقة 22
 https://cdn.alarab.com/h264/153098_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nZYvAP" group-title="vod مسلسل البطل",الحلقة 23
-https://cdn.alarab.com/h264/153239_,72,48,24,0p.mp4.urlset/playlist.m3u8
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/Sampiyon.2019/23.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nZYvAP" group-title="vod مسلسل البطل",الحلقة 24
 https://cdn.alarab.com/h264/153422_,72,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3nZYvAP" group-title="vod مسلسل البطل",الحلقة 25
