@@ -26,7 +26,24 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-logo="https://kamiselaluada.com/img/beinsportsxtra.png" group-title="قنوات بين سبور BEIN SPORT", beIN Sport Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",B
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bليفربول ضد بيرنلي
+https://d3tni6f70yby33.cloudfront.net/out/v1/dbdb8b5e45804ca1b19ff5e808982f8d/index_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bليفربول ضد بيرنلي
+https://d3tni6f70yby33.cloudfront.net/out/v1/dbdb8b5e45804ca1b19ff5e808982f8d/index_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bليفربول ضد بيرنلي
+https://d3tni6f70yby33.cloudfront.net/out/v1/dbdb8b5e45804ca1b19ff5e808982f8d/index_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bليفربول ضد بيرنلي
+https://d3tni6f70yby33.cloudfront.net/out/v1/dbdb8b5e45804ca1b19ff5e808982f8d/index_4.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bبرشلونه ضد كورنيا
+https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bبرشلونه ضد كورنيا
+https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bبرشلونه ضد كورنيا
+https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات بين سبور BEIN SPORT",Bبرشلونه ضد كورنيا
+https://d3rayo3ww0946y.cloudfront.net/out/v1/2f4acd87390b470e9665f1087958c054/index_4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="قنوات بين سبور BEIN SPORT",BEIN​ SPORT​1 HD
 https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
