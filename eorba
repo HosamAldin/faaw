@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",▂ ▄ ▅ ▆☆ TURKEY TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",▂ ▄ ▅ ▆☆ TURKEY TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="TURKEY",Show
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
@@ -19,239 +19,240 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i4.hurimg.com/i/hurriyet/75/750x422/58d4ae6cc9de3d1618e65034.jpg" group-title="TURKEY",TV 8.5 
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",Star TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Star TV
 https://lcgid8xu.rocketcdn.com/startvhd.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",YOL TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",MERKEZ TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",MERKEZ TV
 http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklistsltur.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",BURSA TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",BURSA TV
 https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",CAY TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",CAY TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",VIZYON 58
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",VIZYON 58
 https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",TRT-eba-tv-ilkokul
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT-eba-tv-ilkokul
 https://tv-e-okul00.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",TRT-eba-tv-ortaokul
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT-eba-tv-ortaokul
 https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",TRT-eba-tv-lise
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT-eba-tv-lise
 https://tv-e-okul02.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",EURO STAR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",EURO STAR
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Ntv HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Ntv HD
 http://nt4p9nef.rocketcdn.com/ntvhd.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: türkmeneli TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR: türkmeneli TV
 http://116.203.71.169/hls/stream1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-Kanal 7 HD-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR-Kanal 7 HD-
 http://livede.gostream.nl/kanal7hq/kanal7hq/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv -2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",atv -2
 http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:0 tvg-id="ATV.am" group-title="TURKEY",atv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",atv
 http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv -4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",atv -4
 http://85.132.81.184:8080/atv-4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",ATV HD (AZ)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",ATV HD (AZ)
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Akilli TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Akilli TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Al-Zahra TV Turkic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Al-Zahra TV Turkic
 https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Beşiktaş Web TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Beşiktaş Web TV
 http://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:BRT 1 (Kıbrıs)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:BRT 1 (Kıbrıs)
 http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:BRT 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:BRT 2
 http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Bursa TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Bursa TV
 https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Can TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Can TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:CRI Turk Belgesel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:CRI Turk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:DMAX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Finans Turk TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Guneydoğu TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Guneydoğu TV
 http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Kanal 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Kanal 3
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="KralTV.tr" group-title="TURKEY",TR:Kral TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Kral TV
 http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Natural TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Natural TV
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:0 tvg-id="NTV.tr" group-title="TURKEY",TR:NTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:ON4 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Rudaw
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:Star TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR:TBMM TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:TBMM TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:0 tvg-id="CNBC-E.tr" group-title="TURKEY",TR:TLC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TR:TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Akit TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Al-Zahra TV Turkic
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Al-Zahra TV Turkic
 https://live.al-zahratv.com/live/playlist2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Beşiktaş Web TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Beşiktaş Web TV
 http://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",BRT 1 (Kıbrıs)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",BRT 1 (Kıbrıs)
 http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",BRT 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",BRT 2
 http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Bursa TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Bursa TV
 https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Can TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Can TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",CRI Turk Belgesel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",CRI Turk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
-#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="TURKEY",DMAX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Doğuş TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Doğuş TV
 http://s01.vpis.io/dogustv/dogustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",ETV Manisa
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",ETV Manisa
 https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",EuroStar
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",EuroStar
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Finans Turk TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Guneydoğu TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Guneydoğu TV
 http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",IBB TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",IBB TV
 rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Istanbul Metropolitan Municipality
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Istanbul Metropolitan Municipality
 http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
 #EXTINF:0 tvg-id="Kanal3.bg" group-title="TURKEY",Kanal 3
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Kon TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Kon TV
 https://59cba4d34b678.streamlock.net/live/kontv/chunklist.m3u8
-#EXTINF:0 tvg-id="tlc-russia" group-title="TURKEY",TLC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklistsltur.m3u8
-#EXTINF:0 tvg-id="TRT1.tr" group-title="TURKEY",TRT 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="KralPop.tr" group-title="TURKEY",Kral Pop
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Kral Pop
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:0 tvg-id="KralTV.tu" group-title="TURKEY",Kral TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Kral TV
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Med Muzîk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Natural TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Natural TV
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="TURKEY",TRT Muzik
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRTturk.tr" group-title="TURKEY",TRT Türk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="ntv" group-title="TURKEY",NTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",NTV
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",ON4 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",Rudaw
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="Start.tr" group-title="TURKEY",Star TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TBMM TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TBMM TV
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="TURKEY",TGRT Belgesel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
-#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="TURKEY",TGRT Haber
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TGRT Haber
 http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",tivi TÜRK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="TURKEY",TRT Arabi
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="TURKEY",TRT Avaz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT Avaz
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRTHaber.tr" group-title="TURKEY",TRT Haber
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRTKurdi.tr" group-title="TURKEY",TRT Kurdi
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRTWorld.uk" group-title="TURKEY",TRT World
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="UcankusTV.tr" group-title="TURKEY",UçanKuş TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="TURKEY",TRT Cocuk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" group-title="",TLC
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" group-title="TURKEY",TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
-#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="TURKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvnet_Logo.jpg" group-title="",TVNET
+#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" tvg-language="TURKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvnet_Logo.jpg" group-title="TURKEY",TVNET
 https://canli.ensonhaber.com/tr/tvnet/index.m3u8
-#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="TURKEY" tvg-logo="https://canlitv.com/resimler/blog/360-tv-frekans-bilgileri.jpg" group-title="",360 TV
+#EXTINF:-1 tvg-id="360 TV (TR)" tvg-name="360 TV (TR)" tvg-language="TURKEY" tvg-logo="https://canlitv.com/resimler/blog/360-tv-frekans-bilgileri.jpg" group-title="TURKEY",360 TV
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="TURKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/TRT_Belgesel_logosu.png" group-title="",TRT Belgesel 
+#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-language="TURKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/TRT_Belgesel_logosu.png" group-title="TURKEY",TRT Belgesel 
 https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" group-title="",Natural TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" group-title="TURKEY",Natural TV
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/Jq49Y1g/uHAGsRk.png" group-title="",Kanal 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Jq49Y1g/uHAGsRk.png" group-title="TURKEY",Kanal 3
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://www.vizyontv.eu/wp-content/uploads/2020/06/logo-1024x363.png" group-title="",Vizyon TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vizyontv.eu/wp-content/uploads/2020/06/logo-1024x363.png" group-title="TURKEY",Vizyon TV
 https://vizyontv.yayin.com.tr/vizyontv/vizyontv/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5df3cd52866ac30eac569581" group-title="",BLUTV Aksiyon
+#EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5df3cd52866ac30eac569581" group-title="TURKEY",BLUTV Aksiyon
 https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/480x480/5df3cdaf866ac30eac56958e" group-title="",BLUTV Komedi
+#EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/480x480/5df3cdaf866ac30eac56958e" group-title="TURKEY",BLUTV Komedi
 https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
-#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/hWTdMQ6/K8Vh6HD.png" group-title="",TGRT Haber
+#EXTINF:-1 tvg-id="TGRT Haber" tvg-name="TGRT Haber" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/hWTdMQ6/K8Vh6HD.png" group-title="TURKEY",TGRT Haber
 https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg" group-title="",ON4 TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg" group-title="TURKEY",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2y8cng4w77xg.png" group-title="",CRI Türk Dizi
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2y8cng4w77xg.png" group-title="TURKEY",CRI Türk Dizi
 http://cri.aa.net.tr:1935/dizi/dizi/chunklist.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="TURKEY" tvg-logo="https://vdz2wnf1.rocketcdn.com/upload/18-03/16/dmaxturkiye.jpg" group-title="",DMAX
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-language="TURKEY" tvg-logo="https://vdz2wnf1.rocketcdn.com/upload/18-03/16/dmaxturkiye.jpg" group-title="TURKEY",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="TRT AVAZ" tvg-name="TRT AVAZ" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" group-title="",TRT Avaz
+#EXTINF:-1 tvg-id="TRT AVAZ" tvg-name="TRT AVAZ" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" group-title="TURKEY",TRT Avaz
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="",TRT Haber
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="TURKEY",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="TURKEY" tvg-logo="https://cdn.ucankus.com/images/ucankus-logo-640.jpg" group-title="",UçanKuş TV
+#EXTINF:-1 tvg-id="Uçankuş TV" tvg-name="Uçankuş TV" tvg-language="TURKEY" tvg-logo="https://cdn.ucankus.com/images/ucankus-logo-640.jpg" group-title="TURKEY",UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://www.finansturktv.com/images/logo/yok.jpg" group-title="",Finans Turk TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.finansturktv.com/images/logo/yok.jpg" group-title="TURKEY",Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="",Beşiktaş Web TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="TURKEY",Beşiktaş Web TV
 https://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" group-title="",TBMM TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" group-title="TURKEY",TBMM TV
 https://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 tvg-id="TRT TÜRK" tvg-name="TRT TÜRK" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" group-title="",TRT Türk
+#EXTINF:-1 tvg-id="TRT TÜRK" tvg-name="TRT TÜRK" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" group-title="TURKEY",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="",TRT World
+#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="TURKEY",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="KRAL POP TV" tvg-name="KRAL POP TV" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/7v8wmsb/7H8WKei.png" group-title="",Kral Pop
+#EXTINF:-1 tvg-id="KRAL POP TV" tvg-name="KRAL POP TV" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/7v8wmsb/7H8WKei.png" group-title="TURKEY",Kral Pop
 https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="Kral TV" tvg-name="Kral TV" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" group-title="",Kral TV
+#EXTINF:-1 tvg-id="Kral TV" tvg-name="Kral TV" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" group-title="TURKEY",Kral TV
 https://mid5dg6m.rocketcdn.com/kraltv_720/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="",TRT Muzik
+#EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="TURKEY",TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" group-title="",Med Muzîk
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" group-title="TURKEY",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/CMMB6nk/zzX2cW3.png" group-title="",Guneydoğu TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CMMB6nk/zzX2cW3.png" group-title="TURKEY",Guneydoğu TV
 http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/d0T2jfg/ibb-tv-logo-white.png" group-title="",IBB TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/d0T2jfg/ibb-tv-logo-white.png" group-title="TURKEY",IBB TV
 http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
-#EXTINF:-1 tvg-id="Kontv" tvg-name="Kontv" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/KjVF97d/D8uqiZD.jpg" group-title="",Kon TV
+#EXTINF:-1 tvg-id="Kontv" tvg-name="Kontv" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/KjVF97d/D8uqiZD.jpg" group-title="TURKEY",Kon TV
 https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/Gdb8yX4/xyubJha.png" group-title="",Doğuş TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Gdb8yX4/xyubJha.png" group-title="TURKEY",Doğuş TV
 https://s01.vpis.io/dogustv/dogustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="",ETV Manisa
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="TURKEY",ETV Manisa
 https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/nm59LwX/ZbkdWg9.png" group-title="",Diyalog TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nm59LwX/ZbkdWg9.png" group-title="TURKEY",Diyalog TV
 https://59cba4d34b678.streamlock.net/live/diyalogtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" group-title="",Afyon Turk TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" group-title="TURKEY",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="",Akit TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="TURKEY",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" group-title="",Altaş TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" group-title="TURKEY",Altaş TV
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/N2Yc8Yf/k6DUajb.png" group-title="",Bursa TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N2Yc8Yf/k6DUajb.png" group-title="TURKEY",Bursa TV
 https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" group-title="",Can TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" group-title="TURKEY",Can TV
 http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" group-title="",Cay TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" group-title="TURKEY",Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="TURKEY" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2y8cng4w77xg.png" group-title="",CRI Türk Belgesel
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2y8cng4w77xg.png" group-title="TURKEY",CRI Türk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",▂ ▄ ▅ ▆☆ DEUTSCH TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",▂ ▄ ▅ ▆☆ DEUTSCH TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-logo="" group-title="DEUTSCH",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
@@ -283,253 +284,253 @@ http://5.135.92.133:52841/out/u/124_1.m3u8
 
 #EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",de:Das Erste
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",de:HR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",de:HR
 http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-Baden-TV+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-Baden-TV+
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Campus-TV-Magdeburg+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Campus-TV-Magdeburg+
 http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8?bitrate=800
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-Deutsche-Welle+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-Deutsche-Welle+
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-HR-Fernsehen+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-HR-Fernsehen+
 http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-Isar-TV+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-Isar-TV+
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-MDF.1+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-MDF.1+
 http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-Noa-4-Norderstedt+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-Noa-4-Norderstedt+
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-Noa-4-Hamburg+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-Noa-4-Hamburg+
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-Offener-Kanal-Magdeburg+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-Offener-Kanal-Magdeburg+
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8?bitrate=800
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-tagesschau24+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-tagesschau24+
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-Telebasel+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DE-Telebasel+
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/chunklist_w210250868.m3u8
 #EXTINF:0 tvg-id="3sat.de" group-title="DEUTSCH",de dwstream72
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:0 tvg-id="Kika.de" group-title="DEUTSCH",de KiKA
 https://kika-lh.akamaihd.net/i/livetvkika_ww@72295/index_1992_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",de KRONEHIT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",de KRONEHIT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:0 tvg-id="ndr.de" group-title="DEUTSCH",de NDR
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
 #EXTINF:0 tvg-id="HR.de" group-title="DEUTSCH",de Hr
 https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",de Pearl
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",de Pearl
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/stream3/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",de Tagesschau
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",de Tagesschau
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ch Tele M1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",ch Tele M1
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ch Tele Bärn
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",ch Tele Bärn
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Baden TV (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Baden TV (Opt-1)
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Baden TV (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Baden TV (Opt-2)
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",BLK TV Hohenmölsen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",BLK TV Hohenmölsen
 http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Campus TV Magdeburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Campus TV Magdeburg
 http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Chemnitz Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Chemnitz Fernsehen
 http://chemnitz.iptv-playoutcenter.de:1935/chemnitz/chemnitzfernsehen.stream_2/playlist.m3u8
 #EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",Das Erste
 https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DASDING 90.8 FM Stuttgart
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DASDING 90.8 FM Stuttgart
 http://swrdasding-lh.akamaihd.net/i/dasdingvisual_live@6416/index_1800_av-p.m3u8
 #EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="DEUTSCH",Deluxe Music
 http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Deutsche Welle (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Deutsche Welle (Opt-1)
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Deutsche Welle (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Deutsche Welle (Opt-2)
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Deutsche Welle (Opt-3)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Deutsche Welle (Opt-3)
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Deutsche Welle (Opt-4)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Deutsche Welle (Opt-4)
 http://ott-cdn.ucom.am/s26/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Deutsche Welle (Opt-5)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Deutsche Welle (Opt-5)
 http://45.126.83.51/qwr9ew/s/s26/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Deutsches Musik Fernsehen (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Deutsches Musik Fernsehen (Opt-1)
 http://tv.artcom-venture.de:1322/dmf/tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Deutsches Musik Fernsehen (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Deutsches Musik Fernsehen (Opt-2)
 http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Donau TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Donau TV
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Dresden Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Dresden Fernsehen
 http://dresden.iptv-playoutcenter.de:1935/dresden/dresdenfernsehen.stream_2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DRF1 Mittelrhein (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DRF1 Mittelrhein (Opt-1)
 http://sdn-global-live-http-cache.3qsdn.com/live/5713-mbr.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DRF1 Mittelrhein (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DRF1 Mittelrhein (Opt-2)
 http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Elbekanal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ERF 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",ERF 1
 https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/chunklist_b18848000_slde.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Erz-TV Stollberg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Erz-TV Stollberg
 http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Filstalwelle
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Filstalwelle
 http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="Frankensat.de" group-title="DEUTSCH",Franken Fernsehen
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Friesischer Rundfunk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Friesischer Rundfunk
 http://58e5fdd27293a.streamlock.net:1935/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Folx TV (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Folx TV (Opt-1)
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Folx TV (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Folx TV (Opt-2)
 http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
 #EXTINF:0 tvg-id="H1.am" group-title="DEUTSCH",H1
 http://livestream.htp.tv/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",HD Campus TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",HD Campus TV
 https://video.uni-freiburg.de:1936/live/smil:hdcampus.smil/chunklist_w805273257_b5256000_slde.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",HR Fernsehen (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",HR Fernsehen (Opt-1)
 http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",HR Fernsehen (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",HR Fernsehen (Opt-2)
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:0 tvg-id="intv.de" group-title="DEUTSCH",INTV
 https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Isar TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Isar TV
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",KabelJournal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",KabelJournal
 http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",kulturmdTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",kulturmdTV
 http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",L-TV Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",L-TV Fernsehen
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/chunklist_w2029534871.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Main.TV Frankfurt 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Main.TV Frankfurt 1
 https://maintv.iptv-playoutcenter.de/maintv/maintv.stream_1/chunklist_w85915142.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Main.TV Frankfurt 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Main.TV Frankfurt 2
 http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",MagentaMusik 360
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",MagentaMusik 360
 http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",MDF 1 Magdeburg (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",MDF 1 Magdeburg (Opt-1)
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",MDF 1 Magdeburg (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",MDF 1 Magdeburg (Opt-2)
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Munchen TV 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Munchen TV 1
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Munchen TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Munchen TV 2
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",MyTVplus
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",MyTVplus
 rtmp://62.67.13.54:1935/MyTVplus/mtvp_livestream_2.stream
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Nahe TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Nahe TV
 rtmp://stream-cdn.ok54.de:1935/tv/nahetv
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Hamburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",NDR Hamburg
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Mecklenburg-Vorpommern
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",NDR Mecklenburg-Vorpommern
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Niedersachsen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NDR Schleswig-Holstein
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",NDR Schleswig-Holstein
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Noa 4 Norderstedt
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Noa 4 Norderstedt
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Noa 4 Hamburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Noa 4 Hamburg
 http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",NRWision
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",NRWision
 https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist_w1070249849.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Oberpfalz TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Oberpfalz TV
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Offener Kanal Dessau
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Offener Kanal Dessau
 http://62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Offener Kanal Magdeburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Offener Kanal Magdeburg
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Offener Kanal Merseburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Offener Kanal Merseburg
 http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Offener Kanal Salzwedel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Offener Kanal Salzwedel
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Offener Kanal Stendal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Offener Kanal Stendal
 http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Offener Kanal Weinstrasse
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Offener Kanal Weinstrasse
 rtmp://stream-cdn.ok54.de:1935/tv/okweinstrasse
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",OK4 Koblenz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",OK4 Koblenz
 http://stream-cdn.ok54.de/hls/ok4.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",OK54 Burgerrundfunk
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",OK54 Burgerrundfunk
 http://stream-cdn.ok54.de/hls/ok54.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Oldenburg Eins TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Oldenburg Eins TV
 http://188.40.16.94:1935/live/studio/chunklist_w27232713.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Parlamentsfernsehen 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Parlamentsfernsehen 1
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Parlamentsfernsehen 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Potsdam TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Potsdam TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Punktum Südharz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Punktum Südharz
 http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",QVC Deutschland
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",QVC Deutschland
 http://ios-stream.qvc.de/qvc.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Radio 21 Hannover
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Radio 21 Hannover
 http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Radio Weser TV Bremen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",RAN1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",RAN1
 http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",RBW
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",RBW
 http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Regio TV Bodensee
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Regio TV Bodensee
 https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Regio TV Schwaben
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Regio TV Schwaben
 http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Regio TV Stuttgart
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Regio TV Stuttgart
 https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",RFH Harz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",RFH Harz
 http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",RFO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Rhein-Neckar Fernsehen (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Rhein-Neckar Fernsehen (Opt-1)
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Rhein-Neckar Fernsehen (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Rhein-Neckar Fernsehen (Opt-2)
 http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Rheinmain TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Rheinmain TV
 http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8
 #EXTINF:0 tvg-id="RTL.de" group-title="DEUTSCH",RTL
 http://95.107.132.104/out/u/115_1.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Saarland Fernsehen 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Saarland Fernsehen 1
 http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Saarland Fernsehen 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Saarland Fernsehen 2
 http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sonnenklar TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Sonnenklar TV
 http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sonus FM TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",SWR 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",SWR 3
 http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",SYLT1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",SYLT1
 http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="tagesschau24.de" group-title="DEUTSCH",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Tele Regional Passau 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Tele Regional Passau 1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV38 Salzgitter
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV38 Salzgitter
 https://5857499ee635b.streamlock.net/tv38-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Berlin
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Berlin
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Halle
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Halle
 http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Mainfranken (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Mainfranken (Opt-1)
 http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Mainfranken (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Mainfranken (Opt-2)
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Mittelrhein
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Mittelrhein
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
 #EXTINF:0 tvg-id="tvo.de" group-title="DEUTSCH",TV Oberfranken
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV38 Sudost-Niedersachen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV38 Sudost-Niedersachen
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TVA Ostbayern
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TVA Ostbayern
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Unserding
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Unserding
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="WeltDerWunder.de" group-title="DEUTSCH",Welt Der Wunder
 http://live.vidoo.de/live/weltderwunder/chunklist_w178583966.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Westerwald TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
 #EXTINF:0 tvg-id="WDR.de" group-title="DEUTSCH",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",WMZ TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",WMZ TV
 rtmp://62.67.13.53:1935/wmzsenftenberg/live.stream
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",WTV Wettin
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",WTV Wettin
 http://62.113.210.250:1935/medienasa-live/ok-wettin_high/playlist.m3u8?fluxustv.m3u8
 #EXTM3U
 #EXTINF:0 tvg-id="ARD.de" group-title="DEUTSCH",Das Erste HD
@@ -548,7 +549,7 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
 http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8
 #EXTINF:0 tvg-id="rbbBerlin.de" group-title="DEUTSCH",rbb Berlin HD
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",MDR Thüringen HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",MDR Thüringen HD
 http://mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/index_3776_av-p.m3u8
 #EXTINF:0 tvg-id="ARTE.de" group-title="DEUTSCH",ARTE HD
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-b.m3u8
@@ -584,7 +585,7 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
 #EXTINF:0 tvg-id="rbbBerlin.de" group-title="DEUTSCH",rbb Brandenburg HD
 https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_5_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",MDR Sachsen HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",MDR Sachsen HD
 http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-b.m3u8
 #EXTINF:0 tvg-id="MDRS-Anhalt.de" group-title="DEUTSCH",MDR Sachsen-Anhalt HD
 http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8
@@ -596,81 +597,81 @@ http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 #EXTINF:0 tvg-id="DeutscheWelleEN.de" group-title="DEUTSCH",Deutsche Welle (EN)
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Parlamentsfernsehen 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Parlamentsfernsehen 1
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Parlamentsfernsehen 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="DEUTSCH",Sky Sport News HD
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/mastervideo-3400.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sylt1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Sylt1
 https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",noa4 Norderstedt HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",noa4 Norderstedt HD
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",noa4 Hamburg HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",noa4 Hamburg HD
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:0 tvg-id="Hamburg1.de" group-title="DEUTSCH",Hamburg 1
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:7651-sbr.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",oldenburg eins
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",oldenburg eins
 http://188.40.16.94:1935/live/studio/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ALEX Berlin
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",ALEX Berlin
 https://alex-net-02.rosebud-media.de/bounce/alexlivetv30.smil/playlist.m3u8
 #EXTINF:0 tvg-id="TVBerlin.de" group-title="DEUTSCH",tv.berlin
 https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Potsdam TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Potsdam TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Leipzig Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Chemnitz Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Chemnitz Fernsehen
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Dresden Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Dresden Fernsehen
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",nrwision
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",nrwision
 https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8nrwision
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",OK Koblenz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",OK Koblenz
 http://stream-cdn.ok54.de/hls/ok4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",OK Trier
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",OK Trier
 http://stream-cdn.ok54.de/hls/ok54.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Mittelrhein
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Mittelrhein
 https://sdn-global-live-http-cache.3qsdn.com/2979/amlst:5714-sbr/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Westerwald TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",main.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",main.tv
 http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
 #EXTINF:0 tvg-id="rheinmaintv.de" group-title="DEUTSCH",rheinmaintv
 https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Rhein Neckar Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Rhein Neckar Fernsehen
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Baden TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Baden TV
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="MunchenTV.de" group-title="DEUTSCH",münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="FrankenTV.de" group-title="DEUTSCH",Franken Fernsehen
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Oberpfalz TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Oberpfalz TV
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Regio TV Schwaben
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Regio TV Schwaben
 http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Würzburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Würzburg
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Isar TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Isar TV
 https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Donau TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Donau TV
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",allgäu.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",allgäu.tv
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DRF1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DRF1
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5713-mbr.smil/chunklist_b2000000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",eRtv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",eRtv
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5679_nYMRJQdgpK3WDGr/playlist.m3u8
 #EXTINF:0 tvg-id="intv.de" group-title="DEUTSCH",intv
 https://ingolstadttv.iptv-playoutcenter.de/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",KabelJournal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",KabelJournal
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:0 tvg-id="Oberbayern.de" group-title="DEUTSCH",RFO
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TRP1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TRP1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Touring
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Touring
 https://tvtourings.iptv-playoutcenter.de/tvtourings/tvtourings.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="TVANetworks.fr" group-title="DEUTSCH",TVA
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
@@ -683,21 +684,21 @@ https://tv.artcom-venture.de/dmf/tv_720.m3u8
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:0 tvg-id="EWTN.de" group-title="DEUTSCH",EWTN katholisches TV
 http://d3j0n5al39mfyd.cloudfront.net/p/GERG_1920x1080_4000k.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ERF 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",ERF 1
 http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",health.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",health.tv
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:0 tvg-id="123.tv.de" group-title="DEUTSCH",1-2-3.tv
 http://123tv.cdn.ses-ps.com/stream070101/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",pearl.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",pearl.tv
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
 #EXTINF:0 tvg-id="QVC.de" group-title="DEUTSCH",QVC
 http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
 #EXTINF:0 tvg-id="QVCPlus.de" group-title="DEUTSCH",QVC PLUS
 http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",QVC Beauty & Style
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",QVC Beauty & Style
 http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Genius Plus TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Genius Plus TV
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ServusHD.de" group-title="DEUTSCH",ServusTV HD
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
@@ -709,87 +710,87 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/playlist.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
 #EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="DEUTSCH",DELUXE MUSIC
 http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",nice
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",nice
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="FolxTV.de" group-title="DEUTSCH",Folx TV
 http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
 #EXTINF:0 tvg-id="a.tv.de" group-title="DEUTSCH",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",nice
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",nice
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:4195-mbr.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",health.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",health.tv
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",VISIT-X.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",VISIT-X.tv
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",pearl.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",pearl.tv
 http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",QVC Beauty & Style
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",QVC Beauty & Style
 http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Genius Plus TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Genius Plus TV
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",ALEX Berlin
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",ALEX Berlin
 https://alex-net-02.rosebud-media.de/bounce/alexlivetv30.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",allgäu.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",allgäu.tv
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Baden TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Baden TV
 http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Chemnitz Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Chemnitz Fernsehen
 https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DRF1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DRF1
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5713-mbr.smil/chunklist_b2000000.m3u8DRF1
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Donau TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Donau TV
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Dresden Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Dresden Fernsehen
 https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",eRtv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",eRtv
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5679_nYMRJQdgpK3WDGr/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Isar TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Isar TV
 https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",KabelJournal
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",KabelJournal
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",L-TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",L-TV
 https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:ltv-live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Leipzig Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",main.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",main.tv
 http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",noa4 Hamburg HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",noa4 Hamburg HD
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",noa4 Norderstedt HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",noa4 Norderstedt HD
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",nrwision
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",nrwision
 https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Oberpfalz TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Oberpfalz TV
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",OK Koblenz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",OK Koblenz
 http://stream-cdn.ok54.de/hls/ok4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",OK Trier
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",OK Trier
 http://stream-cdn.ok54.de/hls/ok54.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",oldenburg eins
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",oldenburg eins
 http://188.40.16.94:1935/live/studio/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Potsdam TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Potsdam TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5654_9rRqfHQLh4Yd6pm/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Regio TV Schwaben
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Regio TV Schwaben
 http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Rhein Neckar Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Rhein Neckar Fernsehen
 http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sylt1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Sylt1
 https://5aec29c5dd23b.streamlock.net:8443/sylt1/_definst_/sylt1_high1.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TRP1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TRP1
 http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Mittelrhein
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Mittelrhein
 https://sdn-global-live-http-cache.3qsdn.com/2979/amlst:5714-sbr/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Touring
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Touring
 https://tvtourings.iptv-playoutcenter.de/tvtourings/tvtourings.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",TV Würzburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",TV Würzburg
 https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 #EXTINF:0 tvg-id="TVANetworks.fr" group-title="DEUTSCH",TVA
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Westerwald TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Westerwald TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Parlamentsfernsehen 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Parlamentsfernsehen 1
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Parlamentsfernsehen 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 #EXTINF:0 tvg-id="ORF1.at" group-title="DEUTSCH",ORF eins HD
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
@@ -799,11 +800,11 @@ https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:0 tvg-id="ORFSport.at" group-title="DEUTSCH",ORF SPORT +
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Tirol TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Tirol TV
 https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",dorf tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",RE eins TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",RE eins TV
 http://www.reeins.tv:1935/live/re1/playlist.m3u8
 #EXTINF:0 tvg-id="ServusTV.at" group-title="DEUTSCH",ServusTV HD (AT)
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
@@ -811,33 +812,33 @@ https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
 http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
 #EXTINF:0 tvg-id="OKTO.at" group-title="DEUTSCH",Okto
 https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",M4TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 #EXTINF:0 tvg-id="W24.at" group-title="DEUTSCH",W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Kronehit TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sporttime TV 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Sporttime TV 1
 http://sporttimelive1.content-cdn.net/livechannel1/smil:switch1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sporttime TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Sporttime TV 2
 http://sporttimelive1.content-cdn.net/livechannel2/smil:switch2.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sporttime TV 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Sporttime TV 4
 http://sporttimelive1.content-cdn.net/livechannel4/smil:switch4.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Sporttime TV 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Sporttime TV 5
 http://live.earthtv.com:1935/edge27/TWLDE/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",dorf tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",RE eins TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",RE eins TV
 http://www.reeins.tv:1935/live/re1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Tirol TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Tirol TV
 https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",oe24 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",oe24 TV
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",M4TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",Kronehit TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Switzerland",▂ ▄ ▅ ▆☆ Switzerland TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Switzerland",▂ ▄ ▅ ▆☆ Switzerland TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_Tele_M1.svg/1200px-Logo_Tele_M1.svg.png" group-title="Switzerland",Tele M1
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
@@ -863,39 +864,39 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGw
 https://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Switzerland",TVM 3
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",▂ ▄ ▅ ▆☆ Austria TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",▂ ▄ ▅ ▆☆ Austria TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="Austria",Dorf TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",Dorf TV
 https://stream.openplayout.org/hls/dorf.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",FS1 Salzburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",FS1 Salzburg
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:0 tvg-id="go.tv" group-title="Austria",Go TV
 https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Hitradio Ö3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",Hitradio Ö3
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:0 tvg-id="KTV.de" group-title="Austria",K-TV
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",KroneHit TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Ländle TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",Ländle TV
 https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist_w364023246.m3u8
 #EXTINF:0 tvg-id="M4sport.hu" group-title="Austria",M4
 https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Melodie Express TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",Melodie Express TV
 https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist_w1703757698.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",oe24.TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",oe24.TV
 http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Okto Eight
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",Okto Eight
 https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",P3tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",P3tv
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",R9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist_w870289389_b2112000_slger.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Austria",Tirol TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
 #EXTINF:0 tvg-id="W24.at" group-title="Austria",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w1705775763_b2176000_slger.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",▂ ▄ ▅ ▆☆ Sweden TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",▂ ▄ ▅ ▆☆ Sweden TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Sweden",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
@@ -952,35 +953,35 @@ https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_t
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.himlentv7.se/wp-content/themes/tv7-theme/assets/img/logo_himlen.png" group-title="Sweden",Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",ATG
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Di TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",Di TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Expressen TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",Expressen TV
 https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Himlen TV7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="Kanal10.se" group-title="Sweden",Kanal 10
 http://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8
 #EXTINF:0 tvg-id="TV4.pl" group-title="Sweden",TV 4
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",TV 4 Nyheterna
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",TV 4 Nyheterna
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",TV 4 Svensk Politik
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",TV 4 Svensk Politik
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Västmanlands TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",Västmanlands TV
 https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",Öppna Kanalen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",Öppna Kanalen
 http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",SW:kanal10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",SW:kanal10
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",SW:kkr
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",SW:kkr
 http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",SW: OPPNA KANALEN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",SW: OPPNA KANALEN
 http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sweden",SW:STORTINGET
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",SW:STORTINGET
 http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",▂ ▄ ▅ ▆☆ FRANCE TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",▂ ▄ ▅ ▆☆ FRANCE TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/FranceO.fr.png" group-title="FRANCE",France Ô
 https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
@@ -1084,121 +1085,121 @@ http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://viaoccitanie.tv/fileadmin/via_main/img/logos/viaOccitanie-header.png" group-title="FRANCE",Vià Occitanie
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:TF1 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FR:TF1 TV
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:TV 5+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FR:TV 5+
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: Francophonie
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FR: Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media.m3u8
 #EXTINF:0 tvg-id="VosgesTV.fr" group-title="FRANCE",FR: VOSGES TV
 http://vosgestv.hdr-tv.com/live/vosgestv/livestream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:IL TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FR:IL TV
 http://live.creacast.com/iltv/smil:iltv.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="France24.fr" group-title="FRANCE",FR:france 24
 http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:TV5 MONDE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FR:TV5 MONDE
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:TVPI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FR:TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:KTO TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FR:KTO TV
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="Alsace20.fr" group-title="FRANCE",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Bel RTL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Bel RTL
 https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
 #EXTINF:0 tvg-id="BFMParis.fr" group-title="FRANCE",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 #EXTINF:0 tvg-id="BipTV.fr" group-title="FRANCE",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",BX1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",D5 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",DBM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV Paris
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE TV Paris
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV PG13
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE TV PG13
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",FRANCE TV PG16
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE TV PG16
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:0 tvg-id="france24" group-title="FRANCE",France 24 French
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Francophonie
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739.m3u8
 #EXTINF:0 tvg-id="GrandLilleTV.fr" group-title="FRANCE",Grand Lille TV
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Holygod TV Europe & Middle East
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Holygod TV Europe & Middle East
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
 #EXTINF:0 tvg-id="RDI.ca" group-title="FRANCE",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",ILTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",ILTV
 https://str81.creacast.com/iltv/high/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Impac TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Impac TV
 https://edge10.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
 #EXTINF:0 tvg-id="impact" group-title="FRANCE",Impact TV
 https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
 #EXTINF:0 tvg-id="KTO.fr" group-title="FRANCE",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",La Chaine Normande TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",La Chaine Normande TV
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Leeeko TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
 #EXTINF:0 tvg-id="LN24.fr" group-title="FRANCE",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Lèeekô TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Lèeekô TV
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Medi 1 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Medi 1 TV
 http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",My TV Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Nago TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Nago TV
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Notele
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Notele
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
 #EXTINF:0 tvg-id="NRJHitsBelgique,be" group-title="FRANCE",NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",NTV Afrique
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:0 tvg-id="PlayTV.lt" group-title="FRANCE",Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Radio Contact
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Radio Contact
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:0 tvg-id="RadioContactVision.be" group-title="FRANCE",Radio Contact Vision
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Radio TeleBoston (USA)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Radio TeleBoston (USA)
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 #EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",RT France
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RT France
 https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",RTI 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RTI 1
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",RTI 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",RTI 2
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:0 tvg-id="RTLTVI.be" group-title="FRANCE",RTL-TVi
 https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Tele Haiti
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Tele Haiti
 http://66.175.238.147:1935/live/myStream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Tele Louange
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Tele Louange
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Tele-V
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Tele-V
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TMA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TV5 Style
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TV5 Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
 #EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="FRANCE",TV5Monde Info
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TV5Monde Pacifique
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",TVPI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE",Vision 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="FRANCE",Afrique Média TV
 https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",▂ ▄ ▅ ▆☆ NEDERLAND TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",▂ ▄ ▅ ▆☆ NEDERLAND TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" tvg-country="NL" tvg-url="" group-title="NEDERLAND",BNR Nieuwsradio
@@ -1333,91 +1334,91 @@ http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream
 http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_b1894400_slNLD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/RadioVeronica-logo.png" group-title="NEDERLAND",Radio Veronica
 http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",NL:go tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",NL:go tv
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",NL:OMAROEB WEST
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",NL:OMAROEB WEST
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",NL:RTV Noord
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",NL:RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",NL:RTV Drenthe
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",NL:RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",NL:RTV Oost
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",NL:RTV Oost
 https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/46ce631a-6155-4fcc-ac24-2b2e252f4f94/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",BNR Nieuwsradio
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",BNR Nieuwsradio
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:0 tvg-id="BVN.be" group-title="NEDERLAND",BVN
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Den Haag TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Den Haag TV
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",DNO Streek TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",DNO Streek TV
 http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",DNO Streek TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",DNO Streek TV
 https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",EDE TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",EDE TV
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",GO-RTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:0 tvg-id="L1.nl" group-title="NEDERLAND",L1mburg
 https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Meer TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Meer TV
 https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
 #EXTINF:0 tvg-id="OmroepBrabant.nl" group-title="NEDERLAND",Omroep Brabant
 https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Omroep Brabant Radio
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Omroep Brabant Radio
 https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Omroep Ede
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Omroep Ede
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Flevoland.nl" group-title="NEDERLAND",Omroep Flevoland
 https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
 #EXTINF:0 tvg-id="OmroepGelderland.nl" group-title="NEDERLAND",Omroep Gelderland
 http://web.omroepgelderland.nl/live/livetv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Omroep P&M
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Omroep P&M
 https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Omroep Tilburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Omroep Tilburg
 https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 #EXTINF:0 tvg-id="RTVWest.nl" group-title="NEDERLAND",Omroep West
 https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
 #EXTINF:0 tvg-id="OmroepZeeland.nl" group-title="NEDERLAND",Omroep Zeeland
 https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Radio 10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Radio 10
 https://talparadiohls-i.akamaihd.net/hls/live/698637/VR-Radio10-1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Radio 538
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Radio 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Radio Veronica
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Radio Veronica
 https://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Regio TV Nieuws
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Regio TV Nieuws
 http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",Regio TV Nieuws
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",Regio TV Nieuws
 https://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",RTV Arnhem
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",RTV Arnhem
 https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
 #EXTINF:0 tvg-id="RTVDordrecht.nl" group-title="NEDERLAND",RTV Dordrecht
 https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 #EXTINF:0 tvg-id="RTVDrenthe.nl" group-title="NEDERLAND",RTV Drenthe
 https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",RTV Maastricht
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",RTV Maastricht
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 #EXTINF:0 tvg-id="RTVNoord.nl" group-title="NEDERLAND",RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",RTV Noord Extra
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",RTV Noord Extra
 https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",RTV Noordoost Friesland
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",RTV Noordoost Friesland
 http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",RTV Noordoost Friesland
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",RTV Noordoost Friesland
 https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
 #EXTINF:0 tvg-id="RTVOost.nl" group-title="NEDERLAND",RTV Oost
 https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",RTV Rijnmond
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",RTV Rijnmond
 https://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 #EXTINF:0 tvg-id="RTVUtrecht.nl" group-title="NEDERLAND",RTV Utrecht
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",RTV Westerwolde
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",RTV Westerwolde
 https://59132e529e3d1.streamlock.net/westerwolde/westerwolde/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",TV Valkenburg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",TV Valkenburg
 https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
-#EXTINF:0 tvg-id="ext" group-title="NEDERLAND",WeertFM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",WeertFM
 https://ms7.mx-cd.net/tv/109-573495/MLA.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",▂ ▄ ▅ ▆☆ Italy TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",▂ ▄ ▅ ▆☆ Italy TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="Italy",Rai 1
 http://5.135.92.133:52841/out/u/440_1.m3u8
@@ -1577,57 +1578,57 @@ http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
 http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
 #EXTINF:-1 tvg-logo="https://www.primocanale.it/img/logo.png" group-title="Italy",Primo Canale
 http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",51 Radio TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Alto Adige TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Antenna Sud
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Antenna Sud
 http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Aurora Arte
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Azzurra TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Azzurra TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",CafèTV24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",CafèTV24
 http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Canale 10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Canale 2 Altamura
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Canale 21 Campania
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Canale 21 Campania
 http://live.sloode.com:1935/canale21/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Canale 7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Canale 7
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Canale 8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Canale 8
 http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Canale 85 Puglia
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Canale 85 Puglia
 http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Carina TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TLN Tele Lazio Nord
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TLN Tele Lazio Nord
 http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TR24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TR24
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TRG Umbria
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TRG Umbria
 http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TSN Tele Sondrio Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TSN Tele Sondrio Italy
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TV Qui (Modena)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TV Qui (Modena)
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="TV2000.it" group-title="Italy",TV2000
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TV7 Benevento
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TV7 Benevento
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TV7 Triveneta
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TV7 Triveneta
 http://217.61.26.46:8080/hls/triveneta.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TVA (Vicenza)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TVA (Vicenza)
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TVRS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TVRS
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Vera TV (Marche)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Vera TV (Marche)
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Videolina (Sardegna)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Videolina (Sardegna)
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Videostar TV (Lombardia)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Videostar TV (Lombardia)
 http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8
 #EXTINF:0 tvg-id="CompanyTV.it" group-title="Italy",Company TV
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
@@ -1635,159 +1636,159 @@ http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:0 tvg-id="DMAX.it" group-title="Italy",DMAX
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Elive TV Brescia
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Elive TV Brescia
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Esperia TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Esperia TV
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Gold TV Roma
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Gold TV Roma
 http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",La Tr3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",La Tr3
 https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Lucania TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Lucania TV
 https://59d7d6f47d7fc.streamlock.net/lucaniatv/lucaniatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",m2o TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Italia Vision
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio Italia Vision
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Lombardia TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio Lombardia TV
 https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Number One TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio Number One TV
 http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Piter Pan TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Zeta TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio Zeta TV
 https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="RadionorbaTV.it" group-title="Italy",Radionorba TV
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Rai3.it" group-title="Italy",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Sophia TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Icaro TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Italia 2 TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Italia 2 TV
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",RDS Social TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",ReggioTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",ReggioTV
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Reteveneta
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Reteveneta
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",RMK TV Sciacca
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",RMK TV Sciacca
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",RMM TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",RMM TV
 http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",RTC Quarta Rete
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",RTC Quarta Rete
 http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="RTL102.5TV.it" group-title="Italy",RTL 102.5 TV
 http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Italy",RTP
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",RTTR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",RTTR
 http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",RTV Italy (San Marino)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",RTV Italy (San Marino)
 https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Super J TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Super J TV
 https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Super TV Brescia
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Super TV Brescia
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Tele Arena
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Tele Arena
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Tele One
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Tele One
 http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TeleBoario
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TeleBoario
 http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Telechiara
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Telechiara
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Telefriuli
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Telefriuli
 http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Telegranda
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Telegranda
 http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Telemantova
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Telemantova
 https://58f0c4d9527e8.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TeleMia
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TeleMia
 http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Telemolise
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Telemolise
 http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TeleMonteve
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TeleMonteve
 http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TeleNordest
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TeleNordest
 http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Teleonda
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Teleonda
 https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TeleQuattro
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TeleQuattro
 http://wms.shared.streamshow.it/telequattro/telequattro/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Teleromagna
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Teleromagna
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Telesud Trapani
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Telesud Trapani
 https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TeleTerni
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TeleTerni
 https://diretta.teleterni.it/live/stream_src.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Teletricolore
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Teletricolore
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",TeleVideo Agrigento
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",TeleVideo Agrigento
 https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Tevere TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Tevere TV
 https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",MotorTrend
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:0 tvg-id="Nove.it" group-title="Italy",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Orler TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Otto FM TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Otto FM TV
 http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="PadrePio.it" group-title="Italy",Padre Pio TV
 https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Prima Tivvu
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Prima Tivvu
 https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Primocanale Liguria
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Primocanale Liguria
 http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio 51
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio 51
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Birikina TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio Birikina TV
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Capital TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio Capital TV
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8
 #EXTINF:0 tvg-id="RadioFreccia.it" group-title="Italy",Radio Freccia
 https://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Iglesias
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Italy",Radio Iglesias
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:0 tvg-id="RadioItalia.it" group-title="Italy",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",▂ ▄ ▅ ▆☆ Denmark TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",▂ ▄ ▅ ▆☆ Denmark TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
-#EXTINF:0 tvg-id="ext" group-title="Denmark",Kanal Hovedstaden
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KKRtv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",KKRtv
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KVF
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",KVF
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",KVF
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",KVF
 https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Fyn
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",TV 2 Fyn
 https://cdn-lt-live.tv2fyn.dk/dc-0/live/hls/p/1966291/e/0_vsfrv0zm/sd/6000/t/2eGlsBmOnpkK1g0-J_56AA/index-s32.m3u8
 #EXTINF:0 tvg-id="TV2Lorry.dk" group-title="Denmark",TV 2 Lorry
 https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Nord Salto
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",TV 2 Nord Salto
 https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8
 #EXTINF:0 tvg-id="TV2Ost.dk" group-title="Denmark",TV 2 Øst
 http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/6000/t/-YKISZ71uQSojctuBa_EhQ/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2 Østjylland
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",TV 2 Østjylland
 https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV 2/Bornholm
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",TV 2/Bornholm
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Aarhus
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",TV Aarhus
 https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Midtvest
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",TV Midtvest
 https://cdn-lt-live.tvmidtvest.dk/dc-0/live/hls/p/1953371/e/0_ghzg9q0q/sd/6000/t/EG-gDRIyoxKp9xWooxW-8w/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Storbyen
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",TV Storbyen
 https://5942cb81db6d0.streamlock.net/kanalnordvest/_definst_/mp4:kanalnordvest/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Syd+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",TV Syd+
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Denmark",TV Syd+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",TV Syd+
 https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s33.m3u8
 http://iptv-line.com:7899/live:506b419c7ec7c479/RxStPoBPot/3108?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/fEGJ3NX.jpg" group-title="Denmark",DK | TV 2 Lorry,TV 2 Lorry
@@ -1828,7 +1829,7 @@ https://cdn-lt-live.tvmidtvest.dk/dc-0/live/hls/p/1953371/e/0_ghzg9q0q/sd/6000/t
 https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s33.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/CG8VU2c.png" group-title="Denmark",TV Syd+
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="spania",▂ ▄ ▅ ▆☆ spania TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",▂ ▄ ▅ ▆☆ spania TV ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="spania",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
@@ -1930,11 +1931,11 @@ http://78.41.83.88:8880/hls/unesd.m3u8
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:0 tvg-id="BEMAD.es" group-title="spania",Be Mad
 https://pastebin.com/raw/jf3NxqPs
-#EXTINF:0 tvg-id="ext" group-title="spania",Urban Revolution TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",Urban Revolution TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 #EXTINF:0 tvg-id="Trece.es" group-title="spania",Trece
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",La 1 (fallback)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",La 1 (fallback)
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
 #EXTINF:0 tvg-id="LA1.es" group-title="spania",La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
@@ -1944,7 +1945,7 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="spania",Canal Sur Andalucía
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Onda Cádiz Televisión
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",Onda Cádiz Televisión
 http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
 #EXTINF:0 tvg-id="AragonTVsat.sp" group-title="spania",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
@@ -1958,29 +1959,29 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/playlist.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8?DVR
 #EXTINF:0 tvg-id="324.es" group-title="spania",3/24
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Televisión Vega Baja
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",Televisión Vega Baja
 http://185.29.68.24/tvb.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Intercomarcal TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",Intercomarcal TV
 http://78.41.83.88:8880/hls/tvixa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",telesafor
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",telesafor
 http://video.telesafor.com/hls/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",tv-A
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",tv-A
 http://5.39.65.105/hls/tvaxa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Alicantí TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",Alicantí TV
 http://5.39.65.105/hls/alacantixa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",RiberaTV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",RiberaTV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",PequeRadio TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",PequeRadio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",RTV Vida HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",RTV Vida HD
 https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",TVG (Europa)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",TVG (Europa)
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Momentos G
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",Momentos G
 http://momentog-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-id="Telemadridsat.es" group-title="spania",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="spania",Televisión Melilla
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",Televisión Melilla
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-id="7tv.es" group-title="spania",7 TV Región Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
