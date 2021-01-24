@@ -70,10 +70,8 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6130/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6131/index.m3u8 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport11 
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport11+
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport11++
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="قنوات بين سبور BEIN SPORT",BeinSport15
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/45757/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="باقة مدفوعه للافلام",▂ ▄ ▅ ▆☆ باقة مدفوعه للافلام ☆▆ ▅ ▄ ▂ ▁
 https://bit.ly/39YjahM
 #EXTINF:0 tvg-id="ext" group-title="باقة مدفوعه للافلام",النسخة المدفوعة AirMax TV
