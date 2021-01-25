@@ -561,9 +561,9 @@ https://cdn.alarab.com/h264/161966_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3o4cNAl" group-title="vod مسلسل عروس بيروت",الحلقةS02E75
 https://cdn.alarab.com/h264/161983_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3o4cNAl" group-title="vod مسلسل عروس بيروت",الحلقةS02E76
-
+https://cdn.alarab.com/h264/162017_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3o4cNAl" group-title="vod مسلسل عروس بيروت",الحلقةS02E77
-
+https://cdn.alarab.com/h264/162039_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3o4cNAl" group-title="vod مسلسل عروس بيروت",الحلقةS02E78
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3o4cNAl" group-title="vod مسلسل عروس بيروت",الحلقةS02E79
@@ -1335,7 +1335,9 @@ https://cdn.alarab.com/h264/161968_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ivfOJ1" group-title="vod مسلسل لؤلؤ",الحلقةS01E19
 https://cdn.alarab.com/h264/161982_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ivfOJ1" group-title="vod مسلسل لؤلؤ",الحلقةS01E20
-
+https://cdn.alarab.com/h264/162019_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3ivfOJ1" group-title="vod مسلسل لؤلؤ",الحلقةS01E21
+https://cdn.alarab.com/h264/162038_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qytbLi" group-title="vod مسلسل سكن البنات",الحلقةS01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/DLNASDELL/Sakan.Albanat/1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3qytbLi" group-title="vod مسلسل سكن البنات",الحلقةS01E02
