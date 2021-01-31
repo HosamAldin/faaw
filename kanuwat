@@ -238,7 +238,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" group-title="قنوات رياضية SPORT",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",REAL MADRID
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",REAL MADRID
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="قنوات رياضية SPORT",Arena Sport 1
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
@@ -298,65 +298,65 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2000/index.m3u
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="قنوات رياضية SPORT",FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",EUROSPORT 4K 1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",EUROSPORT 4K 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",Olympic Channel
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",REDBULL TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",Fox Sports News
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",ALL Sports
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",Real Madrid TV (English)
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Real Madrid TV (English)
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",FC Bayern Munchen TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",FC Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",Olympic Channel 1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Olympic Channel 1
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",Olympic Channel 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",Olympic Channel 3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Olympic Channel 3
 https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",Olympic Channel 4
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Olympic Channel 4
 https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات رياضية SPORT",Olympic Channel 5
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Матч! Футбол 1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Матч! Футбол 1
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Матч! Футбол 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Матч! Футбол 2
 https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Матч! Футбол 3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Матч! Футбол 3
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",SETANTA SPORTS HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",SETANTA SPORTS HD
 https://chostv.mobie.in/choos/sports/stantahd.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Футбол 1 ua
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Футбол 1 ua
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Футбол 2 ua
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Футбол 2 ua
 https://chostv.mobie.in/choos/sports/qyt2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Футбол 3 ua HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Футбол 3 ua HD
 https://chostv.mobie.in/choos/sports/qyt3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Eurosport 1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Eurosport 1
 https://chostv.mobie.in/choos/sports/euro1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Eurosport 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Eurosport 2
 https://chostv.mobie.in/choos/sports/euro2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Fox Sports AU
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",ox Sports AU
 https://chostv.mobie.in/choos/sports/arena1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",ATG
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",TG
 https://chostv.mobie.in/choos/sports/arena3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Racing.com
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",Racing.com
 https://chostv.mobie.in/choos/sports/arena4.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",BEINSPORTS XTRA
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",BEINSPORTS XTRA
 https://chostv.mobie.in/choos/sports/beinxtra.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",PREMIER 1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",PREMIER 1
 https://chostv.mobie.in/choos/sports1/epl1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",PREMIER 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",PREMIER 2
 https://chostv.mobie.in/choos/sports1/epl2.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",PREMIER 3
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",PREMIER 3
 https://chostv.mobie.in/choos/sports1/epl3.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",beIN Sports 1
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",beIN Sports 1
  https://chostv.mobie.in/choos/sports1/bein1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",beIN Sports 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",beIN Sports 2
 https://chostv.mobie.in/choos/sports1/bein2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات رياضية SPORT",FOX SPORTS 1 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -1160,11 +1160,11 @@ https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/chunklist.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="قنوات الامارات EMIRATES",DUB-Aldafrahtv
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Citruss TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات الامارات EMIRATES",Citruss TV
 http://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات الامارات EMIRATES",peacetv
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات الامارات EMIRATES",peacetv
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Yas TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="قنوات الامارات EMIRATES",Yas TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paYb3M" group-title="قنوات اليمن Yemen",Yemen tv
 https://bit.ly/39YjahM
