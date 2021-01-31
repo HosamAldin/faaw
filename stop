@@ -1,3 +1,20 @@
+#EXTINF:-1 tvg-logo="https://bit.ly/35ZfXiP" group-title="vodمسرحيات",:shahed
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/shahed.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/35ZfXiP" group-title="vodمسرحيات",:Khibetna
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Khibetna.2020.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/35ZfXiP" group-title="vodمسرحيات",:ElEyalKebret
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-11/movies/ElEyalKebret.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/35ZfXiP" group-title="vodمسرحيات",:rayawskena
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/rayawskena.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/35ZfXiP" group-title="vodمسرحيات",:moshghbeen
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/moshghbeen.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/35ZfXiP" group-title="vodمسرحيات",:wadsydalshaghal
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/wadsydalshaghal.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/35ZfXiP" group-title="vodمسرحيات",:mtjwjoon
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/mtjwjoon.mp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/35ZfXiP" group-title="vodمسرحيات",:alza3eem
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/movies/alza3eem.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3p1cFmD" group-title="vod مسلسل قطاع الطرق لن يحكموا العالم",الحلقةS01E01
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/qota1/1.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/3p1cFmD" group-title="vod مسلسل قطاع الطرق لن يحكموا العالم",الحلقةS01E02
