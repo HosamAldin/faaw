@@ -302,25 +302,25 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
 #EXTINF:0 tvg-id="ext" group-title="قنوات رياضية SPORT",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:0 tvg-id="ntv-football-3" group-title="قنوات رياضية SPORT",REDBULL TV
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",Fox Sports News
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",ALL Sports
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",Real Madrid TV (English)
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",Real Madrid TV (English)
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",FC Bayern Munchen TV
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",FC Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",Olympic Channel 1
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",Olympic Channel 1
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",Olympic Channel 2
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",Olympic Channel 3
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",Olympic Channel 3
 https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",Olympic Channel 4
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",Olympic Channel 4
 https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
-#EXTINF:0 tvg-id="WWE.ca" group-title="قنوات رياضية SPORT",Olympic Channel 5
+#EXTINF:0 tvg-id="" group-title="قنوات رياضية SPORT",Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://tinyurl.com/chos123" group-title="قنوات رياضية SPORT",Матч! Футбол 1
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
