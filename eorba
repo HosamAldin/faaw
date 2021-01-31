@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",▂ ▄ ▅ ▆☆ TURKEY TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TURKEY",TURKEY TV
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="TURKEY",Show
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
@@ -252,7 +252,7 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/2y8cng4w77xg.png" group-title="TURKEY",CRI Türk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",▂ ▄ ▅ ▆☆ DEUTSCH TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",DEUTSCH TV
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-logo="" group-title="DEUTSCH",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
@@ -838,7 +838,7 @@ https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEUTSCH",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Switzerland",▂ ▄ ▅ ▆☆ Switzerland TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Switzerland",Switzerland TV
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_Tele_M1.svg/1200px-Logo_Tele_M1.svg.png" group-title="Switzerland",Tele M1
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
@@ -864,7 +864,7 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGw
 https://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="Switzerland",TVM 3
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",▂ ▄ ▅ ▆☆ Austria TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",Austria TV
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Austria",Dorf TV
 https://stream.openplayout.org/hls/dorf.m3u8?fluxustv.m3u8
@@ -896,7 +896,7 @@ https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist_w870289389_b2112000_slger
 http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
 #EXTINF:0 tvg-id="W24.at" group-title="Austria",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w1705775763_b2176000_slger.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",▂ ▄ ▅ ▆☆ Sweden TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",Sweden TV
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Sweden",Joj
 http://nn1.joj.sk/hls/joj-720.m3u8
@@ -981,7 +981,7 @@ http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
 http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sweden",SW:STORTINGET
 http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",▂ ▄ ▅ ▆☆ FRANCE TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FRANCE",FRANCE TV
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/FranceO.fr.png" group-title="FRANCE",France Ô
 https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
@@ -1199,7 +1199,7 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:0 tvg-id="avi" group-title="FRANCE",Afrique Média TV
 https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",▂ ▄ ▅ ▆☆ NEDERLAND TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",NEDERLAND TV
 https://bit.ly/39YjahM
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" tvg-country="NL" tvg-url="" group-title="NEDERLAND",BNR Nieuwsradio
@@ -1418,7 +1418,7 @@ https://59132e529e3d1.streamlock.net/westerwolde/westerwolde/playlist.m3u8
 https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEDERLAND",WeertFM
 https://ms7.mx-cd.net/tv/109-573495/MLA.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",▂ ▄ ▅ ▆☆ Italy TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Italy",Italy TV
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="Italy",Rai 1
 http://5.135.92.133:52841/out/u/440_1.m3u8
@@ -1758,7 +1758,7 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:0 tvg-id="RadioItalia.it" group-title="Italy",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",▂ ▄ ▅ ▆☆ Denmark TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",Denmark TV
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Denmark",Kanal Hovedstaden
 https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
@@ -1829,7 +1829,7 @@ https://cdn-lt-live.tvmidtvest.dk/dc-0/live/hls/p/1953371/e/0_ghzg9q0q/sd/6000/t
 https://cdn-lt-live.tvsyd.dk/dc-0/live/hls/p/1956351/e/0_e9slj9wh/sd/6000/t/nhL_cf3qCsI0cg242553pQ/index-s33.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DK" tvg-logo="https://i.imgur.com/CG8VU2c.png" group-title="Denmark",TV Syd+
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",▂ ▄ ▅ ▆☆ spania TV ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="spania",spania TV
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="spania",LA 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
