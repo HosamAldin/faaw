@@ -450,67 +450,67 @@ http://193.42.99.130:23455/3660/playlist.m3u8
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext" group-title="NEWS قنوات الاخبار",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="NEWS قنوات الاخبار",AR:AL JAZEERA HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" group-title="NEWS قنوات الاخبار",AL JAZEERA HD
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL JAZEERA MUBASHER HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AL JAZEERA MUBASHER HD
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL JAZEERA MUBASHER SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBmuO8RqkEEXW5u0YZivxgpvqzu5-zjRol29w=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AL JAZEERA MUBASHER SD
 https://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" group-title="NEWS قنوات الاخبار",AR:AL ARABIYA HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" group-title="NEWS قنوات الاخبار",AL ARABIYA HD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" group-title="NEWS قنوات الاخبار",AR:AL ARABIYA HD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrsY9OTadlvifp8yfoIWK0vQW7drz_9GJy9TQxEk98Y1NWdyEX" group-title="NEWS قنوات الاخبار",AL ARABIYA HD+
 https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL HADATH HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AL HADATH HD
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:AL HADATH HD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mClstU-uA-TBDWsc8zkB_mjBgUMvIh1WJwarg=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AL HADATH HD+
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAD-L2FVt3k8hAoRXQm-7Exkm9QP0q1TQyFtQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",AR:ALMAMLKA HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAD-L2FVt3k8hAoRXQm-7Exkm9QP0q1TQyFtQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="NEWS قنوات الاخبار",ALMAMLKA HD
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1122711431244341254/opVag4Rr_400x400.png" group-title="NEWS قنوات الاخبار",AR:SKY NEWS ARABIC HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1122711431244341254/opVag4Rr_400x400.png" group-title="NEWS قنوات الاخبار",SKY NEWS ARABIC HD
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="NEWS قنوات الاخبار",AR:BBC ARABIC HD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://news.files.bbci.co.uk/ws/img/logos/og/arabic.png" group-title="NEWS قنوات الاخبار",BBC ARABIC HD+
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.theweek.co.uk/sites/theweek/files/styles/16x8_465/public/8/54/140721-russia-today-logo_0.jpg" group-title="NEWS قنوات الاخبار",AR:RT RUSSIA TODAY HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.theweek.co.uk/sites/theweek/files/styles/16x8_465/public/8/54/140721-russia-today-logo_0.jpg" group-title="NEWS قنوات الاخبار",RT RUSSIA TODAY HD
 https://rt-arab.secure.footprint.net/1104.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/200px-Al-Alam_logo.svg.png" group-title="NEWS قنوات الاخبار",AR:AL ALAM HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Al-Alam_logo.svg/200px-Al-Alam_logo.svg.png" group-title="NEWS قنوات الاخبار",AL ALAM HD
 https://live2.alalamtv.net/live/Alalam_high/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/14/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%88%D8%B7%D9%86.jpg" group-title="NEWS قنوات الاخبار",AR:WATAN HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/14/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%88%D8%B7%D9%86.jpg" group-title="NEWS قنوات الاخبار",WATAN HD
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/875648957451345921/OUjlwj62_400x400.jpg" group-title="NEWS قنوات الاخبار",AR:FRANCE 24 HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/875648957451345921/OUjlwj62_400x400.jpg" group-title="NEWS قنوات الاخبار",FRANCE 24 HD
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="NEWS قنوات الاخبار",AR:DW ARABIC HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-Arabia-670x300.jpg" group-title="NEWS قنوات الاخبار",DW ARABIC HD
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRTPxsEVvY5ClBHp7gqAC5SzZ2wevNFxDkN56I9LACrkqEABJI&usqp=CAU" group-title="NEWS قنوات الاخبار",AR:AL KHALIJ HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRTPxsEVvY5ClBHp7gqAC5SzZ2wevNFxDkN56I9LACrkqEABJI&usqp=CAU" group-title="NEWS قنوات الاخبار",AL KHALIJ HD
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1046697395701108736/JY6De9Aa.jpg" group-title="NEWS قنوات الاخبار",AR:TRT ARABIC HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1046697395701108736/JY6De9Aa.jpg" group-title="NEWS قنوات الاخبار",TRT ARABIC HD
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i0.wp.com/frequencieschannels.info/wp-content/uploads/2018/07/%D8%A7%D9%88%D8%B1%D9%8A%D9%86%D8%AA-%D9%86%D9%8A%D9%88%D8%B2.jpg" group-title="NEWS قنوات الاخبار",AR:ORIENT FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i0.wp.com/frequencieschannels.info/wp-content/uploads/2018/07/%D8%A7%D9%88%D8%B1%D9%8A%D9%86%D8%AA-%D9%86%D9%8A%D9%88%D8%B2.jpg" group-title="NEWS قنوات الاخبار",ORIENT FM
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",AR:CGTN NEWS قنوات الاخبار
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",CGTN NEWS قنوات الاخبار
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",AR:CGTN News SD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",CGTN News SD
 https://livear.cgtn.com/500a/prog_index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://lh3.googleusercontent.com/3ZioMawJmMEc7ZdWoewRrpLgUJqwLz1kwHlFXd9ytRklzoRPBkmOpd9QhrdYxayPppQ=s180" group-title="NEWS قنوات الاخبار",AR:ALARABY TV HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://lh3.googleusercontent.com/3ZioMawJmMEc7ZdWoewRrpLgUJqwLz1kwHlFXd9ytRklzoRPBkmOpd9QhrdYxayPppQ=s180" group-title="NEWS قنوات الاخبار",ALARABY TV HD
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg" group-title="NEWS قنوات الاخبار",AR:AL MAYADEEN HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Al-mayadeen_logo.jpg/220px-Al-mayadeen_logo.jpg" group-title="NEWS قنوات الاخبار",AL MAYADEEN HD
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_t64NDgwcA==.m3u8?v=
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzR5ciU26g2r64vUYfv8Q_Yxtm9TwVNaUUgkD-X_AUyNnn4hlS&usqp=CAU" group-title="NEWS قنوات الاخبار",AR:AL HIWAR NEWS 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzR5ciU26g2r64vUYfv8Q_Yxtm9TwVNaUUgkD-X_AUyNnn4hlS&usqp=CAU" group-title="NEWS قنوات الاخبار",AL HIWAR NEWS 
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/1200px-CNBC_Arabiya.svg.png" group-title="NEWS قنوات الاخبار",AR:CNBC ARABIYA HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/1200px-CNBC_Arabiya.svg.png" group-title="NEWS قنوات الاخبار",CNBC ARABIYA HD
 https://.hibridcdn.net/cnbc/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://alshahidwitness.com/wp-content/uploads/2020/01/al-hurra-offices-closed-in-baghdad-due-to-threats-says-channel-800x450.png" group-title="NEWS قنوات الاخبار",AR:Al Hurra
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://alshahidwitness.com/wp-content/uploads/2020/01/al-hurra-offices-closed-in-baghdad-due-to-threats-says-channel-800x450.png" group-title="NEWS قنوات الاخبار",Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn01.paltoday.ps/ar/img/945x500/udMS9.jpg" group-title="NEWS قنوات الاخبار",AR:Alsharq
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn01.paltoday.ps/ar/img/945x500/udMS9.jpg" group-title="NEWS قنوات الاخبار",Alsharq
 rtmp://mn-i.mncdn.com:1935/elsharq_live?=/live
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/VRja2CGu7nw/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",IraqiaNew TV HD
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/VRja2CGu7nw/maxresdefault.jpg" group-title="NEWS قنوات الاخبار",IraqiaNew TV SD
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/1da007c2fe095060482a4997a166931f.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1058796983329136645/ojMxThMV_400x400.jpg" group-title="NEWS قنوات الاخبار",AR:IRQ-AL Hurra HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1058796983329136645/ojMxThMV_400x400.jpg" group-title="NEWS قنوات الاخبار",IRQ-AL Hurra HD
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://data.arab48.com/data/news/2019/09/02/Croped/20190902071811.jpg" group-title="NEWS قنوات الاخبار",AR:IRQ-AL Hurra IRAQIA HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://data.arab48.com/data/news/2019/09/02/Croped/20190902071811.jpg" group-title="NEWS قنوات الاخبار",IRQ-AL Hurra IRAQIA HD
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://data.arab48.com/data/news/2019/09/02/Croped/20190902071811.jpg" group-title="NEWS قنوات الاخبار",AR:IRQ-AL Hurra IRAQIA SD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://data.arab48.com/data/news/2019/09/02/Croped/20190902071811.jpg" group-title="NEWS قنوات الاخبار",IRQ-AL Hurra IRAQIA SD+
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="قنوات الوثائقية",قنوات الوثائقية
 https://bit.ly/39YjahM
@@ -552,7 +552,7 @@ https://bit.ly/39YjahM
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nuo4gY" group-title="قنوات أطفال Children",Rotana Kids HD
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3652aav" group-title="قنوات أطفال Children",Ar:SPACETOON
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3652aav" group-title="قنوات أطفال Children",SPACETOON
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y32aU7" group-title="قنوات أطفال Children",BEIN :Cartoon_Network العربية
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
@@ -595,39 +595,39 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext" group-title="قنوات أم بي سيMBC",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 1 (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="قنوات أم بي سيMBC",MY-MBC 1 (الدقة التلقائية)
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 2 (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="قنوات أم بي سيMBC",MY-MBC 2 (الدقة التلقائية)
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 3 (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="قنوات أم بي سيMBC",MY-MBC 3 (الدقة التلقائية)
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 4 (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="قنوات أم بي سيMBC",MY-MBC 4 (الدقة التلقائية)
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC 5 (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات أم بي سيMBC",MY-MBC 5 (الدقة التلقائية)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC IRAQ (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.almowaten.net/wp-content/uploads/2019/01/MBC-AL-IRAQ-Logo.jpg" group-title="قنوات أم بي سيMBC",MY-MBC IRAQ (الدقة التلقائية)
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Max (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="قنوات أم بي سيMBC",MY-MBC Max (الدقة التلقائية)
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC ACTION (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="قنوات أم بي سيMBC",MY-MBC ACTION (الدقة التلقائية)
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Bolleywod (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="قنوات أم بي سيMBC",MY-MBC Bolleywod (الدقة التلقائية)
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://alnahdanews.com/uploads/images/2020/06/E85Zu.jpeg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://alnahdanews.com/uploads/images/2020/06/E85Zu.jpeg" group-title="قنوات أم بي سيMBC",MY-MBC Drama (الدقة التلقائية)
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tvfcdn.com/big/mbc-plus-drama-hd.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Drama  Plus (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://tvfcdn.com/big/mbc-plus-drama-hd.jpg" group-title="قنوات أم بي سيMBC",MY-MBC Drama  Plus (الدقة التلقائية)
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1009450954461237248/KA75GzF4.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC Masr (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/1009450954461237248/KA75GzF4.jpg" group-title="قنوات أم بي سيMBC",MY-MBC Masr (الدقة التلقائية)
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2542019-045632PM.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC MASR 2 (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tv.wataan.com/uploads/2542019-045632PM.jpg" group-title="قنوات أم بي سيMBC",MY-MBC MASR 2 (الدقة التلقائية)
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="قنوات أم بي سيMBC",MBC Persia (الدقة التلقائية)
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC Wanasah (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.arabsat.com/Library/ChannelImages/Wanasah.png" group-title="قنوات أم بي سيMBC",MY-MBC Wanasah (الدقة التلقائية)
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" group-title="قنوات أم بي سيMBC",AR:MY-MBC FM (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/p465453g.png" group-title="قنوات أم بي سيMBC",MY-MBC FM (الدقة التلقائية)
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="قنوات أم بي سيMBC",AR:MY-MBC panoramafm (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.okaz.com.sa/uploads/images/2018/09/05/976747.jpg" group-title="قنوات أم بي سيMBC",MY-MBC panoramafm (الدقة التلقائية)
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="قنوات أم بي سيMBC",|MBC| 1 FHD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
@@ -733,7 +733,7 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="قنوات روتانا ROTANA",Rotana+ (الدقة التلقائية)
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",AR:ROTANA TARAB HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",ROTANA TARAB HD
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="ext"tvg-name=""tvg-id=""tvg-name="MUS:AR-RADIO ROTANA"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
 http://188.247.86.67:8002/3
@@ -759,43 +759,43 @@ https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/playlist.m3u8
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="Syria قنوات سورية",AR:SYR-SYRIA PLUS (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="Syria قنوات سورية",SYR-SYRIA PLUS (الدقة التلقائية)
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="Syria قنوات سورية",AR:SYR-LANA HD(مشغل GSE)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/RExOqfh.png" group-title="Syria قنوات سورية",SYR-LANA HD(مشغل GSE)
 https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="Syria قنوات سورية",AR:SYR-Lana Plus(مشغل GSE)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9HCiWqv.jpg" group-title="Syria قنوات سورية",SYR-Lana Plus(مشغل GSE)
 https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="Syria قنوات سورية",AR:SYR-SAMA SYRIA
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="Syria قنوات سورية",SYR-SAMA SYRIA
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",AR:SYR-DRAMA TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",SYR-DRAMA TV
 http://82.137.248.16:1935/Drama/stream10112020/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria قنوات سورية",AR:SYR-SYRIA AL AOULA
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria قنوات سورية",SYR-SYRIA AL AOULA
 http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Syria قنوات سورية",AR:SYR-NOUR ELSHAM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Syria قنوات سورية",SYR-NOUR ELSHAM
 http://82.137.248.16:1935/Nour/stream10112020/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://sy.heytv.org/wp-content/uploads/2019/04/Sham-FM-TV-webtvonlive.com_.jpg" group-title="Syria قنوات سورية",AR:SYR-SHAM.FM TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://sy.heytv.org/wp-content/uploads/2019/04/Sham-FM-TV-webtvonlive.com_.jpg" group-title="Syria قنوات سورية",SYR-SHAM.FM TV
 http://5.39.218.151:8400/;
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="Syria قنوات سورية",AR:SYR-SOURYANA
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="Syria قنوات سورية",SYR-SOURYANA
 http://82.137.248.16:1935/Souryana/stream10112020/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria قنوات سورية",AR:SYR-AL EKHBARIYA
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria قنوات سورية",SYR-AL EKHBARIYA
 http://.alikhbaria.net:1935/Snews/stream10112020/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="Syria قنوات سورية",AR:SYR-ORIENT.NEWS
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="Syria قنوات سورية",SYR-ORIENT.NEWS
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria قنوات سورية",AR:SYR-HALAB TODAY
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria قنوات سورية",SYR-HALAB TODAY
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/816930125103198208/-Sv8c7HE.jpg" group-title="Syria قنوات سورية",AR:SYR- راديو مرح
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/816930125103198208/-Sv8c7HE.jpg" group-title="Syria قنوات سورية",SYR- راديو مرح
 http://radio.farah.fm:8015/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/Gqt7a-y2tRc/hqdefault.jpg" group-title="Syria قنوات سورية",AR:SYR- RAmwajLive FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/Gqt7a-y2tRc/hqdefault.jpg" group-title="Syria قنوات سورية",SYR- RAmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Syria قنوات سورية",All TV
 http://185.96.70.242:1935/live/alltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Syria قنوات سورية",AR:SYR-EL TARBAOUIA
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Syria قنوات سورية",SYR-EL TARBAOUIA
 http://82.137.248.16:1935/SEdu/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/MNsSa8k-F8U/hqdefault.jpg" group-title="LEBANON قنوات لبنان",LEBANON قنوات لبنان
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext" group-title="LEBANON قنوات لبنان",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",AR:LBN-ldc lebanon (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",LBN-ldc lebanon (الدقة التلقائية)
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON قنوات لبنان",Tele Liban
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
@@ -807,19 +807,19 @@ https://cdn.tvseventeen.com/_tv_seventeen/tracks-v1a1/mono.m3u8
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg" group-title="LEBANON قنوات لبنان",Newv
 https://master.starmena-cloud.com/hls/newv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-Future TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",LBN-Future TV
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="LEBANON قنوات لبنان",Al Manar
 https://manar.live/iptv/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-al-iman-tv-5506.jpg" group-title="LEBANON قنوات لبنان",AR:LBN- AL-IMAN-TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-al-iman-tv-5506.jpg" group-title="LEBANON قنوات لبنان",LBN- AL-IMAN-TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON قنوات لبنان",AR:LBN-AL Mayadeen
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON قنوات لبنان",LBN-AL Mayadeen
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="LEBANON قنوات لبنان",AR:LBN-ALAAN HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="LEBANON قنوات لبنان",LBN-ALAAN HD
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="LEBANON قنوات لبنان",AR:3eeshalaan
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="LEBANON قنوات لبنان",3eeshalaan
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://watchfomny.tv/Video/Lebanon/Radio-moyen-orient-canada/radio.gif" group-title="LEBANON قنوات لبنان",AR:LBN-ALWIFAK TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://watchfomny.tv/Video/Lebanon/Radio-moyen-orient-canada/radio.gif" group-title="LEBANON قنوات لبنان",LBN-ALWIFAK TV
 https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="LEBANON قنوات لبنان",Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
@@ -831,23 +831,23 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="PALESTINE قنوات فلسطين",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.wbn.ps/assets/images/logo.png" group-title="PALESTINE قنوات فلسطين",AR: Watar tv
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.wbn.ps/assets/images/logo.png" group-title="PALESTINE قنوات فلسطين", Watar tv
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36817Xs" group-title="PALESTINE قنوات فلسطين",AR:PAL-AlQuds
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36817Xs" group-title="PALESTINE قنوات فلسطين",PAL-AlQuds
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8VgZq" group-title="PALESTINE قنوات فلسطين",AR:PAL-AL YAUM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p8VgZq" group-title="PALESTINE قنوات فلسطين",PAL-AL YAUM
 http://live.paltoday.tv:1935/paltv/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="PALESTINE قنوات فلسطين",AR:PAL-Palestine
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRrhHo" group-title="PALESTINE قنوات فلسطين",PAL-Palestine
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5bmBL" group-title="PALESTINE قنوات فلسطين",AR:PAL-Musawa tv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5bmBL" group-title="PALESTINE قنوات فلسطين",PAL-Musawa tv
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6SCHy" group-title="PALESTINE قنوات فلسطين",AR:PAL-Maan News
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6SCHy" group-title="PALESTINE قنوات فلسطين",PAL-Maan News
 http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPlG4I" group-title="PALESTINE قنوات فلسطين",AR:PAL-Palestine live
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPlG4I" group-title="PALESTINE قنوات فلسطين",PAL-Palestine live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="PALESTINE قنوات فلسطين",AR:PAL-Palestinee TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZFWYq" group-title="PALESTINE قنوات فلسطين",PAL-Palestinee TV
 http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9P1EL" group-title="PALESTINE قنوات فلسطين",AR:PAL-Nbc Alnajah TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3p9P1EL" group-title="PALESTINE قنوات فلسطين",PAL-Nbc Alnajah TV
 http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4Vuon" group-title="PALESTINE قنوات فلسطين",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
@@ -867,13 +867,13 @@ http://htvmada.mada.ps:8888/maannews/tracks-v1a1/index.m3u8
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MbqtfQ" group-title="JORDAN قنوات الاردن",Roya TV (الدقة التلقائية)
 https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV (الدقة التلقائية)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="JORDAN قنوات الاردن",JR-Jordan TV (الدقة التلقائية)
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="JORDAN قنوات الاردن",AR:JR-Jordan TV+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oag29q" group-title="JORDAN قنوات الاردن",JR-Jordan TV+
 https://bozztv.com/36bay2/gin/giniko_jordan_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3A8HQ" group-title="JORDAN قنوات الاردن",Amman tv
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MkmEFm" group-title="JORDAN قنوات الاردن",AR:JR-Jordan Sport
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MkmEFm" group-title="JORDAN قنوات الاردن",JR-Jordan Sport
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7VuR" group-title="JORDAN قنوات الاردن",ALmamlka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
@@ -887,47 +887,47 @@ rtmp://93.95.207.36:9201/livepkgr/livestream2
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext" group-title="قنوات العراق IRAQ",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o9Fg7Z" group-title="قنوات العراق IRAQ",AR:IRQ-Al Fallujah
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o9Fg7Z" group-title="قنوات العراق IRAQ",IRQ-Al Fallujah
 https://player-api.new.livestream.com/accounts/4671269/events/4213685/live.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c6GdLY" group-title="قنوات العراق IRAQ",قناة دجلة Dijlah TV (Backup)
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rafidain FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qMcFrk" group-title="قنوات العراق IRAQ",IRQ-AL Rafidain FHD
 http://cdg3.edge.tmed.pw/arrafidaintv/live_640p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvDjpV" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya TV HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvDjpV" group-title="قنوات العراق IRAQ",IRQ-AL Sharqiya TV HD
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="قنوات العراق IRAQ",AR:IRQ-AL Sharqiya News HD+
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364trtv" group-title="قنوات العراق IRAQ",IRQ-AL Sharqiya News HD+
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="قنوات العراق IRAQ",AR:IRQ-AL Rasheed
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MgS4Mu" group-title="قنوات العراق IRAQ",IRQ-AL Rasheed
 http://livedroos.com:8080/live/alrashid_1mbps/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LZOCpM" group-title="قنوات العراق IRAQ",AR:IRQ-AL zagrostv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LZOCpM" group-title="قنوات العراق IRAQ",IRQ-AL zagrostv
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paPPZX" group-title="قنوات العراق IRAQ",AR:IRQ-الفرات
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3paPPZX" group-title="قنوات العراق IRAQ",IRQ-الفرات
 https://5e085b8c1882e.streamlock.net/live/_definst_/alforat.smil/chunklistslen.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364rE7I" group-title="قنوات العراق IRAQ",AR:IRQ-AL Hurra HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364rE7I" group-title="قنوات العراق IRAQ",IRQ-AL Hurra HD
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="قنوات العراق IRAQ",AR:IRQ-ALHurra IRAQ
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="قنوات العراق IRAQ",IRQ-ALHurra IRAQ
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qG1r7B" group-title="قنوات العراق IRAQ",AL HURRA IRAQ +
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA الاخبارية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3bXQKZY" group-title="قنوات العراق IRAQ",IRQ-IRAQIA الاخبارية
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPi0zW" group-title="قنوات العراق IRAQ",AR:IRQ-IRAQIA الفضائية
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sPi0zW" group-title="قنوات العراق IRAQ",IRQ-IRAQIA الفضائية
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="قنوات العراق IRAQ",AR:IRQ-MBC IRAQ HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa7vVj" group-title="قنوات العراق IRAQ",IRQ-MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TWfpL" group-title="قنوات العراق IRAQ",AR:IRQ-AL Maaref
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TWfpL" group-title="قنوات العراق IRAQ",IRQ-AL Maaref
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3608DDF" group-title="قنوات العراق IRAQ",AR:IRQ-Babylon
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3608DDF" group-title="قنوات العراق IRAQ",IRQ-Babylon
 https://iqlivestream.com/babylontv/kardokardo.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363S5dX" group-title="قنوات العراق IRAQ",AR:IRQ-Imam Hussein TV 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363S5dX" group-title="قنوات العراق IRAQ",IRQ-Imam Hussein TV 2
 http://ar.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LZOCpM" group-title="قنوات العراق IRAQ",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o6UGtH" group-title="قنوات العراق IRAQ",قناة دجلة طرب
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ogf4ZG" group-title="قنوات العراق IRAQ",AR: راديو هوا دجلة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ogf4ZG" group-title="قنوات العراق IRAQ", راديو هوا دجلة
 https://listen.radioking.com/radio/96766/stream/136030
 #EXTINF: tvg-logo="https://bit.ly/39dxm9H" group-title="قنوات المصرية Egypt",قنوات المصرية
 https://bit.ly/39YjahM
@@ -951,11 +951,11 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/398x2sA" group-title="MAROCCO قنوات المغرب",AL_ 2M MONDE
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1=4-mp4aqad=1.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KIPzCu" group-title="MAROCCO قنوات المغرب",AR:MR-ARRYADIA -3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KIPzCu" group-title="MAROCCO قنوات المغرب",MR-ARRYADIA -3
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pgxACw" group-title="MAROCCO قنوات المغرب",AR:MR-ARRABIAA HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pgxACw" group-title="MAROCCO قنوات المغرب",MR-ARRABIAA HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TLOm8" group-title="MAROCCO قنوات المغرب",AR:MR-AL MAGHRIBIA HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TLOm8" group-title="MAROCCO قنوات المغرب",MR-AL MAGHRIBIA HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39ZDHnY" group-title="MAROCCO قنوات المغرب",ASSADISSA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
@@ -987,23 +987,23 @@ http://www.radiomarina.tn:8080/media/live.m3u8
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EL nahar Alg
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",AR:EchoroukTV
+#EXTINF:-1 tvg-id="ext" group-title="ALGERIEN قنوات الجزائر",EchoroukTV
 http://217.182.250.232:8081/echo/EchoroukTV/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sRpZfw" group-title="ALGERIEN قنوات الجزائر",alger 2+
 http://54.36.122.126/canal_algerie.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7ZAXp" group-title="LIBYA قنوات ليبيا",LIBYA قنوات ليبيا
 https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sQEUH9" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya 218
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sQEUH9" group-title="LIBYA قنوات ليبيا",LIB-Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3614VcQ" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya News
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3614VcQ" group-title="LIBYA قنوات ليبيا",LIB-Libya News
 https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iOOVA5" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya Alahrar
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iOOVA5" group-title="LIBYA قنوات ليبيا",LIB-Libya Alahrar
 https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mdx7SX" group-title="LIBYA قنوات ليبيا",AR:LIB-Libya Channel
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mdx7SX" group-title="LIBYA قنوات ليبيا",LIB-Libya Channel
 https://master.starmena-cloud.com/hls/libyas.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3XlSw" group-title="LIBYA قنوات ليبيا",AR:LIB-JAMAHIRIA-TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3XlSw" group-title="LIBYA قنوات ليبيا",LIB-JAMAHIRIA-TV
 https://master.starmena-cloud.com/hls/jam.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39Ug5Bs" group-title="LIBYA قنوات ليبيا",AR:LIB-AL HADATH HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39Ug5Bs" group-title="LIBYA قنوات ليبيا",LIB-AL HADATH HD
 https://master.starmena-cloud.com/hls/hd.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c2A6YZ" group-title="LIBYA قنوات ليبيا",Libya Al akhbaria
 http://82.212.74.2:8000/live/7321.m3u8
@@ -1011,7 +1011,7 @@ http://82.212.74.2:8000/live/7321.m3u8
 http://livedroos.com:8080/live/Libyah-Mostaqbal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NvFQjV" group-title="LIBYA قنوات ليبيا",قناه السلام
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367Zgls" group-title="LIBYA قنوات ليبيا",AR:LIB-ابناء البلد
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/367Zgls" group-title="LIBYA قنوات ليبيا",LIB-ابناء البلد
 https://master.starmena-cloud.com/hls/abna.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qWDRDR" group-title="SUDAN قنوات السودان",SUDAN قنوات السودان
 https://bit.ly/39YjahM
@@ -1043,27 +1043,27 @@ https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeem
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pa5msJ" group-title="قنوات الكويت Kuwait",Kuwait TV
 https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="قنوات الكويت Kuwait",AR:Kuwait 1 TV FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o5cqWx" group-title="قنوات الكويت Kuwait",Kuwait 1 TV FHD
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="قنوات الكويت Kuwait",AR:Kuwait 2 TV FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y3xp14" group-title="قنوات الكويت Kuwait",Kuwait 2 TV FHD
 https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="قنوات الكويت Kuwait",AR:kuwait ETHRAA FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pbS1Ae" group-title="قنوات الكويت Kuwait",kuwait ETHRAA FHD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364MUKV" group-title="قنوات الكويت Kuwait",AR:Kuwait AL Arabi TV FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364MUKV" group-title="قنوات الكويت Kuwait",Kuwait AL Arabi TV FHD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3Sfpy" group-title="قنوات الكويت Kuwait",AR:Kuwait AL Majlis TV FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c3Sfpy" group-title="قنوات الكويت Kuwait",Kuwait AL Majlis TV FHD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Nv96Y7" group-title="قنوات الكويت Kuwait",Al Qurain TV FHD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="قنوات الكويت Kuwait",AR:kuwait S.plus FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="قنوات الكويت Kuwait",kuwait S.plus FHD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="قنوات الكويت Kuwait",KTV Sport Plus FHD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NpD7bD" group-title="قنوات الكويت Kuwait",AR:kuwait Kids FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NpD7bD" group-title="قنوات الكويت Kuwait",kuwait Kids FHD
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="قنوات الكويت Kuwait",AR:Kuwait Alrai TV FHD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="قنوات الكويت Kuwait",Kuwait Alrai TV FHD
 https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="قنوات الكويت Kuwait",AR:Kuwait Alrai TV +
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qPL20x" group-title="قنوات الكويت Kuwait",Kuwait Alrai TV +
 http://stream02.fasttelco.net/live/_definst_/alrai.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KEJiaN" group-title="قنوات الكويت Kuwait",FUNOON
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
@@ -1076,31 +1076,31 @@ http://31.14.40.102:8006/MarinaFM%2090.4.mp3
 
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qIXyi7" group-title="قنوات البحرين Bahrain",Bahrain TV
 https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4UxVw" group-title="قنوات البحرين Bahrain",AR:Bahrain Quran
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c4UxVw" group-title="قنوات البحرين Bahrain",Bahrain Quran
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oa3lMb" group-title="قنوات البحرين Bahrain",AR:Bahrain TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oa3lMb" group-title="قنوات البحرين Bahrain",Bahrain TV
 http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39WDp1h" group-title="قنوات البحرين Bahrain",AR:Bahrain Lawal
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39WDp1h" group-title="قنوات البحرين Bahrain",Bahrain Lawal
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Lawal_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6q15i" group-title="قنوات البحرين Bahrain",AR:Bahrain International
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y6q15i" group-title="قنوات البحرين Bahrain",Bahrain International
 http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iJZdBh" group-title="قنوات البحرين Bahrain",AR:Bahrain Sports 1
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iJZdBh" group-title="قنوات البحرين Bahrain",Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ocNpsi" group-title="قنوات البحرين Bahrain",AR:Bahrain Sports 2
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ocNpsi" group-title="قنوات البحرين Bahrain",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/CDFmBuklHqU/maxresdefault.jpg" group-title="قنوات سلطنة عمان Oman",Oman TV
 https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHoD2n" group-title="قنوات سلطنة عمان Oman",AR:Oman TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHoD2n" group-title="قنوات سلطنة عمان Oman",Oman TV
 http://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4xWQr" group-title="قنوات سلطنة عمان Oman",AR:Oman Mubasher
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y4xWQr" group-title="قنوات سلطنة عمان Oman",Oman Mubasher
 http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KIL1Mq" group-title="قنوات سلطنة عمان Oman",AR:Oman AListiqama TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KIL1Mq" group-title="قنوات سلطنة عمان Oman",Oman AListiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOMnq4" group-title="قنوات سلطنة عمان Oman",AR:Oman Sport TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOMnq4" group-title="قنوات سلطنة عمان Oman",Oman Sport TV
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sLpJPk" group-title="قنوات السعودية Saudi-Arabia",Saudi-Arabia tv
 https://bit.ly/39YjahM
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-THIKRAYAT HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qBLAqC" group-title="قنوات السعودية Saudi-Arabia",SAU-THIKRAYAT HD
 https://iptv--iptv.repl.co/Arabic/Zikrayat/
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="قنوات السعودية Saudi-Arabia",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
@@ -1118,11 +1118,11 @@ https://iptv--iptv.repl.co/Arabic/SBC/
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="قنوات السعودية Saudi-Arabia",Iqraa Europe Africa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHpCj5" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Noble TV HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iHpCj5" group-title="قنوات السعودية Saudi-Arabia",SAU-Noble TV HD
 https://5d39f1ab8ba65.streamlock.net:1935/arabic-/arabic-/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363QnJz" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-22 TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363QnJz" group-title="قنوات السعودية Saudi-Arabia",SAU-22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pdVAWH" group-title="قنوات السعودية Saudi-Arabia",AR:SAU-Saudi Quran HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pdVAWH" group-title="قنوات السعودية Saudi-Arabia",SAU-Saudi Quran HD
 https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Md9nOO" group-title="قنوات السعودية Saudi-Arabia",مكة TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist.m3u8
@@ -1136,29 +1136,29 @@ https://bit.ly/39YjahM
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qHZJ5r" group-title="قنوات الامارات EMIRATES",Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c41Cp9" group-title="قنوات الامارات EMIRATES",AR:DUB-NOOR DUBAI HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c41Cp9" group-title="قنوات الامارات EMIRATES",DUB-NOOR DUBAI HD
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c34Bhz" group-title="قنوات الامارات EMIRATES",Sama Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2KKES2k" group-title="قنوات الامارات EMIRATES",Dubai Zaman
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sS0oDA" group-title="قنوات الامارات EMIRATES",AR:DUB-DUBAI Racing
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sS0oDA" group-title="قنوات الامارات EMIRATES",DUB-DUBAI Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o7p4nW" group-title="قنوات الامارات EMIRATES",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o99VCv" group-title="قنوات الامارات EMIRATES",Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o8TlCE" group-title="قنوات الامارات EMIRATES",AR:DUB-AL Emarat HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3o8TlCE" group-title="قنوات الامارات EMIRATES",DUB-AL Emarat HD
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qJob6K" group-title="قنوات الامارات EMIRATES",AR:sharqiya from kalba
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qJob6K" group-title="قنوات الامارات EMIRATES",sharqiya from kalba
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Y7xq48" group-title="قنوات الامارات EMIRATES",AL Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="قنوات الامارات EMIRATES",AR:DUB-ALAN HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="قنوات الامارات EMIRATES",DUB-ALAN HD
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="قنوات الامارات EMIRATES",AR:DUB-Al Wousta HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qOOAQB" group-title="قنوات الامارات EMIRATES",DUB-Al Wousta HD
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="قنوات الامارات EMIRATES",AR:DUB-Aldafrahtv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3c1ZT3J" group-title="قنوات الامارات EMIRATES",DUB-Aldafrahtv
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="قنوات الامارات EMIRATES",Citruss TV
 http://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
@@ -1918,15 +1918,15 @@ http://95.170.215.118/1/EnglishMovies/2004/TheLionKing-Ar-Srt.mp4
 http://95.170.215.118/1/EnglishMovies/2003/TheJungleBook2-Ar-Srt.mp4
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",AR Serenity
 http://95.170.215.118/1/EnglishMovies/2019/Serenity-Ar-Srt.mp4
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",AR: قطط زواد
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال", قطط زواد
 https://ustream2.panet.co.il//197/197650/197650.mp4/chunk.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",AR: عائلة روبسوس
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال", عائلة روبسوس
 https://ustream2.panet.co.il//200/200156/200156.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",AR:الجميلة النائمة
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",الجميلة النائمة
 https://ustream2.panet.co.il//197/197643/197643.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",AR: Astro Boy
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال", Astro Boy
 https://ustream2.panet.co.il//169/169304/169304.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",AR:سنافر
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",سنافر
 https://ustream2.panet.co.il//77/77262/77262.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",AR:سنافر ++
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LPYN0e" group-title="افلام اطفال",سنافر ++
 https://www.ostora-tv.com/live/20831835/1544487/70134
