@@ -761,7 +761,7 @@ https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b7248
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_3.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn-radiotime-logos.tunein.com/s257050q.png" group-title="قنوات روتانا ROTANA",ROTANA TARAB HD
 http://188.247.86.67:8008/3
-#EXTINF:-1 tvg-id="ext"tvg-name=""tvg-id=""tvg-name="MUS:AR-RADIO ROTANA"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
 http://188.247.86.67:8002/3
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="قنوات روتانا ROTANA",Rotana Cinema (الدقة التلقائية)
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
