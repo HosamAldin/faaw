@@ -781,23 +781,23 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="قنوات روتانا ROTANA",Rotana+ (الدقة التلقائية)
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd+VPN
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd (اتصالVPN)
 https://hiplayer.hibridcdn.net/p/rotana-lbc
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9e/Alresala-tv.jpg" group-title="قنوات روتانا ROTANA",Al Resalah+VPN
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9e/Alresala-tv.jpg" group-title="قنوات روتانا ROTANA",Al Resalah (اتصالVPN)
 https://hiplayer.hibridcdn.net/p/rotana-risala
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy+VPN
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy (اتصالVPN)
 https://hiplayer.hibridcdn.net/p/rotana-comedy
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids+VPN
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids (اتصالVPN)
 https://hiplayer.hibridcdn.net/p/rotana-kids
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema (اتصالVPN)
 https://hiplayer.hibridcdn.net/p/rotana-cinema
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic (اتصالVPN)
 https://hiplayer.hibridcdn.net/p/rotana-classical
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama (اتصالVPN)
 https://hiplayer.hibridcdn.net/p/rotana-drama
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya (اتصالVPN)
 https://hiplayer.hibridcdn.net/p/rotana-khaleejiya
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music (اتصالVPN)
 https://rotana.hibridmedia.com/rotana/music_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/2121.jpg" group-title="Syria قنوات سورية",Syria قنوات سورية
 https://bit.ly/39YjahM
@@ -811,67 +811,67 @@ https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Bg52GiG.png" group-title="Syria قنوات سورية",SYR-SAMA SYRIA
 http://stream.sama-tv.net:8080/hls/samatv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1300_1.png" group-title="Syria قنوات سورية",SYR-DRAMA TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2NIix6r" group-title="Syria قنوات سورية",SYR-DRAMA TV
 http://82.137.248.16:1935/Drama/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria قنوات سورية",SYR-SYRIA AL AOULA
 http://82.137.248.16:1935/Sat/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/Dy2Eo33.png" group-title="Syria قنوات سورية",SYR-NOUR ELSHAM
 http://82.137.248.16:1935/Nour/stream10112020/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://sy.heytv.org/wp-content/uploads/2019/04/Sham-FM-TV-webtvonlive.com_.jpg" group-title="Syria قنوات سورية",SYR-SHAM.FM TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36u42K8" group-title="Syria قنوات سورية",SYR-SHAM.FM TV
 http://5.39.218.151:8400/;
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eR8QSEt.png" group-title="Syria قنوات سورية",SYR-SOURYANA
 http://82.137.248.16:1935/Souryana/stream10112020/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/6KUtkKz.png" group-title="Syria قنوات سورية",SYR-AL EKHBARIYA
 http://.alikhbaria.net:1935/Snews/stream10112020/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81kH%2ByywZoL._SY355_.png" group-title="Syria قنوات سورية",SYR-ORIENT.NEWS
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3owL4ZD" group-title="Syria قنوات سورية",SYR-ORIENT.NEWS
 https://svs.itworkscdn.net/orientradiolive/orlive/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/xBcBG2z.png" group-title="Syria قنوات سورية",SYR-HALAB TODAY
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/816930125103198208/-Sv8c7HE.jpg" group-title="Syria قنوات سورية",SYR- راديو مرح
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3j32tId" group-title="Syria قنوات سورية",SYR- راديو مرح
 http://radio.farah.fm:8015/
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/Gqt7a-y2tRc/hqdefault.jpg" group-title="Syria قنوات سورية",SYR- RAmwajLive FM
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3red5a5" group-title="Syria قنوات سورية",SYR- RAmwajLive FM
 http://82.137.248.16:1935/RAmwaj/RAmwajLive/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="Syria قنوات سورية",All TV
 http://185.96.70.242:1935/live/alltv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="Syria قنوات سورية",SYR-EL TARBAOUIA
 http://82.137.248.16:1935/SEdu/stream10112020/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/MNsSa8k-F8U/hqdefault.jpg" group-title="LEBANON قنوات لبنان",LEBANON قنوات لبنان
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rffNMB" group-title="LEBANON قنوات لبنان",LEBANON قنوات لبنان
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext" group-title="LEBANON قنوات لبنان",النسخة المدفوعة AirMax TV
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="LEBANON قنوات لبنان",LBN-ldc lebanon (الدقة التلقائية)
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON قنوات لبنان",Tele Liban
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YxzvqA" group-title="LEBANON قنوات لبنان",Tele Liban
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://alittihad.tv/assets/images/logo.png" group-title="LEBANON قنوات لبنان",Al Ittihad
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="LEBANON قنوات لبنان",Al Ittihad
 https://live.alittihad.tv/ittihad/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",OTV (1080p)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tuR16" group-title="LEBANON قنوات لبنان",OTV (1080p)
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tvseventeen.com/img/logo.png" group-title="LEBANON قنوات لبنان",TV Seventeen
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="LEBANON قنوات لبنان",TV Seventeen
 https://cdn.tvseventeen.com/_tv_seventeen/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.u-news.net/themes/publication_1/theme_1/_img/logoimg.png" group-title="LEBANON قنوات لبنان",Unews
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yypoli" group-title="LEBANON قنوات لبنان",Unews
 http://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg" group-title="LEBANON قنوات لبنان",Newv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3oBT0Zi" group-title="LEBANON قنوات لبنان",Newv
 https://master.starmena-cloud.com/hls/newv.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="LEBANON قنوات لبنان",LBN-Future TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36wrHJT" group-title="LEBANON قنوات لبنان",LBN-Future TV
 https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="LEBANON قنوات لبنان",Al Manar
 https://manar.live/iptv/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-al-iman-tv-5506.jpg" group-title="LEBANON قنوات لبنان",LBN- AL-IMAN-TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2MLitCk" group-title="LEBANON قنوات لبنان",LBN- AL-IMAN-TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON قنوات لبنان",LBN-AL Mayadeen
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3r6LK9E" group-title="LEBANON قنوات لبنان",LBN-AL Mayadeen
 http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/459248903678750720/xUF8G-pA_400x400.jpeg" group-title="LEBANON قنوات لبنان",LBN-ALAAN HD
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3qI1eRh" group-title="LEBANON قنوات لبنان",LBN-ALAAN HD
 https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="LEBANON قنوات لبنان",3eeshalaan
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Mcmyjp" group-title="LEBANON قنوات لبنان",3eeshalaan
 https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://watchfomny.tv/Video/Lebanon/Radio-moyen-orient-canada/radio.gif" group-title="LEBANON قنوات لبنان",LBN-ALWIFAK TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2YzJjQC" group-title="LEBANON قنوات لبنان",LBN-ALWIFAK TV
 https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="LEBANON قنوات لبنان",Nabaa TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3ajldz3" group-title="LEBANON قنوات لبنان",Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://tvtolive.com/wp-content/uploads/Assirat-TV.tvtolive.com_.jpg" group-title="LEBANON قنوات لبنان",Assirat TV
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3jgfbDH" group-title="LEBANON قنوات لبنان",Assirat TV
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://arabicagroup.tv/images/logo.png" group-title="LEBANON قنوات لبنان",Arabica Music
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3am3ozp" group-title="LEBANON قنوات لبنان",Arabica Music
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="PALESTINE قنوات فلسطين",PALESTINE قنوات فلسيطين
 https://bit.ly/39YjahM
@@ -879,7 +879,7 @@ https://bit.ly/39YjahM
 https://bit.ly/34ooolI
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3iEkdtc" group-title="PALESTINE قنوات فلسطين",AlFajer 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="http://www.wbn.ps/assets/images/logo.png" group-title="PALESTINE قنوات فلسطين", Watar tv
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36xb7K2" group-title="PALESTINE قنوات فلسطين", Watar tv
 http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36817Xs" group-title="PALESTINE قنوات فلسطين",PAL-AlQuds
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
