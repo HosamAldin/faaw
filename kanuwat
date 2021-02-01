@@ -782,9 +782,9 @@ https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b7248
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="قنوات روتانا ROTANA",Rotana+ (الدقة التلقائية)
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd+VPN
-https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_dabr/chunks.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-lbc
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9e/Alresala-tv.jpg" group-title="قنوات روتانا ROTANA",Al Resalah+VPN
-https://rotananet.hibridcdn.net/rotana/risala/rotana/risala_dabr/chunks.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-risala
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy+VPN
 https://hiplayer.hibridcdn.net/p/rotana-comedy
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids+VPN
