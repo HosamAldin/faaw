@@ -557,6 +557,8 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="قنوات أطفال Children",BEIN :beIN Boomerang HD
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.masralyoum.net/content/uploads/2019/10/02/84a928c48c.jpg" group-title="قنوات أطفال Children",AR Majid_Kids HD
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="قنوات أطفال Children",Taha TV (360p)
+https://media2.livaat.com/TAHA-TV/index.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="قنوات أطفال Children",abn 3
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/New_Tiny_Pop_Logo_2018.png" group-title="قنوات أطفال Children",Tiny Pop (UK)
@@ -843,6 +845,8 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://alittihad.tv/assets/images/logo.png" group-title="LEBANON قنوات لبنان",Al Ittihad
 https://live.alittihad.tv/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="LEBANON قنوات لبنان",OTV (1080p)
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.tvseventeen.com/img/logo.png" group-title="LEBANON قنوات لبنان",TV Seventeen
 https://cdn.tvseventeen.com/_tv_seventeen/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="http://www.u-news.net/themes/publication_1/theme_1/_img/logoimg.png" group-title="LEBANON قنوات لبنان",Unews
@@ -867,6 +871,8 @@ https://eu8.fastcast4u.com/proxy/ctnqrwln?mp=/1
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://tvtolive.com/wp-content/uploads/Assirat-TV.tvtolive.com_.jpg" group-title="LEBANON قنوات لبنان",Assirat TV
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="http://arabicagroup.tv/images/logo.png" group-title="LEBANON قنوات لبنان",Arabica Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3654oGM" group-title="PALESTINE قنوات فلسطين",PALESTINE قنوات فلسيطين
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext" group-title="PALESTINE قنوات فلسطين",النسخة المدفوعة AirMax TV
@@ -962,7 +968,7 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39TWfpL" group-title="قنوات العراق IRAQ",IRQ-AL Maaref
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3608DDF" group-title="قنوات العراق IRAQ",IRQ-Babylon
-https://iqlivestream.com/babylontv/kardokardo.m3u8
+https://iqlivestream.com/babylontv/babylonlivestream.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/363S5dX" group-title="قنوات العراق IRAQ",IRQ-Imam Hussein TV 2
 http://ar.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LZOCpM" group-title="قنوات العراق IRAQ",Zagros
