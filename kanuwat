@@ -744,28 +744,24 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 http://188.247.86.67:8008/3
 #EXTINF:-1 tvg-id="ext"tvg-name=""tvg-id=""tvg-name="MUS:AR-RADIO ROTANA"tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aPEyXy7va7.png" group-title="قنوات روتانا ROTANA",MUS:AR-RADIO ROTANA
 http://188.247.86.67:8002/3
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd+VPN
+https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9e/Alresala-tv.jpg" group-title="قنوات روتانا ROTANA",Al Resalah+VPN
+https://rotananet.hibridcdn.net/rotana/risala/rotana/risala_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy+VPN
+https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids+VPN
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema
 https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
 https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy
-https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama
-https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids
-https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
+https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
 https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music
 https://rotana.hibridmedia.com/rotana/music_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd
-https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd+
-https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd++
-https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_360p/chunks.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9e/Alresala-tv.jpg" group-title="قنوات روتانا ROTANA",Al Resalah
-https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/2121.jpg" group-title="Syria قنوات سورية",Syria قنوات سورية
 https://bit.ly/39YjahM
 #EXTINF:-1 tvg-id="ext" group-title="Syria قنوات سورية",النسخة المدفوعة AirMax TV
