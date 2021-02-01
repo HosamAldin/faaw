@@ -760,6 +760,10 @@ https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
 https://rotana.hibridmedia.com/rotana/music_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd+
+https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="قنوات روتانا ROTANA",Rotana Lbchd++
+https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9e/Alresala-tv.jpg" group-title="قنوات روتانا ROTANA",Al Resalah
 https://rotana.hibridmedia.com/rotana/risala_dabr/rotana/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/2121.jpg" group-title="Syria قنوات سورية",Syria قنوات سورية
