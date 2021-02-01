@@ -863,8 +863,10 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2L69BXD" group-title="LEBANON قنوات لبنان",Al Ittihad SD
 https://live.alittihad.tv/ittihad/index.m3u8
-#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tuR16" group-title="LEBANON قنوات لبنان",OTV (1080p)
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tuR16" group-title="LEBANON قنوات لبنان",OTV (الدقة التلقائية)
 https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/36tuR16" group-title="LEBANON قنوات لبنان",OTV SD
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/otvlive_480p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3pG9TDG" group-title="LEBANON قنوات لبنان",TV Seventeen SD
 https://cdn.tvseventeen.com/_tv_seventeen/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2Yypoli" group-title="LEBANON قنوات لبنان",Unews SD
