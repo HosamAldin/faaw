@@ -786,17 +786,17 @@ https://rotananet.hibridcdn.net/rotana/lbc_abr/rotana/lbc_dabr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9e/Alresala-tv.jpg" group-title="قنوات روتانا ROTANA",Al Resalah+VPN
 https://rotananet.hibridcdn.net/rotana/risala/rotana/risala_dabr/chunks.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="قنوات روتانا ROTANA",Rotana Comedy+VPN
-https://rotananet.hibridcdn.net/rotana/comedy_abr/rotana/comedy_dabr/chunks.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-comedy
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" group-title="قنوات روتانا ROTANA",Rotana Kids+VPN
-https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_dabr/chunks.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-kids
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="قنوات روتانا ROTANA",Rotana Cinema
-https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-cinema
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaClassic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Classic
-https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-classical
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="قنوات روتانا ROTANA",Rotana Drama
-https://rotananet.hibridcdn.net/rotana/drama_abr/rotana/drama/chunks.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-drama
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaKhalijiah.eg.png" group-title="قنوات روتانا ROTANA",Rotana Khaleejiya
-https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-khaleejiya
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://static.epg.best/eg/RotanaMusic.eg.png" group-title="قنوات روتانا ROTANA",Rotana Music
 https://rotana.hibridmedia.com/rotana/music_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ext"tvg-logo="https://www.ksaon.com/wp-content/uploads/2020/04/2121.jpg" group-title="Syria قنوات سورية",Syria قنوات سورية
